@@ -5,7 +5,11 @@
       "id": "mossgrass-biscuit",
       "name": "Mossgrass Biscuit",
       "iconName": "equip_food_1",
+<<<<<<< HEAD
+      "description": "Récupère 25 + 0.8% PV chaque seconde pendant 30s.\nLe soin s'interrompt en subissant des dégâts JcJ",
+=======
       "description": "Recovers 25 + 0.8% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "food",
       "rarity": "common"
     },
@@ -13,7 +17,11 @@
       "id": "spicy-lizard-stew",
       "name": "Spicy Lizard Stew",
       "iconName": "equip_food_2",
+<<<<<<< HEAD
+      "description": "Récupère 40 + 1% PV chaque seconde pendant 30s.\nLe soin s'interrompt en subissant des dégâts JcJ",
+=======
       "description": "Recovers 40 + 1% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "food",
       "rarity": "uncommon"
     },
@@ -21,7 +29,11 @@
       "id": "sandcrystal-crab-pot",
       "name": "Sandcrystal Crab Pot",
       "iconName": "equip_food_3",
+<<<<<<< HEAD
+      "description": "Récupère 100 + 1.4% PV chaque seconde pendant 30s.\nLe soin s'interrompt en subissant des dégâts JcJ",
+=======
       "description": "Recovers 100 + 1.4% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "food",
       "rarity": "rare"
     },
@@ -29,7 +41,11 @@
       "id": "horseshoe-crab-teppanyaki",
       "name": "Horseshoe Crab Teppanyaki",
       "iconName": "equip_food_4",
+<<<<<<< HEAD
+      "description": "Récupère 180 + 1.7% PV chaque seconde pendant 30s.\nLe soin s'interrompt en subissant des dégâts JcJ",
+=======
       "description": "Recovers 180 + 1.7% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "food",
       "rarity": "epic"
     },
@@ -37,9 +53,17 @@
       "id": "fire-eater-feast",
       "name": "Fire-Eater Feast",
       "iconName": "equip_food_5",
+<<<<<<< HEAD
+      "description": "Récupère 300 + 2% PV chaque seconde pendant 30s.\nLe soin s'interrompt en subissant des dégâts JcJ",
+=======
       "description": "Recovers 300 + 2% HP every second for 30s.\nHealing interrupts on taking PvP damage",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "food",
       "rarity": "legendary"
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02

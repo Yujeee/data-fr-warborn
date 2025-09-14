@@ -5,7 +5,11 @@
       "id": "paratoxin",
       "name": "Paratoxin",
       "iconName": "equip_medicine_2_1",
+<<<<<<< HEAD
+      "description": "La cible subit \n[Taux de Dégâts: 90%] dégâts fixes (si un joueur) ou \n[Taux de Dégâts: 180%] dégâts fixes (si un monstre) chaque seconde pendant 9s (ne déclenche pas les effets de dégâts ou ne reçoit pas d'améliorations de compétence/dégâts), suivi de Réduit la Vitesse de Déplacement de 40%, l'effet de Ralentissement diminue sur 6s",
+=======
       "description": "The target takes \n[Damage Rate: 90%] fixed damage (if a player) or \n[Damage Rate: 180%] fixed damage (if a mob) every second for 9s (does not trigger on-damage effects or receive skill/damage boosts), followed by Reduces Movement Speed by 40%, Slow effect diminishes over 6s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "poison",
       "rarity": "common"
     },
@@ -13,7 +17,11 @@
       "id": "enhanced-paratoxin",
       "name": "Enhanced Paratoxin",
       "iconName": "equip_medicine_2_2",
+<<<<<<< HEAD
+      "description": "La cible subit \n[Taux de Dégâts: 120%] dégâts fixes (si un joueur) ou \n[Taux de Dégâts: 240%] dégâts fixes (si un monstre) chaque seconde pendant 9s (ne déclenche pas les effets de dégâts ou ne reçoit pas d'améliorations de compétence/dégâts), suivi de Réduit la Vitesse de Déplacement de 60%, l'effet de Ralentissement diminue sur 6s",
+=======
       "description": "The target takes \n[Damage Rate: 120%] fixed damage (if a player) or \n[Damage Rate: 240%] fixed damage (if a mob) every second for 9s (does not trigger on-damage effects or receive skill/damage boosts), followed by Reduces Movement Speed by 60%, Slow effect diminishes over 6s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "poison",
       "rarity": "enhanced"
     },
@@ -21,9 +29,17 @@
       "id": "advanced-paratoxin",
       "name": "Advanced Paratoxin",
       "iconName": "equip_medicine_2_3",
+<<<<<<< HEAD
+      "description": "La cible subit \n[Taux de Dégâts: 180%] dégâts fixes (si un joueur) ou \n[Taux de Dégâts: 360%] dégâts fixes (si un monstre) chaque seconde pendant 9s (ne déclenche pas les effets de dégâts ou ne reçoit pas d'améliorations de compétence/dégâts), suivi de Réduit la Vitesse de Déplacement de 80%, l'effet de Ralentissement diminue sur 6s",
+=======
       "description": "The target takes \n[Damage Rate: 180%] fixed damage (if a player) or \n[Damage Rate: 360%] fixed damage (if a mob) every second for 9s (does not trigger on-damage effects or receive skill/damage boosts), followed by Reduces Movement Speed by 80%, Slow effect diminishes over 6s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "poison",
       "rarity": "advanced"
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02

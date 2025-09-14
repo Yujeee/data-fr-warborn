@@ -9,7 +9,11 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
+<<<<<<< HEAD
+      "description": "Quand on lance des compétences, augmente les Dégâts Magiques infligés de 20% pendant 6s Intervalle de Déclenchement: 30s",
+=======
       "description": "When casting skills, increases Magic Damage dealt by 20% for 6s Trigger Interval: 30s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -26,7 +30,11 @@
       "cooldown": "20",
       "castingRange": "",
       "type": "passive",
+<<<<<<< HEAD
+      "description": "Quand on soigne, accorde à la cible un  \n[PV Max basé sur la cible 20%] bouclier pendant 6s Intervalle de Déclenchement: 20s",
+=======
       "description": "When healing, grants target a  \n[Target-based Max HP 20%] shield for 6s Trigger Interval: 20s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -43,7 +51,11 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
+<<<<<<< HEAD
+      "description": "Quand la compétence inflige des dégâts à une cible ennemie, elle déclenche une explosion à leur emplacement, infligeant  \n[Taux de Dégâts: 180%] Dégâts Magiques aux ennemis à portée et réduisant leurs soins reçus de 25% pendant 6s. Intervalle de Déclenchement: 25s.",
+=======
       "description": "When the skill damages an enemy target, it triggers an explosion at their location, dealing  \n[Damage Rate: 180%] Magic Damage to enemies in range and reducing their healing received by 25% for 6s. Trigger Interval: 25s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -60,7 +72,11 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
+<<<<<<< HEAD
+      "description": "Quand les compétences infligent des dégâts directs, crée une zone de poison\nd'une durée de 6s. Les ennemis dans un rayon de 5m subissent \n[Taux de Dégâts: 25%]\nDégâts Magiques chaque seconde et voient leur Résistance\nMagique réduite de 20%.\nIntervalle de Déclenchement: 30s",
+=======
       "description": "When skills deal direct damage, creates a poison zone\nlasting 6s. Enemies within 5m take \n[Damage Rate: 25%]\nMagic Damage every second and have their Magic\nResistance reduced by 20%.\nTrigger Interval: 30s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -77,7 +93,11 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
+<<<<<<< HEAD
+      "description": "Quand on lance des compétences avec les PM en dessous de 40%, gagne 10 PM\nchaque seconde pendant 8s.\nIntervalle de Déclenchement: 45s",
+=======
       "description": "When casting skills with MP below 40%, gains 10 MP\nevery second for 8s.\nTrigger Interval: 45s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -94,7 +114,11 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
+<<<<<<< HEAD
+      "description": "Quand on subit des dégâts en dessous de 40% de PV, gagne un\n[PV Max basé sur la cible 25%] bouclier et génère un\nchamp de répulsion d'une durée de 6s. Les ennemis touchant le champ subissent\nTaux de Dégâts: 100%] Dégâts Magiques et sont repoussés\nde 7m.\nIntervalle de Déclenchement: 45s",
+=======
       "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -111,7 +135,11 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
+<<<<<<< HEAD
+      "description": "Quand les dégâts subis dans les 3s dépassent 35% des PV max,\ncrée une vague de soin qui restaure \n[Taux de Soin: 200%]\nPV aux alliés proches et supprime les effets de contrôle.\nIntervalle de Déclenchement: 45s",
+=======
       "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores \n[Healing Rate: 200%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -121,4 +149,8 @@
       }
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02

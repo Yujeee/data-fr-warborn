@@ -7,7 +7,11 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
+<<<<<<< HEAD
+    "description": "Gagne 1 cumul d'Armure Naturelle toutes les 5s, se cumulant jusqu'à 4 fois. Chaque cumul augmente la Résistance aux Dégâts de 8%. 1 cumul est perdu pour chaque instance de dégâts subis."
+=======
     "description": "Gains 1 stack of Natural Armor every 5s, stacking up to 4 times. Each stack increases Damage Resistance by 8%. 1 stack is lost for each instance of damage taken."
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
   },
   "basicAttacks": [
     {
@@ -17,7 +21,11 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
+<<<<<<< HEAD
+      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 80%] Dégâts Magiques. Lance une [Graine Maléfique] après 5 Attaques de Base.\nLance une Graine Maléfique à l'emplacement ciblé, créant une\nzone d'épines qui dure 5s. La zone inflige \n[Taux de Dégâts: 40%] Dégâts Magiques chaque seconde à jusqu'à 5 ennemis et\nrédit leur Vitesse de Déplacement de 25%.",
+=======
       "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Magic Damage. Throws an [Evil Seed] after 5 Basic Attacks.\nThrows an Evil Seed at the target location, creating a\nthorn zone that lasts 5s. The zone deals \n[Damage Rate: 40%] Magic Damage every second to up to 5 enemies and\nreduces their Movement Speed by 25%.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2"
     },
     {
@@ -27,7 +35,11 @@
       "cooldown": "1.4",
       "castingRange": "16",
       "type": "basic",
+<<<<<<< HEAD
+      "description": "Les Attaques de Base deviennent [Brume Apaisante].\nLibère de la Brume Apaisante dans la direction ciblée, infligeant \n[Taux de Dégâts: 70%] Dégâts Magiques aux ennemis touchés, tout en\nappliquant 1 cumul de [Récupération] aux alliés.\n[Récupération]: Restaure des PV chaque seconde pendant 12s, se cumulant jusqu'à\n3 fois.\nRécupération de PV à 1 | 2 | 3 cumuls: \n[Taux de Soin: 10%] | \n[Taux de Soin: 15%] | \n[Taux de Soin: 20%]",
+=======
       "description": "Basic Attacks become [Soothing Mist].\nReleases Soothing Mist in the target direction, dealing \n[Damage Rate: 70%] Magic Damage to enemies hit, while\napplying 1 stack of [Recovery] to allies.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "4"
     },
     {
@@ -37,7 +49,11 @@
       "cooldown": "2.3",
       "castingRange": "14",
       "type": "basic",
+<<<<<<< HEAD
+      "description": "Les Attaques de Base deviennent [Graine de Soin].\nLance une graine de soin à l'emplacement ciblé qui fleurit,\nsoignant les alliés proches pour \n[Taux de Soin: 55%] PV et\nappliquant 1 cumul de [Récupération]\n[Récupération]: Restaure des PV chaque seconde pendant 12s, se cumulant jusqu'à\n3 fois.\nRécupération de PV à 1 | 2 | 3 cumuls: \n[Taux de Soin: 10%] | \n[Taux de Soin: 15%] | \n[Taux de Soin: 20%]",
+=======
       "description": "Basic Attacks become [Healing Seed].\nThrows a healing seed at the target location that blooms,\nhealing nearby allies for \n[Healing Rate: 55%] HP and\napplying 1 stack of [Recovery]\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +65,11 @@
       "cooldown": "14",
       "castingRange": "12",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Après un bref délai, crée une zone d'enchevêtrement d'une durée de 4s.\nInflige \n[Taux de Dégâts: 90%] Dégâts Magiques chaque seconde\net immobilise les ennemis qui entrent pendant 1.5s.",
+=======
       "description": "After a brief delay, creates an entangling zone lasting 4s.\nDeals \n[Damage Rate: 90%] Magic Damage every second\nand immobilizes enemies that enter for 1.5s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1"
     },
     {
@@ -59,7 +79,11 @@
       "cooldown": "14",
       "castingRange": "8",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Crée une aura énergisante autour du lanceur, d'une durée de 5s.\nRestaure \n[Taux de Soin: 39%] PV et 12 PM chaque seconde\nà jusqu'à 10 alliés proches.",
+=======
       "description": "Creates an energizing aura around the caster, lasting 5s.\nRestores \n[Healing Rate: 39%] HP and 12 MP every second\nto up to 10 nearby allies.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "3"
     },
     {
@@ -69,7 +93,11 @@
       "cooldown": "14",
       "castingRange": "8",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Applique des Graines de Vitalité à jusqu'à 5 alliés proches, soignant pour \n[Taux de Soin: 80%] PV et appliquant 1 cumul de\n[Récupération].\nLes Graines de Vitalité augmentent la Vitesse d'Incantation de 40% et\nla Vitesse d'Attaque de 25% pendant 6s.\n[Récupération]: Restaure des PV chaque seconde pendant 12s, se cumulant jusqu'à\n3 fois\nRécupération de PV à 1 | 2 | 3 cumuls: \n[Taux de Soin: 10%] | \n[Taux de Soin: 15%] | \n[Taux de Soin: 20%]",
+=======
       "description": "Applies Vitality Seeds to up to 5 nearby allies, healing for \n[Healing Rate: 80%] HP and applying 1 stack of\n[Recovery].\nVitality Seeds increase Cast Speed by 40% and\nAttack Speed by 25% for 6s.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times\nHP recovery at 1 | 2 | 3 stacks: \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "5"
     },
     {
@@ -79,7 +107,11 @@
       "cooldown": "14",
       "castingRange": "14",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Libère de l'énergie restauratrice à l'emplacement ciblé, soignant\nles alliés. La quantité de soin augmente basée sur les cumuls\n[Récupération] de la cible.\nCumuls [Récupération]: 0|1 |2|3\nRécupère des PV: \n[Taux de Soin: 75%] | \n[Taux de Soin: 95%] | \n[Taux de Soin: 115%] | \n[Taux de Soin: 135%]",
+=======
       "description": "Releases restorative energy at the target location, healing\nallies. Healing amount increases based on target's\n[Recovery] stacks.\n[Recovery] stacks: 0|1 |2|3\nRecovers HP: \n[Healing Rate: 75%] | \n[Healing Rate: 95%] | \n[Healing Rate: 115%] | \n[Healing Rate: 135%]",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "8"
     },
     {
@@ -89,7 +121,11 @@
       "cooldown": "18",
       "castingRange": "14",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Purifie tous les Contrôles Durs (Étourdi, Peur, Gelé, Sursaut,\nPétrifié, Endormi), Silence, et 2 effets DoT sur le lanceur\net jusqu'à 20 alliés proches. Soigne aussi pour \n[Taux de Soin: 60%] PV, applique 1 cumul de [Récupération], et empêche les\n3 prochains effets de Contrôle Dur ou Silence. L'effet dure 4s.\nPeut être utilisé même quand les compétences sont désactivées.\n[Récupération]: Restaure des PV chaque seconde pendant 12s, se cumulant jusqu'à\n3 fois.\nRécupération de PV à 1 | 2 | 3 cumuls \n[Taux de Soin: 10%] | \n[Taux de Soin: 15%] | \n[Taux de Soin: 20%]",
+=======
       "description": "Cleanses all Hard Control (Stun, Fear, Freeze, Knockup,\nPetrify, Sleep), Silence, and 2 DoT effects on the caster\nand up to 20 nearby allies. Also heals for \n[Healing Rate: 60%] HP, applies 1 stack of [Recovery], and prevents the\nnext 3 Hard Control or Silence effects. The effect lasts 4s.\nCan be used while skills are disabled.\n[Recovery]: Restores HP every second for 12s, stacking up\nto 3 times.\nHP recovery at 1 | 2 | 3 stacks \n[Healing Rate: 10%] | \n[Healing Rate: 15%] | \n[Healing Rate: 20%]",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "7"
     }
   ],
@@ -102,7 +138,11 @@
       "cooldown": "18",
       "castingRange": "12",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Crée 3 explosions dans la zone ciblée. Chaque explosion\ninflige \n[Taux de Dégâts: 100%] Dégâts Magiques aux joueurs\n(\n[Taux de Dégâts: 200%] Dégâts Magiques aux mobs). Le\nlanceur est soigné pour \n[Taux de Soin: 60%] PV si au moins un\nennemi est touché.",
+=======
       "description": "Creates 3 explosions in the target area. Each explosion\ndeals \n[Damage Rate: 100%] Magic Damage to players\n(\n[Damage Rate: 200%] Magic Damage to mobs). The\ncaster is healed for \n[Healing Rate: 60%] HP if at least one\nenemy is hit.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -118,7 +158,11 @@
       "cooldown": "18",
       "castingRange": "8",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Accorde la Barrière d'Épines à jusqu'à 5 alliés proches.\nLa Barrière d'Épines augmente la Résistance aux Dégâts de 20%, la Vitesse d'Incantation de 40% et\nla Vitesse d'Attaque de 25% pendant 6s.\nQuand on subit des dégâts directs, récupère \n[Taux de Soin: 55%]\nPV jusqu'à 6 fois; ralentit aussi l'attaquant de 25% pendant 3s.",
+=======
       "description": "Grants Thorn Barrier to up to 5 nearby allies.\nThorn Barrier increases Damage Resistance by 20%, Cast Speed by 40% and\nAttack Speed by 25% for 6s.\nWhen taking direct damage, recovers \n[Healing Rate: 55%]\nHP up to 6 times; also Slows the attacker by 25% for 3s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -134,7 +178,11 @@
       "cooldown": "23",
       "castingRange": "12",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Crée une Pluie de Sérénité à l'emplacement ciblé pendant 8s.\nLes alliés dans la pluie gagnent 25% de Résistance aux Dégâts et\nrécupèrent \n[Taux de Soin: 25%] PV chaque seconde.\n Inflige \n[Taux de Dégâts: 50%] Dégâts Magiques aux ennemis dans le champ chaque 1 seconde",
+=======
       "description": "Creates a Rain of Serenity at the target location for 8s.\nAllies in the rain gain 25% Damage Resistance and\nrecover \n[Healing Rate: 25%] HP every second.\n Deals \n[Damage Rate: 50%] Magic Damage to enemies in the field every 1 second",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -150,7 +198,11 @@
       "cooldown": "4.6",
       "castingRange": "12",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Crée une aura de Floraison de Soin. Les alliés à l'intérieur gagnent 15%\nde soins augmentés. Consomme 3 PM chaque seconde pour\nrestaurer \n[Taux de Soin: 20%] PV aux alliés proches",
+=======
       "description": "Creates a Healing Bloom aura. Allies within gain 15%\nincreased healing. Consumes 3 MP every second to\nrestore \n[Healing Rate: 20%] HP to nearby allies",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -166,7 +218,11 @@
       "cooldown": "18",
       "castingRange": "16",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Lance des Vers de Racine dans la direction ciblée. Au\ncontact d'une cible ennemie, il rebondira vers d'autres cibles\nennemies dans un rayon de 7 mètres jusqu'à 9 fois. Chaque cible peut être\ntouchée un maximum de 3 fois.\nChaque coup inflige \n[Taux de Dégâts: 120%] Dégâts Magiques\nÉtourdit la cible pendant 1s, et réduit les dégâts infligés de 20% pendant 9s.",
+=======
       "description": "Launches Root Worms in the target direction. Upon\nhitting an enemy target, it will bounce to other enemy\ntargets within 7 meters up to 9 times. Each target can be\nhit a maximum of 3 times.\nEach hit deals \n[Damage Rate: 120%] Magic Damage\nStuns the target for 1s, and reduces damage dealt by 20% for 9s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -182,7 +238,11 @@
       "cooldown": "23",
       "castingRange": "24",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Soigne tous les alliés touchés pour \n[Taux de Soin: 100%], purifiant tous\nles effets de contrôle et 5 cumuls DoT. Accorde aussi l'immunité aux\nDoTs et augmente les soins reçus de 35% pendant 6s.",
+=======
       "description": "Heals all allies hit for \n[Healing Rate: 100%], cleansing all\ncontrol effects and 5 DoT stacks. Also grants immunity to\nDoTs and increases healing received by 35% for 6s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -198,7 +258,11 @@
       "cooldown": "46",
       "castingRange": "14",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Plante une Chute de Racine Divine qui dure 20s. Après 1s, l'arbre\nmûrit et restaure \n[Taux de Soin: 20%] PV chaque\nseconde aux alliés proches. Quand les ennemis lancent des compétences à\nportée, il tire des graines de sommeil qui infligent \n[Taux de Dégâts: 200%] Dégâts Magiques et causent Sommeil pendant 2.5s. L'arbre est détruit après avoir subi 10 coups d'Attaque de Base",
+=======
       "description": "Plants a Divine Rootfall that lasts 20s. After 1s, the tree\nmatures and restores \n[Healing Rate: 20%] HP every\nsecond to nearby allies. When enemies cast skills in\nrange, it shoots sleep seeds that deal \n[Damage Rate: 200%] Magic Damage and inflict Sleep for 2.5s. The tree is destroyed after taking 10 Basic Attack hits",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -214,7 +278,11 @@
       "cooldown": "19",
       "castingRange": "14",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Injecte une toxine naturelle dans la cible, infligeant \n[Taux de Dégâts: 80%] Dégâts Magiques chaque seconde tout en réduisant\nla Vitesse d'Attaque de 30% et la Vitesse de Déplacement de 30% pendant 4s. La durée de la toxine se rafraîchit si le lanceur inflige des dégâts à l'ennemi avec une compétence d'arme",
+=======
       "description": "Injects a natural toxin into the target, dealing \n[Damage Rate: 80%] Magic Damage every second while reducing\nAttack Speed by 30% and Movement Speed by 30% for 4s. The toxin's duration refreshes if the caster damages the enemy with a weapon skill",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -223,4 +291,8 @@
       }
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02

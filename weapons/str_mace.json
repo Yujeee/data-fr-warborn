@@ -7,7 +7,11 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
+<<<<<<< HEAD
+    "description": "Utiliser une compétence d'arme augmente la Résistance aux Dégâts de 30% et la Résistance au Contrôle de 35 pendant 6s."
+=======
     "description": "Using a weapon skill increases Damage Resistance by 30% and Control Resistance by 35 for 6s."
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
   },
   "basicAttacks": [
     {
@@ -17,7 +21,11 @@
       "cooldown": "1.2",
       "castingRange": "5",
       "type": "basic",
+<<<<<<< HEAD
+      "description": "[Attaque de Base]: Inflige \n[Taux de Dégâts: 120%] Dégâts Physiques à la cible ennemie. Peut lancer [Balancement] toutes les 4s. Inflige \n[Taux de Dégâts: 240%] Dégâts Physiques à tous les joueurs (\n[Taux de Dégâts: 480%] Dégâts Physiques aux mobs) dans un cône frontal.",
+=======
       "description": "[Basic Attack]: Deals \n[Damage Rate: 120%] Physical Damage to enemy target. Can cast [Swing] every 4s. Deals \n[Damage Rate: 240%] Physical Damage to all players (\n[Damage Rate: 480%] Physical Damage to mobs) in a frontal cone.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2"
     },
     {
@@ -27,7 +35,11 @@
       "cooldown": "1.2",
       "castingRange": "3.5",
       "type": "basic",
+<<<<<<< HEAD
+      "description": "[Attaque de Base]: Inflige \n[Taux de Dégâts: 120%] Dégâts Physiques à la cible ennemie. Peut lancer [Écrasement] toutes les 7s. Inflige \n[Taux de Dégâts: 150%] Dégâts Physiques aux ennemis à portée et restaure \n[Taux de Soin: 75%] PV à jusqu'à 5 alliés proches. Augmente la Résistance aux Dégâts de 15% pendant 6s.",
+=======
       "description": "[Basic Attack]: Deals \n[Damage Rate: 120%] Physical Damage to enemy target. Can cast [Smash] every 7s. Deals \n[Damage Rate: 150%] Physical Damage to enemies in range and restores \n[Healing Rate: 75%] HP to up to 5 nearby allies. Increases Damage Resistance by 15% for 6s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "4"
     },
     {
@@ -37,7 +49,11 @@
       "cooldown": "1.2",
       "castingRange": "7",
       "type": "basic",
+<<<<<<< HEAD
+      "description": "[Attaque de Base]: Inflige \n[Taux de Dégâts: 120%] Dégâts Physiques à la cible ennemie. Peut lancer [Écrasement Écrasant] toutes les 6s. Charge vers la cible, infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques aux ennemis à portée et causant 35% de Ralentissement pendant 3s.",
+=======
       "description": "[Basic Attack]: Deals \n[Damage Rate: 120%] Physical Damage to enemy target. Can cast [Crushing Smash] every 6s. Charges toward target, dealing \n[Damage Rate: 160%] Physical Damage to enemies in range and inflicting Slow 35% for 3s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +65,11 @@
       "cooldown": "8.6",
       "castingRange": "3",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Écrase le sol 4 fois. Les trois premiers coups infligent \n[Taux de Dégâts: 120%] Dégâts Physiques aux joueurs (\n[Taux de Dégâts: 180%] Dégâts Physiques aux mobs). Le coup final inflige \n[Taux de Dégâts: 200%] Dégâts Physiques aux joueurs (\n[Taux de Dégâts: 300%] Dégâts Physiques aux mobs) et fait Sursauter pendant 0.5s.",
+=======
       "description": "Smashes the ground 4 times. The first three hits deal \n[Damage Rate: 120%] Physical Damage to players (\n[Damage Rate: 180%] Physical Damage to mobs). The final hit deals \n[Damage Rate: 200%] Physical Damage to players (\n[Damage Rate: 300%] Physical Damage to mobs) and Knocks Up for 0.5s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "1"
     },
     {
@@ -59,7 +79,11 @@
       "cooldown": "14",
       "castingRange": "10",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques et causant l'Immobilisation pendant 2.5s aux ennemis dans la zone.",
+=======
       "description": "Leaps to the target location, dealing \n[Damage Rate: 200%] Physical Damage and inflicting Immobilize for 2.5s to enemies in the area.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "3"
     },
     {
@@ -69,7 +93,11 @@
       "cooldown": "9.6",
       "castingRange": "12",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Crée un Champ de Gardien à l'emplacement ciblé qui augmente les PV Max des alliés de 25% et accorde l'Immunité au Mouvement Forcé (Traction, Repoussement) et au Contrôle Dur (Étourdi, Peur, Gelé, Sursaut, Pétrifié, Endormi). Dure 5s.",
+=======
       "description": "Creates a Guardian Field at the target location that increases allies' Max HP by 25% and grants Immunity to Forced Movement (Pull, Knockback) and Hard Control (Stun, Fear, Freeze, Knockup, Petrify, Sleep). Lasts 5s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "5"
     },
     {
@@ -79,7 +107,11 @@
       "cooldown": "8.6",
       "castingRange": "4",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Inflige \n[Taux de Dégâts: 200%] Dégâts Magiques aux ennemis à portée et crée un Champ de Silence, d'une durée de 4s. Les ennemis dans le champ sont Ralentis de 25% et réduits au Silence. Une fois qu'ils quittent la zone, ils deviennent immunisés au Silence du champ pendant 6s.",
+=======
       "description": "Deals \n[Damage Rate: 200%] Magic Damage to enemies in range and creates a Field of Silence, lasting 4s. Enemies in the field are Slowed by 25% and Silenced. Once they leave the area, they become immune to the field's Silence for 6s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "7"
     },
     {
@@ -89,7 +121,11 @@
       "cooldown": "14",
       "castingRange": "9",
       "type": "common",
+<<<<<<< HEAD
+      "description": "Applique [Tonnerre Vengeur] au lanceur ou à une cible alliée. [Tonnerre Vengeur]: Augmente la Résistance aux Dégâts de 25% pendant 8s. Quand on subit des dégâts ou qu'on inflige des Dégâts d'Attaque de Base, fait tomber la foudre à l'emplacement ciblé, infligeant \n[Taux de Dégâts: 51%] Dégâts Physiques. (Rechargement: 0.8s)",
+=======
       "description": "Applies [Vengeful Thunder] to the caster or an allied target. [Vengeful Thunder]: Increases Damage Resistance by 25% for 8s. When taking damage or dealing Basic Attack Damage, calls down lightning at the target location, dealing \n[Damage Rate: 51%] Physical Damage. (Cooldown: 0.8s)",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "8"
     }
   ],
@@ -102,7 +138,11 @@
       "cooldown": "19",
       "castingRange": "10",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de Dégâts: 250%] Dégâts Physiques à tous les joueurs (\n[Taux de Dégâts: 375%] Dégâts Physiques aux mobs) à portée. Accorde  \n[PV Max basé sur la cible 6%] Bouclier pour chaque ennemi touché, d'une durée de 6s. Se cumule jusqu'à 5 fois.",
+=======
       "description": "Leaps to the target location, dealing \n[Damage Rate: 250%] Physical Damage to all players (\n[Damage Rate: 375%] Physical Damage to mobs) in range. Grants  \n[Target-based Max HP 6%] Shield for each enemy hit, lasting 6s. Stacks up to 5 times.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -121,7 +161,11 @@
       "cooldown": "24",
       "castingRange": "4",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Maintenir pour charger jusqu'à 3s. La zone de dégâts grandit avec le temps de charge, atteignant la taille max à 2s. Ne peut pas être interrompu pendant la charge. Inflige \n[Taux de Dégâts: 80%] Dégâts Physiques aux ennemis à portée chaque 0.5s pendant la charge. Quand relâché à charge max, Tire les ennemis vers le lanceur, inflige \n[Taux de Dégâts: 250%] Dégâts Physiques et applique 40% de Ralentissement pendant 3s. Aux cumuls de Charge plus bas, inflige seulement des dégâts et ralentit.",
+=======
       "description": "Hold to charge up to 3s. Damage area grows with charge time, reaching max size at 2s. Cannot be interrupted while charging. Deals \n[Damage Rate: 80%] Physical Damage to enemies in range every 0.5s during charge. When released at max charge, Pulls enemies to the caster, deals \n[Damage Rate: 250%] Physical Damage and applies Slow 40% for 3s. At lower Charge stacks, only deals damage and slows.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -140,7 +184,11 @@
       "cooldown": "24",
       "castingRange": "6",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Frappe le sol pour infliger \n[Taux de Dégâts: 300%] Dégâts Magiques aux ennemis proches, dissiper tous les buffs, réduire leurs dégâts infligés de 50% pendant 8s, et causer Silence pendant 3s. Cibles max affectées: 15.",
+=======
       "description": "Slams the ground to deal \n[Damage Rate: 300%] Magic Damage to nearby enemies, dispel all buffs, reduce their damage dealt by 50% for 8s, and inflict Silence for 3s. Max targets affected: 15.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -159,7 +207,11 @@
       "cooldown": "17",
       "castingRange": "18",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Lance un crochet mécanique vers l'avant. Le premier ennemi touché est Étourdi (ignore la Résistance au Contrôle) pendant 1.5s, subit \n[Taux de Dégâts: 450%] Dégâts Physiques, et est Tiré vers le lanceur.",
+=======
       "description": "Launches a mechanical hook forward. The first enemy hit is Stunned (ignores Control Resistance) for 1.5s, takes \n[Damage Rate: 450%] Physical Damage, and is Pulled to the caster.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -178,7 +230,11 @@
       "cooldown": "19",
       "castingRange": "3",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Lève un bouclier pendant 20s, gagnant l'immunité au contrôle, +50% de Résistance aux Dégâts, et une zone de coup augmentée. Peut réactiver pour infliger \n[Taux de Dégâts: 300%] Dégâts Physiques et causer 50% de Ralentissement pendant 3s. Le bouclier se brise après avoir subi  \n[PV Max basé sur la cible 30%] de dégâts, terminant cet état amélioré.",
+=======
       "description": "Raises shield for 20s, gaining control immunity, +50% Damage Resistance, and an increased hit area. Can reactivate to deal \n[Damage Rate: 300%] Physical Damage and inflict 50% Slow for 3s. Shield breaks after taking  \n[Target-based Max HP 30%] damage, ending this enhanced state.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -197,7 +253,11 @@
       "cooldown": "28",
       "castingRange": "20",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Tire deux projectiles lourds qui créent un vortex de gravité où ils se rencontrent. Les ennemis dans le vortex sont Ralentis de 25%. Inflige \n[Taux de Dégâts: 300%] Dégâts Magiques aux ennemis dans le vortex après 1.5s, les tirant vers le centre et les Étourdissant pendant 1s.",
+=======
       "description": "Fires two heavy rounds that create a gravity vortex where they meet. Enemies in the vortex are Slowed by 25%. Deals \n[Damage Rate: 300%] Magic Damage to enemies in the vortex after 1.5s, pulling them to the center and Stunning for 1s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -216,7 +276,11 @@
       "cooldown": "24",
       "castingRange": "12",
       "type": "skill",
+<<<<<<< HEAD
+      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques et causant 1.5s de Sursaut aux ennemis. Crée un champ d'orage qui dure 6s. Les ennemis dans un rayon de 7m voient leur Résistance aux Dégâts réduite de 15% et subissent \n[Taux de Dégâts: 70%] Dégâts Physiques chaque seconde.",
+=======
       "description": "Leaps to the target location, dealing \n[Damage Rate: 200%] Physical Damage and inflicting 1.5s Knockup on enemies. Creates a thunderstorm field that lasts 6s. Enemies within 7m have their Damage Resistance reduced by 15% and take \n[Damage Rate: 70%] Physical Damage every second.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -245,4 +309,8 @@
       }
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02

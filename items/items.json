@@ -3,210 +3,330 @@
     {
       "id": "wood",
       "name": "Wood",
+<<<<<<< HEAD
+      "description": "Obtenu des arbres. Raffiné en matériaux utilisables à la Raffinerie de Ressources puis transporté vers votre Driftmark de Guerre pour être remis contre Contribution de Faction et Médailles de Guerre. Une ressource vitale pour toutes les Guerres",
+=======
       "description": "Obtained from trees. Refined into workable materials at the Resource Refinery and then transported to your Warband Driftmark to hand in for Faction Contribution and Warband Medals. A vital resource for all Warbands",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "resource",
       "rarity": "common"
     },
     {
       "id": "scrap-part",
       "name": "Scrap Part",
+<<<<<<< HEAD
+      "description": "Obtenu des épaves de ferraille. Raffiné en matériaux utilisables à la Raffinerie de Ressources puis transporté vers votre Driftmark de Guerre pour être remis contre Contribution de Faction et Médailles de Guerre. Une ressource vitale pour toutes les Guerres",
+=======
       "description": "Obtained from scrap wreckages. Refined into workable materials at the Resource Refinery and then transported to your Warband Driftmark to hand in for Faction Contribution and Warband Medals. A vital resource for all Warbands",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "resource",
       "rarity": "common"
     },
     {
       "id": "biological-genes",
       "name": "Biological Genes",
+<<<<<<< HEAD
+      "description": "Obtenu des animaux. Raffiné en matériaux utilisables à la Raffinerie de Ressources puis transporté vers votre Driftmark de Guerre pour être remis contre Contribution de Faction et Médailles de Guerre. Une ressource vitale pour toutes les Guerres",
+=======
       "description": "Obtained from animals. Refined into workable materials at the Resource Refinery and then transported to your Warband Driftmark to hand in for Faction Contribution and Warband Medals. A vital resource for all Warbands",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "resource",
       "rarity": "common"
     },
     {
       "id": "cutting-plate",
       "name": "Cutting Plate",
+<<<<<<< HEAD
+      "description": "Ressource de Guerre obtenue en raffinant [Bois]. Peut être soumise au Driftmark de Guerre, et peut être transportée du Driftmark de Guerre vers la Fonderie pour créer des structures importantes",
+=======
       "description": "Warband resource obtained by refining [Wood]. Can be submitted to Warband Driftmark, and can be transported from Warband Driftmark to Foundry to create important structures",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-material",
       "rarity": "common"
     },
     {
       "id": "refined-part",
       "name": "Refined Part",
+<<<<<<< HEAD
+      "description": "Ressource de Guerre obtenue en raffinant [Pièces de Ferraille]. Peut être soumise au Driftmark de Guerre, et peut être transportée du Driftmark de Guerre vers la Fonderie pour créer des structures importantes",
+=======
       "description": "Warband resource obtained by refining [Scrap Parts]. Can be submitted to Warband Driftmark, and can be transported from Warband Driftmark to Foundry to create important structures",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-material",
       "rarity": "common"
     },
     {
       "id": "pure-biological-genes",
       "name": "Pure Biological Genes",
+<<<<<<< HEAD
+      "description": "Ressource de Guerre obtenue en raffinant [Gènes Biologiques]. Peut être soumise au Driftmark de Guerre, et peut être transportée du Driftmark de Guerre vers la Fonderie pour créer des structures importantes",
+=======
       "description": "Warband resource obtained by refining [Biological Genes]. Can be submitted to Warband Driftmark, and can be transported from Warband Driftmark to Foundry to create important structures",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-material",
       "rarity": "common"
     },
     {
       "id": "resin",
       "name": "Resin",
+<<<<<<< HEAD
+      "description": "Obtenu des arbres. Utilisé pour créer toutes sortes d'objets utiles au Dépôt d'Approvisionnement, Constructeur de Siège, ou Fabricateur de votre Driftmark",
+=======
       "description": "Obtained from trees. Used to create all manner of useful items at your Driftmark's Supply Depot, Siege Constructor, or Fabricator",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-material",
       "rarity": "common"
     },
     {
       "id": "scrap-iron",
       "name": "Scrap Iron",
+<<<<<<< HEAD
+      "description": "Obtenu des épaves de ferraille. Utilisé pour créer toutes sortes d'objets utiles au Dépôt d'Approvisionnement, Constructeur de Siège, ou Fabricateur de votre Driftmark",
+=======
       "description": "Obtained from scrap wreckages. Used to create all manner of useful items at your Driftmark's Supply Depot, Siege Constructor, or Fabricator",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-material",
       "rarity": "common"
     },
     {
       "id": "protein",
       "name": "Protein",
+<<<<<<< HEAD
+      "description": "Obtenu des animaux. Utilisé pour créer toutes sortes d'objets utiles au Dépôt d'Approvisionnement, Constructeur de Siège, ou Fabricateur de votre Driftmark",
+=======
       "description": "Obtained from animals. Used to create all manner of useful items at your Driftmark's Supply Depot, Siege Constructor, or Fabricator",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-material",
       "rarity": "common"
     },
     {
       "id": "pure-blood",
       "name": "Pure Blood",
+<<<<<<< HEAD
+      "description": "Obtenu des animaux. Utilisé pour créer toutes sortes d'objets utiles au Dépôt d'Approvisionnement, Constructeur de Siège, ou Fabricateur de votre Driftmark",
+=======
       "description": "Obtained from animals. Used to create all manner of useful items at your Driftmark's Supply Depot, Siege Constructor, or Fabricator",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-material",
       "rarity": "uncommon"
     },
     {
       "id": "golden-deer-blood",
       "name": "Golden Deer Blood",
+<<<<<<< HEAD
+      "description": "Sang du Roi Cerf Doré. Peut être vendu contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Blood from the Golden Deer King. Can be sold for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "valuable",
       "rarity": "rare"
     },
     {
       "id": "pure-golden-deer-blood",
       "name": "Pure Golden Deer Blood",
+<<<<<<< HEAD
+      "description": "Une ressource incroyablement rare. Susceptible d'obtenir un prix élevé à la Maison de Commerce",
+=======
       "description": "An incredibly rare resource. Likely fetches a high price at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "valuable",
       "rarity": "legendary"
     },
     {
       "id": "crimson-dinosaur-blood",
       "name": "Crimson Dinosaur Blood",
+<<<<<<< HEAD
+      "description": "Sang d'un Dinosaure Carmin. Peut être vendu contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Blood from a Crimson Dinosaur. Can be sold for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "valuable",
       "rarity": "rare"
     },
     {
       "id": "pure-crimson-dinosaur-blood",
       "name": "Pure Crimson Dinosaur Blood",
+<<<<<<< HEAD
+      "description": "Une ressource incroyablement rare. Susceptible d'obtenir un prix élevé à la Maison de Commerce",
+=======
       "description": "An incredibly rare resource. Likely fetches a high price at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "valuable",
       "rarity": "legendary"
     },
     {
       "id": "drifter-endurance-supplement",
       "name": "Drifter Endurance Supplement",
+<<<<<<< HEAD
+      "description": "Utilisé au Pod de Drifter pour restaurer 20 d'endurance à un Drifter.",
+=======
       "description": "Used at the Drifter Pod to replenish 20 endurance to a Drifter.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "utility",
       "rarity": "common"
     },
     {
       "id": "common-toxincoil",
       "name": "Common Toxincoil",
+<<<<<<< HEAD
+      "description": "Fournitures de survie pour le peuple commun d'ATHAS, échangeables contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Survival supplies for the common folk of ATHAS, exchangeable for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "uncommon-toxincoil",
       "name": "Uncommon Toxincoil",
+<<<<<<< HEAD
+      "description": "Fournitures de survie pour le peuple commun d'ATHAS, échangeables contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Survival supplies for the common folk of ATHAS, exchangeable for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "uncommon"
     },
     {
       "id": "rare-toxincoil",
       "name": "Rare Toxincoil",
+<<<<<<< HEAD
+      "description": "Fournitures de survie pour le peuple commun d'ATHAS, échangeables contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Survival supplies for the common folk of ATHAS, exchangeable for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "rare"
     },
     {
       "id": "epic-toxincoil",
       "name": "Epic Toxincoil",
+<<<<<<< HEAD
+      "description": "Fournitures de survie pour le peuple commun d'ATHAS, échangeables contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Survival supplies for the common folk of ATHAS, exchangeable for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "epic"
     },
     {
       "id": "legendary-toxincoil",
       "name": "Legendary Toxincoil",
+<<<<<<< HEAD
+      "description": "Fournitures de survie pour le peuple commun d'ATHAS, échangeables contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Survival supplies for the common folk of ATHAS, exchangeable for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "legendary"
     },
     {
       "id": "abandoned-toxincoil",
       "name": "Abandoned Toxincoil",
+<<<<<<< HEAD
+      "description": "Fournitures de survie pour le peuple commun d'ATHAS, échangeables contre des Jetons de Chute d'Étoile à la Maison de Commerce",
+=======
       "description": "Survival supplies for the common folk of ATHAS, exchangeable for Starfall Tokens at the Trading House",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "abandoned"
     },
     {
       "id": "basic-fire-eater-trap-activator",
       "name": "Basic Fire-Eater Trap Activator",
+<<<<<<< HEAD
+      "description": "Matériau essentiel pour attirer les Mangeurs de Feu (Niveaux V à VI), qui accordent une expérience abondante quand ils sont tués ! Emplacement: Piège Mangeur de Feu ",
+=======
       "description": "Essential material for attracting Fire Eaters (Tiers V to VI), which grant plentiful experience when slain! Location: Fire-Eater Trap ",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "trap-component",
       "rarity": "common"
     },
     {
       "id": "advanced-fire-eater-trap-activator",
       "name": "Advanced Fire-Eater Trap Activator",
+<<<<<<< HEAD
+      "description": "Matériau essentiel pour attirer les Mangeurs de Feu (Niveaux VII à XI), qui accordent une expérience abondante quand ils sont tués ! Emplacement: Piège Mangeur de Feu ",
+=======
       "description": "Essential material for attracting Fire Eaters (Tiers VII to XI), which grant plentiful experience when slain! Location: Fire-Eater Trap ",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "trap-component",
       "rarity": "advanced"
     },
     {
       "id": "echo-shard",
       "name": "Echo-Shard",
+<<<<<<< HEAD
+      "description": "Matériau essentiel pour explorer les Petites Failles (Niveaux IV à VI). Bien que les failles contiennent des ressources abondantes, explorez-les avec prudence car les joueurs d'autres factions peuvent attaquer ! Comment utiliser: Driftmark - Scanner de Faille",
+=======
       "description": "Essential material for exploring Small Rifts (Tiers IV to VI). While rifts contain abundant resources, explore them with caution as players of other factions may attack! How to use: Driftmark - Rift Scanner",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "exploration",
       "rarity": "common"
     },
     {
       "id": "advanced-echo-shard",
       "name": "Advanced Echo-Shard",
+<<<<<<< HEAD
+      "description": "Matériau essentiel pour explorer les Petites Failles (Niveaux VII à XI). Bien que les failles contiennent des ressources abondantes, explorez-les avec prudence car les joueurs d'autres factions peuvent attaquer ! Comment utiliser: Driftmark - Scanner de Faille ",
+=======
       "description": "Essential material for exploring Small Rifts (Tiers VII to XI). While rifts contain abundant resources, explore them with caution as players of other factions may attack! How to use: Driftmark - Rift Scanner ",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "exploration",
       "rarity": "advanced"
     },
     {
       "id": "driftmark-backup-power",
       "name": "Driftmark Backup Power",
+<<<<<<< HEAD
+      "description": "Restaure immédiatement 200 d'énergie de Driftmark à l'utilisation. L'Énergie de Driftmark est utilisée pour relocaliser les Driftmarks",
+=======
       "description": "Immediately restores 200 Driftmark energy on use. Driftmark Energy is used for relocating Driftmarks",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "utility",
       "rarity": "common"
     },
     {
       "id": "enhanced-equipment-charging",
       "name": "Enhanced Equipment Charging",
+<<<<<<< HEAD
+      "description": "Charge tous les objets équipés \nAugmente la Puissance de l'équipement de 40 pendant 30 minutes.\nL'équipement perd 30% de Durabilité quand l'effet se termine",
+=======
       "description": "Charges all equipped items \nBoosts equipment Power by 40 for 30 minutes.\nEquipment loses 30% Durability when effect ends",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "enhancement",
       "rarity": "enhanced"
     },
     {
       "id": "harvester-guardian-rune",
       "name": "Harvester Guardian Rune",
+<<<<<<< HEAD
+      "description": "Utiliser pour rendre les Gardiens Anciens ennemis (Gardiens de Hub de Récolte, Gardiens de Périmètre, etc.) dans un rayon de 50m Contrôlés par la commande de rune la plus élevée, devient paralysé pendant 30s; immunisé à cet effet pendant 180s",
+=======
       "description": "Use to make enemy Ancient Guardians (Harvester Hub Guardians, Perimeter Guardians, etc.) within 50m Controlled by highest rune command, becomes paralyzed for 30s; immune to this effect for 180s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "control",
       "rarity": "rare"
     },
     {
       "id": "driftmark-crisis-defense-module",
       "name": "Driftmark Crisis Defense Module",
+<<<<<<< HEAD
+      "description": "Utiliser pour accorder aux Driftmarks alliés dans cette scène la Défense de Driftmark, d'une durée de 120s. \n[Défense de Driftmark]\nRéduit les dégâts subis de 50%",
+=======
       "description": "Use to grant allied Driftmarks in this scene Driftmark Defense, lasting 120s. \n[Driftmark Defense]\nReduces damage taken by 50%",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "defense",
       "rarity": "rare"
     },
     {
       "id": "em-generator",
       "name": "EM Generator",
+<<<<<<< HEAD
+      "description": "Utiliser pour désactiver les Tourelles de Défense de Driftmark ennemies et accorder Augmente la Vitesse d'Attaque de 100% et réduit le coût de PM de 100% aux Tourelles de Défense de Driftmark alliées dans un rayon de 50m pendant 120s",
+=======
       "description": "Use to disable enemy Driftmark Defense Turrets and grant Increases Attack Speed by 100% and reduces MP cost by 100% to allied Driftmark Defense Turrets within 50m for 120s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "tactical",
       "rarity": "uncommon"
     },
@@ -214,112 +334,176 @@
     {
       "id": "field-repair-materials",
       "name": "Field Repair Materials",
+<<<<<<< HEAD
+      "description": "Matériau essentiel pour fusionner, réparer les véhicules Power Mech: Welder, structures et bâtiments défensifs",
+=======
       "description": "Essential material for melding, repairing Power Mech: Welder vehicles, structures and defensive buildings",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "repair",
       "rarity": "common"
     },
     {
       "id": "power-mech-welder",
       "name": "Power Mech: Welder",
+<<<<<<< HEAD
+      "description": "Invoque un puissant véhicule Power Mech: Welder",
+=======
       "description": "Summons a powerful  Power Mech: Welder vehicle",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "vehicle",
       "rarity": "rare"
     },
     {
       "id": "faction-change-card",
       "name": "Faction Change Card",
+<<<<<<< HEAD
+      "description": "Automatiquement dépensé lors du changement de faction, vous accordant un changement de faction gratuit tout en conservant 100% de Contribution de Faction",
+=======
       "description": "Automatically spent when switching factions, granting you a free faction change while retaining 100% Faction Contribution",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "utility",
       "rarity": "rare"
     },
     {
       "id": "mechanical-mount",
       "name": "Mechanical Mount",
+<<<<<<< HEAD
+      "description": "Accorde une Monture Mécanique aléatoire",
+=======
       "description": "Grants a random Mechanical Mount",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "mount",
       "rarity": "uncommon"
     },
     {
       "id": "war-horn",
       "name": "War Horn",
+<<<<<<< HEAD
+      "description": "Utiliser sur les cartes conquises par votre Faction. Déclarer la guerre sur le Hub de Récolte dans cette carte. Après une période de préparation de 6 heures, les membres de votre Guerre deviendront hostiles aux unités non-Guerre dans cette carte. Le Hub de Récolte peut être conquis pendant le Temps de Guerre.",
+=======
       "description": "Use on maps conquered by your Faction. Declare war on the Harvester Hub in this map. After a 6-hour preparation period, members of your Warband will become hostile to non-Warband units in this map. The Harvester Hub can be conquered during War Time.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "warfare",
       "rarity": "rare"
     },
     {
       "id": "truce-horn",
       "name": "Truce Horn",
+<<<<<<< HEAD
+      "description": "Utiliser sur la carte où la guerre est déclarée pour arrêter la déclaration.",
+=======
       "description": "Use on the map where war is declared to stop the declaration.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "warfare",
       "rarity": "rare"
     },
     {
       "id": "great-booster-kit",
       "name": "Great Booster Kit",
+<<<<<<< HEAD
+      "description": "Un Kit de Boost Majeur est disponible au Magasin de Rattrapage. Le kit vous amène au Niveau 30 de Maître Drift et votre Driftmark au niveau 7",
+=======
       "description": "A Great Booster Kit is available at the Catch-up Store. The kit takes you to Driftmaster Level 30 and your Driftmark to level 7",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "progression",
       "rarity": "legendary"
     },
     {
       "id": "active-exergy",
       "name": "Active Exergy",
+<<<<<<< HEAD
+      "description": "Peut être soumis à votre Guerre au Driftmark de Guerre en échange de Contribution de Faction et Médailles de Guerre, utilisé pour améliorer la technologie de Guerre et produire de puissantes armes de guerre",
+=======
       "description": "Can be submitted to your Warband at Warband Driftmark in return for Faction Contribution and Warband Medals, used for upgrading Warband technology and producing powerful weapons of war",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "juvenile-cannon-beast",
       "name": "Juvenile Cannon Beast",
+<<<<<<< HEAD
+      "description": "Remettre au Driftmark de Guerre pour recevoir Contribution de Faction et Médailles de Guerre. Ceux-ci peuvent être utilisés pour élever des Bêtes Canon dans le Fabricateur de Véhicules Bêtes au Driftmark de Guerre.",
+=======
       "description": "Hand in to the Warband Driftmark to receive Faction Contribution and Warband Medals. These can be used to breed Cannon Beasts in the Beast Vehicle Fabricator at the Warband Driftmark.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "beast",
       "rarity": "uncommon"
     },
     {
       "id": "juvenile-charge-beast",
       "name": "Juvenile Charge Beast",
+<<<<<<< HEAD
+      "description": "Remettre au Driftmark de Guerre pour recevoir Contribution de Faction et Médailles de Guerre. Ceux-ci peuvent être remis à votre Guerre. Utilisé pour élever des Bêtes de Charge au Fabricateur de Véhicules Bêtes du Driftmark de Guerre.",
+=======
       "description": "Hand in to the Warband Driftmark to receive Faction Contribution and Warband Medals. These can be handed in to your Warband. Used for breeding Charge Beasts at the Warband Driftmark's Beast Vehicle Fabricator.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "beast",
       "rarity": "uncommon"
     },
     {
       "id": "juvenile-behemoth",
       "name": "Juvenile Behemoth",
+<<<<<<< HEAD
+      "description": "Remettre au Driftmark de Guerre pour recevoir Contribution de Faction et Médailles de Guerre. Ceux-ci peuvent être utilisés pour élever de puissants Béhémoths au Fabricateur de Véhicules Bêtes du Driftmark de Guerre.",
+=======
       "description": "Hand in to the Warband Driftmark to receive Faction Contribution and Warband Medals. These can be used to breed mighty Behemoths at the Warband Driftmark's Beast Vehicle Fabricator.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "beast",
       "rarity": "rare"
     },
     {
       "id": "juvenile-warp-beast",
       "name": "Juvenile Warp Beast",
+<<<<<<< HEAD
+      "description": "Remettre au Driftmark de Guerre pour recevoir Contribution de Faction et Médailles de Guerre, qui peuvent être utilisés pour élever des Bêtes de Distorsion dans le Fabricateur de Véhicules Bêtes au Driftmark de Guerre.",
+=======
       "description": "Hand in to the Warband Driftmark to receive Faction Contribution and Warband Medals, which can be used to breed Warp Beasts in the Beast Vehicle Fabricator at the Warband Driftmark.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "beast",
       "rarity": "rare"
     },
     {
       "id": "juvenile-beast-generator",
       "name": "Juvenile Beast Generator",
+<<<<<<< HEAD
+      "description": "Accorde un Véhicule Bête de Guerre juvénile aléatoire",
+=======
       "description": "Grants a random juvenile Warband Beast Vehicle",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "generator",
       "rarity": "rare"
     },
     {
       "id": "core-engine",
       "name": "Core Engine",
+<<<<<<< HEAD
+      "description": "Un moteur rare et très précieux qui reste opérationnel. Peut être remis à votre Guerre au Driftmark de Guerre pour Contribution de Faction et Médailles de Guerre. Utilisé pour produire de grandes Armes de Siège au Fabricateur de Véhicules Mécaniques.",
+=======
       "description": "A rare and highly valuable engine that remains operational. Can be handed in to your Warband at the Warband Driftmark for Faction Contribution and Warband Medals. Used to produce large Siege Weapons at the Mechanical Vehicle Fabricator.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "engine",
       "rarity": "rare"
     },
     {
       "id": "nomad-post-kit",
       "name": "Nomad Post Kit",
+<<<<<<< HEAD
+      "description": "Crée un Poste Nomade pour mobilisation rapide, réparations d'équipement, Drifters, et accès au Bazar Souterrain (ne peut être déployé/stationné que sur territoire occupé)",
+=======
       "description": "Creates a Nomad Post for rapid mobilization, equipment repairs, Drifters, and access to the Underground Bazaar (can only be deployed/stationed in occupied territory)",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "uncommon"
     },
     {
       "id": "warband-building-upgrade-material",
       "name": "Warband Building Upgrade Material",
+<<<<<<< HEAD
+      "description": "Utilisé pour améliorer le Constructeur de Guerre et les structures de Défense Lourde. Produit dans la Fonderie",
+=======
       "description": "Used for upgrading the Warband Constructor and Heavy Defense structures. Produced in the Foundry",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "upgrade-material",
       "rarity": "common"
     },
@@ -327,203 +511,319 @@
     {
       "id": "t8-artificial-exergy-vein-kit",
       "name": "[T8] Artificial Exergy Vein Kit",
+<<<<<<< HEAD
+      "description": "Place une Veine d'Exergie de Guerre T8 avec une concentration plus élevée que les naturelles, augmentant l'efficacité minière de 20%. Disparaît quand épuisée. Seulement 1 veine de Guerre artificielle peut exister à la fois",
+=======
       "description": "Places a T8 Warband Exergy Vein with higher concentration than natural ones, boosting mining efficiency by 20%. Disappears when depleted. Only 1 artificial Warband vein can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "t10-artificial-exergy-vein-kit",
       "name": "[T10] Artificial Exergy Vein Kit",
+<<<<<<< HEAD
+      "description": "Place une Veine d'Exergie de Guerre T10 avec une concentration plus élevée que les naturelles, augmentant l'efficacité minière de 20%. Disparaît quand épuisée. Seulement 1 veine de Guerre artificielle peut exister à la fois",
+=======
       "description": "Places a T10 Warband Exergy Vein with higher concentration than natural ones, boosting mining efficiency by 20%. Disappears when depleted. Only 1 artificial Warband vein can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "epic"
     },
     {
       "id": "foundry-kit",
       "name": "Foundry Kit",
+<<<<<<< HEAD
+      "description": "Place une Fonderie, essentielle pour renforcer les Hubs de Récolte et construire diverses structures lourdes. Doit être construite près d'une Station d'Énergie. Seulement 1 peut exister à la fois",
+=======
       "description": "Places a Foundry, essential for reinforcing Harvester Hubs and building various heavy structures. Must be built near Power Station. Only 1 can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "exergy-refinery-kit",
       "name": "Exergy Refinery Kit",
+<<<<<<< HEAD
+      "description": "Place une Raffinerie d'Exergie qui extrait l'Exergie Active. Doit être construite près d'une Faille d'Exergie. Seulement 1 peut exister à la fois",
+=======
       "description": "Places an Exergy Refinery that extracts Active Exergy. Must be built near Exergy Rift. Only 1 can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "warband-deployment-nomad-post-kit",
       "name": "Warband Deployment Nomad Post Kit",
+<<<<<<< HEAD
+      "description": "Place un Poste Nomade de Déploiement de Guerre, permettant à tous les membres de Guerre de s'y mobiliser. Seulement 2 peuvent exister à la fois",
+=======
       "description": "Places a Warband Deployment Nomad Post, allowing all Warband members to mobilize there. Only 2 can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "hell-scourge-com-station-kit",
       "name": "Hell-Scourge Com-Station Kit",
+<<<<<<< HEAD
+      "description": "Place une Station de Communication Fléau de l'Enfer, permettant des frappes en orbite basse sur les cartes adjacentes. Seulement 1 peut exister à la fois\n--[Frappe Railgun]-- \nCanalise le railgun orbital pour bombarder continuellement l'emplacement ciblé pendant 120s. Toutes les 0.5s, inflige  \n[PV Max basé sur la cible 20%] Dégâts Physiques basés sur les PV Max aux ennemis dans un rayon de 12m et inflige Effondrement Quantique. Les bâtiments subissent \n[Taux de Dégâts: 600%] +  \n[Limite de Durabilité de Bâtiment basée sur la cible 0.4%] Durabilité Max en Dégâts de Siège. \nLe sol bombardé ne peut pas être construit pendant 2 jours \n[Effondrement Quantique]\nPV Max réduits de 5%, se cumule jusqu'à 10 fois, dure 1800s (L'effet persiste sur les monstres même après avoir quitté le combat)",
+=======
       "description": "Places a Hell-Scourge Com-Station, enabling low-orbit strikes on adjacent maps. Only 1 can exist at a time\n--[Railgun Strike]-- \nChannel orbital railgun to continuously bombard the target location for 120s. Every 0.5s, deals  \n[Target-based Max HP 20%] Physical Damage based on Max HP to enemies within 12m and inflicts Quantum Collapse. Buildings take \n[Damage Rate: 600%] +  \n[Target-based Building Durability Cap 0.4%] Max Durability as Siege Damage. \nBombarded ground cannot be built on for 2 days \n[Quantum Collapse]\nMax HP reduced by 5%, stacks up to 10 times, lasts 1800s (Effect persists on mobs even after leaving combat)",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "legendary"
     },
     {
       "id": "advanced-outpost-sentry-bot-kit",
       "name": "Advanced Outpost Sentry Bot Kit",
+<<<<<<< HEAD
+      "description": "Place un Bot de Sentinelle de Guerre Avancé pour patrouiller et attaquer les ennemis proches. Jusqu'à 3 peuvent exister à la fois.\nNe peut pas être placé dans la Veine de Feu, Mines Souterraines, ou autres Cartes d'Instance",
+=======
       "description": "Places a Advanced Warband Sentry Bot to patrol and attack nearby enemies. Up to 3 can exist at a time.\nCannot be placed in Fire Vein, Underground Mines, or other Instance Maps",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "top-tier-battle-group-watchtower-kit",
       "name": "Top-tier Battle Group Watchtower Kit",
+<<<<<<< HEAD
+      "description": "Place un Robot de Sentinelle d'Unité de Combat de Premier Niveau qui patrouille une large zone et attaque les ennemis. Jusqu'à 3 peuvent exister à la fois.\nNe peut pas être placé dans les Cavernes de Veine de Feu, Puits de Mine Souterrains, ou autres cartes de donjon.",
+=======
       "description": "Places a Top-tier Combat Unit Sentry Robot that patrols a wide area and attacks enemies. Up to 3 can exist at a time.\nCannot be placed in Firevein Caverns, Underground Mine Shafts, or other dungeon maps.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "epic"
     },
     {
       "id": "warband-harvester-node-kit",
       "name": "Warband Harvester Node Kit",
+<<<<<<< HEAD
+      "description": "Place un Nœud de Récolte de Guerre, accordant à la Guerre le droit d'attaquer et d'occuper les Hubs de Récolte sur la carte. Seulement 1 peut exister à la fois.\nRestreint aux niveaux d'Anneau de Marche Profonde",
+=======
       "description": "Places a Warband Harvester Node, granting the Warband the right to attack and occupy Harvester Hubs on the map. Only 1 can exist at a time.\nRestricted to Deepmarch Ring levels",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "warning-sign-kit",
       "name": "Warning Sign Kit",
+<<<<<<< HEAD
+      "description": "Place un Panneau d'Avertissement avec un message. Seulement 3 peuvent exister à la fois",
+=======
       "description": "Places a Warning Sign with a message. Only 3 can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "common"
     },
     {
       "id": "mod-core",
       "name": "MOD Core",
+<<<<<<< HEAD
+      "description": "Permet la création de MODs à la Machine MOD.\nLa Machine MOD peut être trouvée au Bazar Souterrain et nécessite le Niveau 30 de Maître Drift pour être utilisée.",
+=======
       "description": "Enables the creation of MODs at the MOD Machine.\nThe MOD Machine can be found at the Underground Bazaar and requires Driftmaster Level 30 to use.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-component",
       "rarity": "rare"
     },
     {
       "id": "mod-calibrator",
       "name": "MOD Calibrator",
+<<<<<<< HEAD
+      "description": "Utilisé pour réinitialiser la puissance des MODs légendaires",
+=======
       "description": "Used to reset the power of legendary MODs",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "utility",
       "rarity": "rare"
     },
     {
       "id": "starfall-tokens",
       "name": "Starfall Tokens",
+<<<<<<< HEAD
+      "description": "Utilisé pour construire des Driftmarks, rechercher des technologies, produire des objets et acheter de l'équipement",
+=======
       "description": "Used for constructing Driftmarks, researching technologies, producing items and purchasing equipment",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "repair-tickets",
       "name": "Repair Tickets",
+<<<<<<< HEAD
+      "description": "Utilisé à la place des Jetons de Chute d'Étoile lors de la réparation d'équipement à un ratio de 1:1.",
+=======
       "description": "Used in place of Starfall Tokens when repairing equipment at a 1:1 ratio.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "exergy",
       "name": "Exergy",
+<<<<<<< HEAD
+      "description": "Utilisé pour construire des infrastructures et rechercher des technologies aux Driftmarks",
+=======
       "description": "Used for constructing infrastructure and researching technology at Driftmarks",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "faction-medals",
       "name": "Faction Medals",
+<<<<<<< HEAD
+      "description": "Peut être échangé contre des objets rares au Magasin de Faction dans le Bazar Souterrain",
+=======
       "description": "Can be traded for rare items at the Faction Store in the Underground Bazaar",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "uncommon"
     },
     {
       "id": "faction-contribution",
       "name": "Faction Contribution",
+<<<<<<< HEAD
+      "description": "Contribution de Faction Hebdomadaire. Utilisé pour ouvrir les caisses d'approvisionnement de Contribution de Faction hebdomadaires",
+=======
       "description": "Weekly Faction Contribution. Used for opening weekly Faction Contribution supply crates",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "pvp-contribution",
       "name": "PvP Contribution",
+<<<<<<< HEAD
+      "description": "Contribution JcJ",
+=======
       "description": "PvP Contribution",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "pvp-medals",
       "name": "PvP Medals",
+<<<<<<< HEAD
+      "description": "Peut être échangé contre des objets précieux aux Fournitures de Guerre dans le Bazar Souterrain",
+=======
       "description": "Can be traded for valuable items at War Supplies in the Underground Bazaar",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "uncommon"
     },
     {
       "id": "ancient-battle-scar-fragment",
       "name": "Ancient Battle Scar Fragment",
+<<<<<<< HEAD
+      "description": "Plusieurs Fragments de Cicatrice de Bataille Ancienne peuvent être synthétisés pour créer une Cicatrice de Bataille de votre choix.",
+=======
       "description": "Several Ancient Battle Scar Fragments can be synthesized to create a Battle Scar of your choice.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crafting-component",
       "rarity": "rare"
     },
     {
       "id": "warband-medals",
       "name": "Warband Medals",
+<<<<<<< HEAD
+      "description": "Peut être échangé contre des objets rares au Magasin de Guerre au Driftmark de Guerre",
+=======
       "description": "Can be traded for rare items at the Warband Store at the Warband Driftmark",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "uncommon"
     },
     {
       "id": "data-fragment",
       "name": "Data Fragment",
+<<<<<<< HEAD
+      "description": "Matériau requis pour débloquer l'équipement.",
+=======
       "description": "Material required to unlock equipment.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "unlock-material",
       "rarity": "common"
     },
     {
       "id": "veinhold-currency",
       "name": "Veinhold Currency",
+<<<<<<< HEAD
+      "description": "Monnaie convertie à partir d'Éclats de Résidu d'Exergie, utilisée pour échanger contre des récompenses précieuses au Magasin d'Extraction de Veinhold.",
+=======
       "description": "Currency converted from Exergy Residue Shards, used to exchange for valuable rewards at the Veinhold Extraction Store.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "season-merit",
       "name": "Season Merit",
+<<<<<<< HEAD
+      "description": "Mérite de Saison",
+=======
       "description": "Season Merit",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "common"
     },
     {
       "id": "promotion-medal",
       "name": "Promotion Medal",
+<<<<<<< HEAD
+      "description": "Les joueurs qui rejoignent plus tard peuvent obtenir ceci pour échanger contre des fournitures au Quartier-maître de Promotion au Driftmark de Guerre.\nLa Guerre recevra une \"Exergie Active\" supplémentaire chaque fois que les joueurs échangent des fournitures.",
+=======
       "description": "Players who join later can obtain this to trade for supplies at the Promotion Quartermaster in the Warband Driftmark.\nWarband will receive an additional \"Active Exergy\" every time players trades supplies.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "uncommon"
     },
     {
       "id": "spray-token",
       "name": "Spray Token",
+<<<<<<< HEAD
+      "description": "Jetons de Peinture en Aérosol nécessaires pour utiliser l'aérosol",
+=======
       "description": "Spray Paint Tokens needed to use spray",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "cosmetic",
       "rarity": "common"
     },
     {
       "id": "void-exergy",
       "name": "Void Exergy",
+<<<<<<< HEAD
+      "description": "Obtenu après avoir vaincu les monstres qui apparaissent dans les Failles d'Éclipse. Peut être échangé contre des objets au Marchand de Faille dans le Bazar Souterrain",
+=======
       "description": "Obtained after defeating monsters that appear in Eclipse Rifts. Can be exchanged for items at the Rift Merchant in the Underground Bazaar",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "uncommon"
     },
     {
       "id": "solarbite",
       "name": "Solarbite",
+<<<<<<< HEAD
+      "description": "Utilisé pour enchérir sur des actions, et peut être échangé contre de l'Éclipsium",
+=======
       "description": "Used for bidding on actions, and can be traded for Eclipsium",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "uncommon"
     },
     {
       "id": "eclipsium",
       "name": "Eclipsium",
+<<<<<<< HEAD
+      "description": "Utilisé pour acheter des biens au Magasin Exotique",
+=======
       "description": "Used for purchasing goods at the Exotic Shop",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "currency",
       "rarity": "rare"
     }

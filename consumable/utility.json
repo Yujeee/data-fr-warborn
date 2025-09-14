@@ -1,61 +1,96 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
   "utility": [
+<<<<<<< HEAD
+=======
 
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
     {
       "id": "cleansing-herb",
       "name": "Cleansing Herb",
       "iconName": "RecoverRatioHPAndDisperse",
+<<<<<<< HEAD
+      "description": "Supprime immédiatement tous les effets de contrôle et restaure 35% PV Max.\nPeut être utilisé même quand les compétences sont désactivées",
+=======
       "description": "Immediately removes all control effects and restores 35% Max HP.\nCan be used while skills are disabled",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "healing",
       "rarity": "common"
     },
     {
       "id": "battle-standard",
       "name": "Battle Standard",
+<<<<<<< HEAD
+      "description": "Plante une bannière de bataille qui inspire les alliés, accordant 10% de dégâts et de Défense augmentés aux alliés proches pendant 120s",
+=======
       "description": "Plants a battle banner that inspires allies, granting 10% increased damage and Defense to nearby allies for 120s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "support",
       "rarity": "common"
     },
     {
       "id": "slumberdart",
       "name": "Slumberdart",
+<<<<<<< HEAD
+      "description": "Endort la cible pendant 20s.",
+=======
       "description": "Puts target to Sleep for 20s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crowd-control",
       "rarity": "common"
     },
     {
       "id": "mass-healing-elixir",
       "name": "Mass Healing Elixir",
+<<<<<<< HEAD
+      "description": "Utiliser pour restaurer instantanément 4000 PV à jusqu'à 15 alliés proches.",
+=======
       "description": "Use to instantly restore 4000 HP to up to 15 nearby allies.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "healing",
       "rarity": "common"
     },
     {
       "id": "mass-restoration-device",
       "name": "Mass Restoration Device",
+<<<<<<< HEAD
+      "description": "Jusqu'à 15 alliés restaurent 3% PV chaque seconde pendant 30s.\nLe soin s'interrompt en subissant des dégâts JcJ",
+=======
       "description": "Up to 15 allies restore 3% HP every second for 30s.\nHealing breaks when taking PvP damage",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "healing",
       "rarity": "common"
     },
     {
       "id": "mass-stealth-projector",
       "name": "Mass Stealth Projector",
+<<<<<<< HEAD
+      "description": "Utiliser pour accorder la Furtivité aux alliés proches pendant 20s.\nUtiliser une compétence, infliger des dégâts ou infliger des soins brise la Furtivité",
+=======
       "description": "Use to grant nearby allies Stealth for 20s.\nUsing a skill, dealing damage or inflicting healing breaks Stealth",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "utility",
       "rarity": "common"
     },
     {
       "id": "webspinner-launcher",
       "name": "Webspinner Launcher",
+<<<<<<< HEAD
+      "description": "Lancer vers l'emplacement ciblé. L'explosion Immobilise les ennemis à portée pendant 7s.",
+=======
       "description": "Throw toward the target location. Explosion Immobilizes enemies in range for 7s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crowd-control",
       "rarity": "common"
     },
     {
       "id": "venom-sac",
       "name": "Venom Sac",
+<<<<<<< HEAD
+      "description": "Laisse tomber un Sac de Venin sur place, créant une zone qui limite la vitesse pendant 10s, accordant [Définit la limite de Vitesse de Déplacement à 1.5m/s; Incapable d'utiliser les compétences de mouvement] aux ennemis à portée.\nDéfinit la limite de Vitesse de Déplacement à 1.5m/s; Incapable d'utiliser les compétences de mouvement",
+=======
       "description": "Drops a Venom Sac on the spot, creating an area that limits speed for 10s, granting [Sets Movement Speed cap to 1.5m/s; Unable to use movement skills] to enemies within range.\nSets Movement Speed cap to 1.5m/s; Unable to use movement skills",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "crowd-control",
       "rarity": "common"
     },
@@ -63,7 +98,11 @@
       "id": "phoenix-matrix",
       "name": "Phoenix Matrix",
       "iconName": "RebornDevice",
+<<<<<<< HEAD
+      "description": "Accorde à un allié à terre la capacité de se ressusciter instantanément.",
+=======
       "description": "Grants a downed ally the ability to instantly revive themselves.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "support",
       "rarity": "rare"
     },
@@ -71,198 +110,314 @@
       "id": "instant-aid-vial-ex",
       "name": "Instant Aid Vial EX",
       "iconName": "RecoverRatioHP",
+<<<<<<< HEAD
+      "description": "Utiliser pour restaurer instantanément 20% PV Max plus 2000 PV.",
+=======
       "description": "Use to instantly restore 20% Max HP plus 2000 HP.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "healing",
       "rarity": "enhanced"
     },
     {
       "id": "instant-aid-vial-ultra",
       "name": "Instant Aid Vial Ultra",
+<<<<<<< HEAD
+      "description": "Utiliser pour restaurer instantanément 24% PV Max plus 2400 PV.",
+=======
       "description": "Use to instantly restore 24% Max HP plus 2400 HP.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "healing",
       "rarity": "ultra"
     },
     {
       "id": "aegis-draught-ex",
       "name": "Aegis Draught EX",
+<<<<<<< HEAD
+      "description": "Utiliser pour supprimer et gagner l'immunité aux effets de Dégâts dans le Temps et de Débuffs. Pendant 6s, immunisé aux dégâts, Dégâts dans le Temps, Débuffs, et Contrôle, tout en infligeant 25% de dégâts réduits.",
+=======
       "description": "Use to remove and gain immunity to Damage Over Time and Debuff effects. For 6s, immune to damage, Damage Over Time, Debuffs, and Control, while dealing 25% reduced damage.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "protection",
       "rarity": "enhanced"
     },
     {
       "id": "aegis-draught-ultra",
       "name": "Aegis Draught Ultra",
+<<<<<<< HEAD
+      "description": "Utiliser pour supprimer et accorder l'immunité aux effets de Dégâts dans le Temps et de débuffs, avec immunité aux dégâts, Dégâts dans le Temps, débuffs, et contrôle pendant 6s.",
+=======
       "description": "Use to remove and grant immunity to Damage Over Time and debuff effects, with immunity to damage, Damage Over Time, debuffs, and control for 6s.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "protection",
       "rarity": "ultra"
     },
     {
       "id": "heartbeat-detector",
       "name": "Heartbeat Detector",
+<<<<<<< HEAD
+      "description": "Toutes les 10s détecte les ennemis (jusqu'à 10 cibles) et les révèle sur la mini-carte pendant 90s",
+=======
       "description": "Every 10s detects enemies (up to 10 targets) and reveals them on minimap for 90s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "detection",
       "rarity": "uncommon"
     },
     {
       "id": "vanishing-powder",
       "name": "Vanishing Powder",
+<<<<<<< HEAD
+      "description": "Utiliser pour déguiser jusqu'à 15 alliés dans un rayon de 15m, les rendant indétectables par les unités non-joueurs (monstres, structures de défense, etc.). L'effet se brise en initiant des attaques ou en approchant des joueurs ennemis.",
+=======
       "description": "Use to disguise up to 15 allies within 15m, making them undetectable by non-player units (mobs, defense structures, etc.). Effect breaks when initiating attacks or approaching enemy players.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "stealth",
       "rarity": "uncommon"
     },
     {
       "id": "motion-dampening-field-kit",
       "name": "Motion Dampening Field Kit",
+<<<<<<< HEAD
+      "description": "Déploie un Champ d'Amortissement de Mouvement qui ralentit les ennemis. Partage la limite de déploiement avec d'autres structures lourdes, qui peut être augmentée par la Technologie de Guerre.\n--[Champ d'Amortissement de Mouvement]-- \nCause aux ennemis à portée de Définir la limite de Vitesse de Déplacement à 1m/s",
+=======
       "description": "Deploys a Motion Dampening Field that slows enemies. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology.\n--[Motion Dampening Field]-- \nCauses enemies in range to Sets Movement Speed cap to 1m/s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "uncommon"
     },
     {
       "id": "lookout-tower-kit",
       "name": "Lookout Tower Kit",
+<<<<<<< HEAD
+      "description": "Déploie une Tour de Guet qui attaque les joueurs ennemis. Partage la limite de déploiement avec d'autres structures lourdes, qui peut être augmentée par la Technologie de Guerre\n--[Barrage de Missiles]-- \nLance des missiles concentrés à l'emplacement spécifié (Portée: 10–40m), chaque projectile inflige 12% PV Max en Dégâts Physiques",
+=======
       "description": "Deploys a Lookout Tower that attacks enemy players. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[Missile Barrage]-- \nLaunches concentrated missiles at specified location (Range: 10–40m), each projectile deals 12% Max HP as Physical Damage",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "uncommon"
     },
     {
       "id": "healing-base-kit",
       "name": "Healing Base Kit",
+<<<<<<< HEAD
+      "description": "Déploie une Base de Soin qui soigne périodiquement les alliés et augmente leurs soins reçus globaux. Partage la limite de déploiement avec d'autres structures lourdes, qui peut être augmentée par la Technologie de Guerre\n--[Base de Soin augmente les soins reçus]-- \nCause aux joueurs alliés à portée de gagner Augmente les soins reçus de 20%\n--[Soin de Terrain]-- \nÀ chaque intervalle, restaure les PV aux 3 alliés avec les PV les plus bas de 20%.",
+=======
       "description": "Deploys a Healing Base that periodically heals allies and boosts their overall healing received. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[Healing Base increases healing received]-- \nCauses allied players in range to gain Increases healing received by 20%\n--[Field Healing]-- \nEvery interval, restores HP to the 3 allies with the lowest HP by 20%.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "uncommon"
     },
     {
       "id": "heavy-blaster-turret-kit",
       "name": "Heavy Blaster Turret Kit",
+<<<<<<< HEAD
+      "description": "Déploie une puissante Tourelle Blaster Lourde. Partage la limite de déploiement avec d'autres structures lourdes, qui peut être augmentée par la Technologie de Guerre\n--[Tir HMG]-- \nToutes les 0.5s consomme 3 PM pour pulvériser des balles radioactives dans la direction spécifiée (Portée: 6–40m), infligeant 10% PV Max en Dégâts Physiques avec 10% de chance d'appliquer Radiation Persistante. \nRadiation Persistante: Réduit les soins reçus de 35% pendant 30s, se cumulant jusqu'à 2 fois\n--[Onde de Choc]-- \nTire une onde de choc sur la cible causant 5s d'Étourdissement, après un bref délai explose réduisant les PM de 500 pour les ennemis à portée",
+=======
       "description": "Deploys a powerful Heavy Blaster Turret. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[HMG Fire]-- \nEvery 0.5s consumes 3 MP to spray radioactive bullets in specified direction (Range: 6–40m), dealing 10% Max HP as Physical Damage with a 10% chance to apply Radiation Lingering. \nRadiation Lingering: Reduces healing received by 35% for 30s, stacking up to 2 times\n--[Shockwave]-- \nFires shockwave at target causing 5s Stun, after brief delay explodes reducing MP by 500 for enemies in range",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "rare"
     },
     {
       "id": "heavy-railgun-turret-kit",
       "name": "Heavy Railgun Turret Kit",
+<<<<<<< HEAD
+      "description": "Déploie une puissante Tourelle Railgun Lourde, une arme de siège qui nécessite deux personnes pour fonctionner. Partage la limite de déploiement avec d'autres structures lourdes, qui peut être augmentée par la Technologie de Guerre\n--[Railgun Tesla]-- \nTire un puissant railgun tesla dans la direction ciblée (Portée: 200m), infligeant 30% des PV Max en Dégâts Physiques aux joueurs (5% aux monstres) et les repoussant de 6m avec 10% de chance d'appliquer Ioniser. Inflige \n[Taux de Dégâts: 100%] + 0.8% de Durabilité Max en Dégâts de Siège aux bâtiments. \nIoniser: Réduit l'Armure et la Résistance Magique de 100% pendant 30s",
+=======
       "description": "Deploys a powerful Heavy Railgun Turret, a siege weapon that requires two people to operate. Shares the deployment limit with other heavy structures, which can be increased through Warband Technology\n--[Tesla Railgun]-- \nFires powerful tesla railgun in target direction (Range: 200m), dealing 30% of Max HP to as Physical Damage to players (5% to mobs) and knocking them back 6m with a 10% chance to apply Ionize. Deals \n[Damage Rate: 100%] + 0.8% of Max Durability as Siege Damage to buildings. \nIonize: Reduces Armor and Magic Resistance by 100% for 30s",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "epic"
     },
     {
       "id": "sabo-explosive",
       "name": "Sabo-Explosive",
+<<<<<<< HEAD
+      "description": "Place un Sabo-Explosif qui détonne après 3 minutes. Immunisé aux attaques conventionnelles mais peut être démantelé par d'autres joueurs \n--[Détonation Sabo-Explosif]-- \nInflige \n[Taux de Dégâts: 2000%] Dégâts Physiques aux joueurs / \n[Taux de Dégâts: 500%] Dégâts Physiques aux monstres dans un rayon de 7m; Inflige \n[Taux de Dégâts: 1000%] +  \n[Limite de Durabilité de Bâtiment basée sur la cible 15%] Durabilité Max en Dégâts de Siège aux bâtiments",
+=======
       "description": "Places a Sabo-Explosive that detonates after 3 minutes. Immune to conventional attacks but can be dismantled by other players \n--[Sabo-Explosive Detonation]-- \nDeals \n[Damage Rate: 2000%] Physical Damage to players / \n[Damage Rate: 500%] Physical Damage to mobs within 7m; Deals \n[Damage Rate: 1000%] +  \n[Target-based Building Durability Cap 15%] Max Durability as Siege Damage to buildings",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "explosive",
       "rarity": "rare"
     },
     {
       "id": "vision-lens",
       "name": "Vision Lens",
+<<<<<<< HEAD
+      "description": "Invoque un dispositif d'observation lointaine d'une durée de 24 heures pour observer les ennemis de loin et détecter les unités furtives. Jusqu'à 1 peut exister à la fois \n--[Éclaireur]-- \nScanne la zone ciblée pendant 15s, infligeant Marque d'Éclaireur aux ennemis à l'intérieur. \n[Marque d'Éclaireur]\nFurtivité supprimée, dégâts subis augmentés de 20%",
+=======
       "description": "Summons a fargazing device lasting 24 hours to observe enemies from afar and detect stealth units. Up to 1 can exist at a time \n--[Scout]-- \nScans target area for 15s, inflicting Scout Mark to enemies within. \n[Scout Mark]\nStealth removed, damage taken increased by 20%",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "detection",
       "rarity": "uncommon"
     },
     {
       "id": "sentry-bot",
       "name": "Sentry Bot",
+<<<<<<< HEAD
+      "description": "Invoque un Bot de Sentinelle pour patrouiller une petite zone et attaquer les ennemis. Jusqu'à 1 peut exister à la fois, d'une durée de 72 heures; ne peut pas être placé dans les cartes d'instance comme l'Extraction de Veinhold ou la Faille Profonde.",
+=======
       "description": "Summons a Sentry Bot to patrol a small area and attack enemies. Up to 1 can exist at a time, lasting 72 hours; cannot be placed in instance maps such as Veinhold Extraction or Depth Rift.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "deployable",
       "rarity": "uncommon"
     },
     {
       "id": "autonomic-harvester-kit",
       "name": "Autonomic Harvester Kit",
+<<<<<<< HEAD
+      "description": "Place un Toutes les 3600s, déploie 5 petits drones récolteurs pour collecter des ressources dans un rayon de 30m dispositif. Seulement 1 peut exister à la fois",
+=======
       "description": "Places a Every 3600s, deploys 5 small harvester drones to gather resources within 30m device. Only 1 can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "uncommon"
     },
     {
       "id": "boost-station-kit",
       "name": "Boost Station Kit",
+<<<<<<< HEAD
+      "description": "Place une machine qui augmente les attributs des autres joueurs. Seulement 1 peut exister à la fois",
+=======
       "description": "Places a machine that increases the attributes of other players. Only 1 can exist at a time",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "structure-kit",
       "rarity": "uncommon"
     },
     {
       "id": "demolisher",
       "name": "Demolisher",
+<<<<<<< HEAD
+      "description": "Invoque un véhicule Démolisseur de Mêlée qui attaque en mêlée le bâtiment le plus proche",
+=======
       "description": "Summons a Melee Demolisher vehicle that melee attacks the nearest building",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "vehicle",
       "rarity": "uncommon"
     },
     {
       "id": "ranged-demolisher",
       "name": "Ranged Demolisher",
+<<<<<<< HEAD
+      "description": "Invoque un véhicule Démolisseur à Distance qui bombarde le bâtiment le plus proche à distance",
+=======
       "description": "Summons a Ranged Demolisher vehicle that bombards the nearest building from a distance",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "vehicle",
       "rarity": "uncommon"
     },
     {
       "id": "giant-demolisher",
       "name": "Giant Demolisher",
+<<<<<<< HEAD
+      "description": "Invoque un puissant véhicule Démolisseur de Mêlée Puissant qui attaque en mêlée le bâtiment le plus proche",
+=======
       "description": "Summons a powerful Powerful Melee Demolisher vehicle that melee attacks the nearest building",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "vehicle",
       "rarity": "rare"
     },
     {
       "id": "giant-ranged-demolisher",
       "name": "Giant Ranged Demolisher",
+<<<<<<< HEAD
+      "description": "Invoque un véhicule Démolisseur à Distance Puissant qui bombarde le bâtiment le plus proche à une distance énorme",
+=======
       "description": "Summons a Powerful Ranged Demolisher vehicle that bombards the nearest building from a tremendous distance",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "vehicle",
       "rarity": "rare"
     },
     {
       "id": "light-blaster-turret",
       "name": "Light Blaster Turret",
+<<<<<<< HEAD
+      "description": "Invoque une Tourelle Automatisée d'une durée d'1 heure qui attaque les ennemis proches. Jusqu'à 1 peut exister à la fois; ne peut pas être placée dans la Veine de Feu, les Mines Souterraines, ou d'autres cartes d'instance",
+=======
       "description": "Summons a Automated Turret lasting 1 hour that attacks nearby enemies. Up to 1 can exist at a time; cannot be placed in Fire Vein, Underground Mines, or other instance maps",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "deployable",
       "rarity": "common"
     },
     {
       "id": "shadowveil-thicket",
       "name": "Shadowveil Thicket",
+<<<<<<< HEAD
+      "description": "Invoque un Fourré de Voile d'Ombre d'une durée d'1 heure qui accorde la furtivité à toute unité y entrant. Ces fourrés ont une résistance magique extrêmement faible et un maximum de 3 peuvent exister à la fois \nLes fourrés ne peuvent être plantés pour pousser que dans les zones souterraines sombres comme votre Faille Profonde, les Voûtes de Récolte et l'Extraction de Veinhold",
+=======
       "description": "Summons a Shadowveil Thicket lasting 1 hour that grants stealth to any units entering it. These thickets have extremely low magic resistance and a maximum of 3 can exist at a time \nThickets can only be planted to grow in dark underground areas such as your Depth Rift, Harvester Vaults and Veinhold Extraction",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "deployable",
       "rarity": "uncommon"
     },
     {
       "id": "team-rally-matrix-t8",
       "name": "Team Rally Matrix",
+<<<<<<< HEAD
+      "description": "Invoque une Balise de Ralliement d'Équipe T8 qui peut amener jusqu'à 3 coéquipiers de Niveau 35 ou moins. Seulement 1 peut exister à la fois.",
+=======
       "description": "Summons a T8 Team Rally Beacon that can bring up to 3 teammates of Level 35 or lower. Only 1 can exist at a time.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "teleport",
       "rarity": "uncommon"
     },
     {
       "id": "team-rally-matrix-t9",
       "name": "Team Rally Matrix",
+<<<<<<< HEAD
+      "description": "Invoque une Balise de Ralliement d'Équipe T9 qui invoque jusqu'à 4 coéquipiers de Niveau 40 ou moins. Seulement 1 peut exister à la fois.",
+=======
       "description": "Summons a T9 Team Rally Beacon that summons up to 4 teammates of Level 40 or lower. Only 1 can exist at a time.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "teleport",
       "rarity": "rare"
     },
     {
       "id": "team-rally-matrix-t10",
       "name": "Team Rally Matrix",
+<<<<<<< HEAD
+      "description": "Invoque une Balise de Ralliement d'Équipe T10 capable d'Invoquer jusqu'à 5 coéquipiers. Jusqu'à 1 peut exister à la fois.",
+=======
       "description": "Summons a T10 Team Rally Beacon capable of Summoning up to 5 teammates. Up to 1 can exist at a time.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "teleport",
       "rarity": "epic"
     },
     {
       "id": "warband-rally-beacon",
       "name": "Warband Rally Beacon",
+<<<<<<< HEAD
+      "description": "Invoque une Balise de Ralliement de Guerre qui invoque jusqu'à 15 membres de Guerre. Seulement 1 peut exister à la fois.",
+=======
       "description": "Summons a Warband Rally Beacon that summons up to 15 Warband members. Only 1 can exist at a time.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "teleport",
       "rarity": "rare"
     },
     {
       "id": "advanced-light-blaster-turret",
       "name": "Advanced Light Blaster Turret",
+<<<<<<< HEAD
+      "description": "Invoque une Tourelle Blaster Légère Avancée d'Amélioration d'une durée de 24 heures qui attaque les ennemis proches. A une Vitalité et résistance significativement plus élevées que les Tourelles Blaster Légères communes. Jusqu'à 1 peut exister à la fois; ne peut pas être placée dans l'Extraction de Veinhold, les Failles, ou d'autres zones d'instance",
+=======
       "description": "Summons an Enhancement Advanced Light Blaster Turret lasting 24 hours that attacks nearby enemies. Has significantly higher Vitality and resistance than common Light Blaster Turrets. Up to 1 can exist at a time; cannot be placed in Veinhold Extraction, Rifts, or other instanced areas",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "deployable",
       "rarity": "enhanced"
     },
     {
       "id": "spiked-trap",
       "name": "Spiked Trap",
+<<<<<<< HEAD
+      "description": "Invoque Piège à Pointes, Définit la limite de Vitesse de Déplacement à 1m/s et effet de Saignement infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques chaque seconde pendant 12s, d'une durée de 24 heures. Jusqu'à 2 peuvent exister à la fois; ne peuvent pas être placés dans les cartes d'instance comme l'Extraction de Veinhold et la Faille Profonde",
+=======
       "description": "Summons Spiked Trap, Sets Movement Speed cap to 1m/s and Bleed effect dealing \n[Damage Rate: 200%] Physical Damage every second for 12s, lasting 24 hours. Up to 2 can exist at a time; cannot be placed in instance maps such as Veinhold Extraction and Depth Rift",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "category": "trap",
       "rarity": "uncommon"
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02

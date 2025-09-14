@@ -41,7 +41,11 @@
         "cooldown": "44",
         "castingRange": "14",
         "type": "skill",
+<<<<<<< HEAD
+        "description": "Saute vers l'arrière de 6 mètres tout en lançant un\ngrappin robotique dans la direction ciblée, infligeant \n[Taux de Dégâts: 110%] Dégâts Magiques au premier ennemi touché et\nle liant pendant 1s. Les ennemis tentant de quitter la\nportée de liaison sont ramenés au centre et subissent\n[Taux de Dégâts: 142%] Dégâts Magiques.",
+=======
         "description": "Jumps backward 6 meters while throwing a robotic\ngrappling hook in the target direction, dealing \n[Damage Rate: 110%] Magic Damage to the first enemy hit and\nbinding them for I Os. Enemies attempting to leave the\nbinding range are pulled back to the center and take\n[Damage Rate: 142%] Magic Damage.",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
         "tierUnlock": "1"
       },
       "passive": {
@@ -52,7 +56,11 @@
         "cooldown": "N/A",
         "castingRange": "N/A",
         "type": "passive",
+<<<<<<< HEAD
+        "description": "Augmente sa propre limite de poids de 200",
+=======
         "description": "Increases own weight limit by 200",
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
         "tierUnlock": "4"
       }
     },
@@ -169,4 +177,8 @@
       }
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
