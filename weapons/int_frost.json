@@ -7,12 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-<<<<<<< HEAD
-    "description": "Après ne pas avoir subi de dégâts pendant 15s, gagne  \n[PV Max basé sur la cible 20%] Bouclier. Quand touché par des Attaques de Base, applique [Givre] à l'attaquant. [Givre]: Réduit la Vitesse d'Attaque et la Vitesse de Déplacement de 40% pendant 4s, s'affaiblissant graduellement avec le temps."
-=======
-    "description": "After not taking damage for 15s, gains  \n[Target-based Max HP 20%] Shield. When hit by Basic Attacks, applies [Frost] to the attacker. [Frost]: Reduces Attack Speed and Movement Speed by 40% for 4s, gradually weakening over time."
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-  },
+    "description": "Après ne pas avoir subi de dégâts pendant 15s, gagne  \n[PV Max basé sur la cible 20%] Bouclier. Quand touché par des Attaques de Base, applique [Givre] à l'attaquant. [Givre]: Réduit la Vitesse d'Attaque et la Vitesse de Déplacement de 40% pendant 4s, s'affaiblissant graduellement avec le temps."  },
   "basicAttacks": [
     {
       "gameId": "IceStaffAttack_1",
@@ -21,12 +16,7 @@
       "cooldown": "0.5",
       "castingRange": "16",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 90%] Dégâts Magiques.Peut lancer [Explosion de Glace] toutes les 5s. Inflige \n[Taux de Dégâts: 150%] Dégâts Magiques à la cible et l'Immobilise pendant 1.5s",
-=======
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 90%] Magic Damage.Can cast [Ice Burst] every 5s. Deals \n[Damage Rate: 150%] Magic Damage to the target and Immobilizes them for 1.5s",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2"
+      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 90%] Dégâts Magiques.Peut lancer [Explosion de Glace] toutes les 5s. Inflige \n[Taux de Dégâts: 150%] Dégâts Magiques à la cible et l'Immobilise pendant 1.5s",      "tierUnlock": "2"
     },
     {
       "gameId": "IceStaffAttack_3",
@@ -35,12 +25,7 @@
       "cooldown": "2.8",
       "castingRange": "16",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "Remplace l'Attaque de Base par [Zone de Gelure]\nCrée une zone de givre profond dans la direction ciblée,\ninfligeant \n[Taux de Dégâts: 130%] Dégâts Magiques aux ennemis\nà portée et réduisant leur Vitesse de Déplacement de 25% pendant\n4s",
-=======
-      "description": "Replaces Basic Attack with [Frostbite Zone]\nCreates a zone of deep frost in the target direction,\ndealing \n[Damage Rate: 130%] Magic Damage to enemies\nin range and reducing their Movement Speed by 25% for\n4s",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "4"
+      "description": "Remplace l'Attaque de Base par [Zone de Gelure]\nCrée une zone de givre profond dans la direction ciblée,\ninfligeant \n[Taux de Dégâts: 130%] Dégâts Magiques aux ennemis\nà portée et réduisant leur Vitesse de Déplacement de 25% pendant\n4s",      "tierUnlock": "4"
     },
     {
       "gameId": "IceStaffAttack_2",
@@ -49,12 +34,7 @@
       "cooldown": "1.4",
       "castingRange": "16",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "Remplace l'Attaque de Base par [Explosion de Givre].\nLance trois éclats de givre dans la direction ciblée après un\ndélai, chacun infligeant \n[Taux de Dégâts: 110%] Dégâts Magiques\naux ennemis touchés. Les dégâts des éclats au-delà du premier\nsont réduits de 25%.",
-=======
-      "description": "Replaces Basic Attack with [Frost Burst].\nLaunches three frost shards in the target direction after a\ndelay, each dealing \n[Damage Rate: 110%] Magic Damage\nto enemies hit. The damage from shards beyond the first\nis reduced by 25%.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "6"
+      "description": "Remplace l'Attaque de Base par [Explosion de Givre].\nLance trois éclats de givre dans la direction ciblée après un\ndélai, chacun infligeant \n[Taux de Dégâts: 110%] Dégâts Magiques\naux ennemis touchés. Les dégâts des éclats au-delà du premier\nsont réduits de 25%.",      "tierUnlock": "6"
     }
   ],
   "commonSkills": [
@@ -65,12 +45,7 @@
       "cooldown": "11",
       "castingRange": "16",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Canalise pendant 3s, tirant continuellement un rayon de givre dans la\ndirection ciblée qui inflige \n[Taux de Dégâts: 60%] Dégâts\nMagiques aux joueurs (\n[Taux de Dégâts: 120%] Dégâts Magiques\naux mobs) chaque 0.5s à ceux touchés et cause [Ralentissement de Rayon de\nGivre] pendant 3s, se cumulant jusqu'à 5 fois. \n[Ralentissement de Rayon de Givre]\nBonus de Vitesse de Déplacement: -8% (-8% par cumul, peut se cumuler)",
-=======
-      "description": "Channels for 3s, continuously firing a frost beam in the\ntarget direction that deals \n[Damage Rate: 60%] Magic\nDamage to players (\n[Damage Rate: 120%] Magic Damage\nto mobs) every 0.5s to those hit and inflicts [Frost Beam\nSlow] for 3s, stacking up to 5 times. \n[Frost Beam Slow]\nMovement Speed Bonus: -8% (-8% per stack, can stack)",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1"
+      "description": "Canalise pendant 3s, tirant continuellement un rayon de givre dans la\ndirection ciblée qui inflige \n[Taux de Dégâts: 60%] Dégâts\nMagiques aux joueurs (\n[Taux de Dégâts: 120%] Dégâts Magiques\naux mobs) chaque 0.5s à ceux touchés et cause [Ralentissement de Rayon de\nGivre] pendant 3s, se cumulant jusqu'à 5 fois. \n[Ralentissement de Rayon de Givre]\nBonus de Vitesse de Déplacement: -8% (-8% par cumul, peut se cumuler)",      "tierUnlock": "1"
     },
     {
       "gameId": "IceStaff_Common_Skill_4",
@@ -79,12 +54,7 @@
       "cooldown": "18",
       "castingRange": "16",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Lance du givre cristallin dans la direction ciblée. Au\ncontact du premier ennemi, il explose pour infliger \n[Taux de Dégâts: 250%] Dégâts Magiques et Immobiliser les ennemis à portée\npendant 2s.",
-=======
-      "description": "Launches crystalline frost in the target direction. Upon\nhitting the first enemy, it explodes to deal \n[Damage Rate: 250%] Magic Damage and Immobilize enemies in range\nfor 2s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "3"
+      "description": "Lance du givre cristallin dans la direction ciblée. Au\ncontact du premier ennemi, il explose pour infliger \n[Taux de Dégâts: 250%] Dégâts Magiques et Immobiliser les ennemis à portée\npendant 2s.",      "tierUnlock": "3"
     },
     {
       "gameId": "IceStaff_Common_Skill_2",
@@ -93,12 +63,7 @@
       "cooldown": "11",
       "castingRange": "10",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Inflige \n[Taux de Dégâts: 200%] Dégâts Magiques aux ennemis\nproches et les Gèle pendant 0.5s, puis clignote dans la\ndirection ciblée.",
-=======
-      "description": "Deals \n[Damage Rate: 200%] Magic Damage to nearby\nenemies and Freezes them for 0.5s, then blinks in the\ntarget direction.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "5"
+      "description": "Inflige \n[Taux de Dégâts: 200%] Dégâts Magiques aux ennemis\nproches et les Gèle pendant 0.5s, puis clignote dans la\ndirection ciblée.",      "tierUnlock": "5"
     },
     {
       "gameId": "IceStaff_Common_Skill_5",
@@ -107,12 +72,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Crée un mur de givre devant le lanceur qui dure 8s.\nLes ennemis à l'intérieur sont Ralentis de 70%, subissent \n[Taux de Dégâts: 50%] Dégâts Magiques chaque seconde, et gagnent des cumuls [Froid].\nSe cumule jusqu'à 2 fois.\n[Froid]: Au maximum de cumuls, les cibles sont Gelées pendant 1.5s et\ndeviennent immunisées à [Froid] pendant 6s.",
-=======
-      "description": "Creates a frost wall before the caster that lasts 8s.\nEnemies inside are Slowed by 70%, take \n[Damage Rate: 50%] Magic Damage every second, and gain [Chill] stacks.\nStacks up to 2 times.\n[Chill]: At max stacks, targets are Frozen for 1.5s and\nbecome immune to [Chill] for 6s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "7"
+      "description": "Crée un mur de givre devant le lanceur qui dure 8s.\nLes ennemis à l'intérieur sont Ralentis de 70%, subissent \n[Taux de Dégâts: 50%] Dégâts Magiques chaque seconde, et gagnent des cumuls [Froid].\nSe cumule jusqu'à 2 fois.\n[Froid]: Au maximum de cumuls, les cibles sont Gelées pendant 1.5s et\ndeviennent immunisées à [Froid] pendant 6s.",      "tierUnlock": "7"
     },
     {
       "gameId": "IceStaff_Common_Skill_6",
@@ -121,12 +81,7 @@
       "cooldown": "18",
       "castingRange": "9",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Libère un rugissement glacial dans la direction ciblée, infligeant \n[Taux de Dégâts: 200%] Dégâts Magiques et repoussant\nles ennemis de 10m. Réduit la Vitesse de Déplacement de 30% et\nla Vitesse d'Attaque de 30% pendant 4s.",
-=======
-      "description": "Unleashes a freezing roar in the target direction, dealing \n[Damage Rate: 200%] Magic Damage and knocking\nenemies back 10m. Reduces Movement Speed by 30% and\nAttack Speed by 30% for 4s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "8"
+      "description": "Libère un rugissement glacial dans la direction ciblée, infligeant \n[Taux de Dégâts: 200%] Dégâts Magiques et repoussant\nles ennemis de 10m. Réduit la Vitesse de Déplacement de 30% et\nla Vitesse d'Attaque de 30% pendant 4s.",      "tierUnlock": "8"
     }
   ],
   "skills": [
@@ -138,12 +93,7 @@
       "cooldown": "18",
       "castingRange": "11",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Canalise pendant 3s, libérant des vents de givre dans la direction\nciblée qui infligent \n[Taux de Dégâts: 100%] Dégâts Magiques\naux joueurs (\n[Taux de Dégâts: 200%] Dégâts Magiques aux mobs)\nchaque 0.5s et réduisent la Vitesse de Déplacement de 30% pendant 3s.\nPeut bouger lentement pendant la canalisation",
-=======
-      "description": "Channels for 3s, releasing frost winds in the target\ndirection that deal \n[Damage Rate: 100%] Magic Damage\nto players (\n[Damage Rate: 200%] Magic Damage to mobs)\nevery 0.5s and reduce Movement Speed by 30% for 3s.\nCan move slowly while channeling",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Canalise pendant 3s, libérant des vents de givre dans la direction\nciblée qui infligent \n[Taux de Dégâts: 100%] Dégâts Magiques\naux joueurs (\n[Taux de Dégâts: 200%] Dégâts Magiques aux mobs)\nchaque 0.5s et réduisent la Vitesse de Déplacement de 30% pendant 3s.\nPeut bouger lentement pendant la canalisation",      "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
         "attackPower": "148",
@@ -158,12 +108,7 @@
       "cooldown": "23",
       "castingRange": "12",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Crée un cyclone glacial à l'emplacement ciblé, d'une durée\nde 5s. Les ennemis à l'intérieur sont Ralentis de 60% et subissent  \n[Taux de Dégâts: 90%] Dégâts Magiques chaque seconde.",
-=======
-      "description": "Creates a freezing cyclone at the target location, lasting\n5s. Enemies inside are Slowed by 60% and take  \n[Damage Rate: 90%] Magic Damage every second.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Crée un cyclone glacial à l'emplacement ciblé, d'une durée\nde 5s. Les ennemis à l'intérieur sont Ralentis de 60% et subissent  \n[Taux de Dégâts: 90%] Dégâts Magiques chaque seconde.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -178,12 +123,7 @@
       "cooldown": "14",
       "castingRange": "17",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Lance de la glace dans la direction ciblée. Au contact d'un\nennemi, elle se divise en 3 éclats de glace qui rebondissent entre\nles ennemis proches jusqu'à 5 fois. Chaque cible peut être touchée jusqu'à\n3 fois.\nChaque coup inflige \n[Taux de Dégâts: 70%] Dégâts Magiques et\nrédit la Vitesse d'Attaque de 15% pendant 4s. Se cumule jusqu'à 3 fois.",
-=======
-      "description": "Launches ice in the target direction. Upon hitting an\nenemy, it splits into 3 ice shards that bounce between\nnearby enemies up to 5 times. Each target can be hit up to\n3 times.\nEach hit deals \n[Damage Rate: 70%] Magic Damage and\nreduces Attack Speed by 15% for 4s. Stacks up to 3 times.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Lance de la glace dans la direction ciblée. Au contact d'un\nennemi, elle se divise en 3 éclats de glace qui rebondissent entre\nles ennemis proches jusqu'à 5 fois. Chaque cible peut être touchée jusqu'à\n3 fois.\nChaque coup inflige \n[Taux de Dégâts: 70%] Dégâts Magiques et\nrédit la Vitesse d'Attaque de 15% pendant 4s. Se cumule jusqu'à 3 fois.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -198,12 +138,7 @@
       "cooldown": "1.5",
       "castingRange": "14",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Place une Nova de Givre à l'emplacement ciblé, d'une durée de 15s.\nQuand déclenchée par un ennemi, inflige \n[Taux de Dégâts: 250%]\nDégâts Magiques et réduit la Vitesse de Déplacement de 35% et\n15% de soins réduits pendant 6s.\nGagne 1 charge toutes les 15s, jusqu'à 3 charges",
-=======
-      "description": "Places a Frost Nova at the target location, lasting 15s.\nWhen triggered by an enemy, deals \n[Damage Rate: 250%]\nMagic Damage and reduces Movement Speed by 35% and\n15% reduced healing for 6s.\nGains 1 charge every 15s, up to 3 charges",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Place une Nova de Givre à l'emplacement ciblé, d'une durée de 15s.\nQuand déclenchée par un ennemi, inflige \n[Taux de Dégâts: 250%]\nDégâts Magiques et réduit la Vitesse de Déplacement de 35% et\n15% de soins réduits pendant 6s.\nGagne 1 charge toutes les 15s, jusqu'à 3 charges",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -218,12 +153,7 @@
       "cooldown": "23",
       "castingRange": "20",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Lance un orbe de givre dans la direction ciblée qui inflige \n[Taux de Dégâts: 70%] Dégâts Magiques chaque seconde et\nrédit la Vitesse de Déplacement de 40% pendant 3s aux ennemis à\nportée. Dans les 3s, peut relancer pour clignoter vers l'emplacement de l'orbe,\ninfligeant \n[Taux de Dégâts: 250%] Dégâts Magiques et\nGelant les ennemis proches pendant 1.5s.",
-=======
-      "description": "Launches a frost orb in the target direction that deals \n[Damage Rate: 70%] Magic Damage every second and\nreduces Movement Speed by 40% for 3s to enemies in\nrange. Within 3s, can recast to blink to the orb's location,\ndealing \n[Damage Rate: 250%] Magic Damage and\nFreezing nearby enemies for 1.5s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Lance un orbe de givre dans la direction ciblée qui inflige \n[Taux de Dégâts: 70%] Dégâts Magiques chaque seconde et\nrédit la Vitesse de Déplacement de 40% pendant 3s aux ennemis à\nportée. Dans les 3s, peut relancer pour clignoter vers l'emplacement de l'orbe,\ninfligeant \n[Taux de Dégâts: 250%] Dégâts Magiques et\nGelant les ennemis proches pendant 1.5s.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -238,12 +168,7 @@
       "cooldown": "22",
       "castingRange": "14",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Crée un cristal de givre à l'emplacement ciblé qui se forme\naprès 0.7s, infligeant \n[Taux de Dégâts: 75%] Dégâts Magiques\net Gelant les ennemis pendant 1.5s.\nAprès 1s, le cristal se brise, infligeant \n[Taux de Dégâts: 400%] Dégâts Magiques, et réduisant la Vitesse de Déplacement de\n40% et la Vitesse d'Attaque de 40% pendant 6s",
-=======
-      "description": "Creates a frost crystal at the target location that forms\nafter 0.7s, dealing \n[Damage Rate: 75%] Magic Damage\nand Freezing enemies for 1.5s.\nAfter 1s, the crystal shatters, dealing \n[Damage Rate: 400%] Magic Damage, and reducing Movement Speed by\n40% and Attack Speed by 40% for 6s",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Crée un cristal de givre à l'emplacement ciblé qui se forme\naprès 0.7s, infligeant \n[Taux de Dégâts: 75%] Dégâts Magiques\net Gelant les ennemis pendant 1.5s.\nAprès 1s, le cristal se brise, infligeant \n[Taux de Dégâts: 400%] Dégâts Magiques, et réduisant la Vitesse de Déplacement de\n40% et la Vitesse d'Attaque de 40% pendant 6s",      "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
         "attackPower": "163",
@@ -258,12 +183,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Accorde le pouvoir du givre arctique pendant 20s. Devient immunisé\naux effets de Ralentissement et d'Immobilisation, et gagne accès aux\ncompétences [Coup de Givre] et [Dérive de Givre].\n-[Coup de Givre]-\nLance des lames de glace vers l'avant qui infligent \n[Taux de Dégâts: 110%] Dégâts Magiques aux ennemis sur leur chemin, causant 1\ncumul d'[Hypothermie] et réduisant la Vitesse de Déplacement de\n30% pendant 4s.\nÀ 6 cumuls d'[Hypothermie], la cible gagne [Gel\nProfond].\n[Gel Profond]: Ne peut pas attaquer ou bouger pendant 1.5s.\n-[Dérive de Givre] --\nSupprime instantanément les effets de contrôle et saute dans la direction\nciblée.",
-=======
-      "description": "Grants the power of arctic frost for 20s. Becomes immune\nto Slows and Immobilize effects, and gains access to the\n[Frost Slash] and [Frost Drift] skills.\n-[Frost Slash]-\nLaunches ice blades forward that deal \n[Damage Rate: 110%] Magic Damage to enemies in their path, inflicting 1\nstack of [Hypothermia] and reducing Movement Speed by\n30% for 4s.\nAt 6 stacks of [Hypothermia], the target gains [Deep\nFrost].\n[Deep Frost]: Cannot attack or move for 1.5s.\n-[Frost Drift] --\nInstantly removes control effects and leaps in the target\ndirection.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Accorde le pouvoir du givre arctique pendant 20s. Devient immunisé\naux effets de Ralentissement et d'Immobilisation, et gagne accès aux\ncompétences [Coup de Givre] et [Dérive de Givre].\n-[Coup de Givre]-\nLance des lames de glace vers l'avant qui infligent \n[Taux de Dégâts: 110%] Dégâts Magiques aux ennemis sur leur chemin, causant 1\ncumul d'[Hypothermie] et réduisant la Vitesse de Déplacement de\n30% pendant 4s.\nÀ 6 cumuls d'[Hypothermie], la cible gagne [Gel\nProfond].\n[Gel Profond]: Ne peut pas attaquer ou bouger pendant 1.5s.\n-[Dérive de Givre] --\nSupprime instantanément les effets de contrôle et saute dans la direction\nciblée.",      "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
         "attackPower": "163",
@@ -278,12 +198,7 @@
       "cooldown": "19",
       "castingRange": "6",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Supprime les effets de contrôle et invoque 6 éclats de glace pour orbiter autour du lanceur pendant 10s- Tant qu'actif, gagne 40% de Vitesse d'Incantation et +25% de Résistance aux Dégâts. Quand d'autres compétences d'arme infligent des dégâts, un éclat tire sur la cible, infligeant \n[Taux de Dégâts: 100%] Dégâts Magiques et réduisant leur Vitesse d'Attaque de 10% pendant 4s. Se cumule jusqu'à 4 fois",
-=======
-      "description": "Removes control effects and summons 6 ice shards to orbit the caster for 1 Os- While active, gain 40% Casting Speed and +25% Damage Resistance. When Other weapon skills deal damage, a shard fires at the target, dealing \n[Damage Rate: 100%] Magic Damage and reducing their Attack Speed by 10% for 4s. Stacks up to 4 times",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Supprime les effets de contrôle et invoque 6 éclats de glace pour orbiter autour du lanceur pendant 10s- Tant qu'actif, gagne 40% de Vitesse d'Incantation et +25% de Résistance aux Dégâts. Quand d'autres compétences d'arme infligent des dégâts, un éclat tire sur la cible, infligeant \n[Taux de Dégâts: 100%] Dégâts Magiques et réduisant leur Vitesse d'Attaque de 10% pendant 4s. Se cumule jusqu'à 4 fois",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "",
@@ -291,8 +206,4 @@
       }
     }
   ]
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
+}

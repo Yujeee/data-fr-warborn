@@ -41,12 +41,7 @@
         "cooldown": "27",
         "castingRange": "7",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Active un Dispositif Électrique pendant 8s.\nLe Dispositif Électrique frappe jusqu'à 5 ennemis toutes les 0.5s pour \n[Taux de Dégâts: 40%] Dégâts Physiques, réduisant l'Armure de\n8% pendant 8s. Se cumule jusqu'à 10 fois.",
-=======
-        "description": "Activate an Electric Device for 8s.\nElectric Device hits up to 5 enemies every 0.5s for \n[Damage Rate: 40%] Physical Damage, reducing Armor by\n8% for 8s. Stacks up to 10 times.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Active un Dispositif Électrique pendant 8s.\nLe Dispositif Électrique frappe jusqu'à 5 ennemis toutes les 0.5s pour \n[Taux de Dégâts: 40%] Dégâts Physiques, réduisant l'Armure de\n8% pendant 8s. Se cumule jusqu'à 10 fois.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_1_Passive",
@@ -56,12 +51,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Les Attaques de Base accordent 1 cumul de Charge Électrique. À 5\ncumuls, la prochaine attaque déclenche une Explosion EMP infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques aux ennemis à\nportée.",
-=======
-        "description": "Basic Attacks grant 1 stack of Electric Charge. At 5\nstacks, the next attack triggers EMP Blast dealing \n[Damage Rate: 160%] Physical Damage to enemies in\nrange.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Les Attaques de Base accordent 1 cumul de Charge Électrique. À 5\ncumuls, la prochaine attaque déclenche une Explosion EMP infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques aux ennemis à\nportée.",        "tierUnlock": "4"
       }
     },
     "paragon_dex_2": {
@@ -104,12 +94,7 @@
         "cooldown": "42",
         "castingRange": "7",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Crée un champ de vide d'une durée de 8s qui enveloppe le lanceur\net jusqu'à 5 ennemis, infligeant 192\n[Taux de Dégâts: 50%]\nDégâts Magiques aux ennemis à l'intérieur. Les ennemis dans le vide sont\nimmunisés aux Dégâts Physiques, ne peuvent pas effectuer d'attaques de base,\nsont ralentis de 30%, et ont leur Résistance Magique réduite de 30%. Le lanceur peut encore effectuer\ndes attaques de base et gagner 35% de Vol de Vie d'Attaque de Base, tout en\nignorant aussi l'immunité aux Dégâts Physiques des ennemis\ndans le vide.",
-=======
-        "description": "Creates a void field lasting 8s that envelops the caster\nand up to 5 enemies, dealing 192\n[Damage Rate: 50%]\nMagic Damage to enemies within. Enemies in the void are\nimmune to Physical Damage, cannot perform basic\nattacks, are slowed for 30%, and have their Magic\nResistance reduced by 30%. The caster can still perform\nbasic attacks and gain 35% Basic Attack Lifesteal, while\nalso ignoring the Physical Damage immunity of enemies\nin the void.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Crée un champ de vide d'une durée de 8s qui enveloppe le lanceur\net jusqu'à 5 ennemis, infligeant 192\n[Taux de Dégâts: 50%]\nDégâts Magiques aux ennemis à l'intérieur. Les ennemis dans le vide sont\nimmunisés aux Dégâts Physiques, ne peuvent pas effectuer d'attaques de base,\nsont ralentis de 30%, et ont leur Résistance Magique réduite de 30%. Le lanceur peut encore effectuer\ndes attaques de base et gagner 35% de Vol de Vie d'Attaque de Base, tout en\nignorant aussi l'immunité aux Dégâts Physiques des ennemis\ndans le vide.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_2_Passive",
@@ -119,12 +104,7 @@
         "cooldown": "30",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Convertit les Dégâts Physiques des Attaques de Base en Dégâts Magiques. Chaque\nf fois qu'une attaque inflige des dégâts, elle réduit la Résistance Magique de la cible de 4%, pendant 4s, se cumulant jusqu'à\n10.",
-=======
-        "description": "Converts Physical Damage from Basic Attacks into Magic Damage. Each\ntime an attack deals damage, it reduces the target's Magic Resistance by 4%, for 4s, stacking up\nto 10.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Convertit les Dégâts Physiques des Attaques de Base en Dégâts Magiques. Chaque\nf fois qu'une attaque inflige des dégâts, elle réduit la Résistance Magique de la cible de 4%, pendant 4s, se cumulant jusqu'à\n10.",        "tierUnlock": "4"
       }
     },
     "paragon_dex_3": {
@@ -167,12 +147,7 @@
         "cooldown": "28",
         "castingRange": "7",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Supprime toutes les valeurs de bouclier actuelles, infligeant  \n[Taux de Dégâts: 250%] Dégâts Physiques aux ennemis proches, tout en\ngagnant 55% de Vitesse d'Attaque, 30% de Vitesse de Déplacement,\net 30% de Taux Critique, et devenant Immunisé aux Effets de\nContrôle pendant 6s.\n Ne peut pas être dissipé.",
-=======
-        "description": "Removes all current shield values, dealing  \n[Damage Rate: 250%] Physical Damage to nearby enemies, while\nalso gaining 55% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.\n Can't be dispelled.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Supprime toutes les valeurs de bouclier actuelles, infligeant  \n[Taux de Dégâts: 250%] Dégâts Physiques aux ennemis proches, tout en\ngagnant 55% de Vitesse d'Attaque, 30% de Vitesse de Déplacement,\net 30% de Taux Critique, et devenant Immunisé aux Effets de\nContrôle pendant 6s.\n Ne peut pas être dissipé.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_3_Passive",
@@ -182,12 +157,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Sans Armure, gagne 5 Énergie par seconde, et\ngagne 5 Énergie sur Critique d'Attaque de Base. Quand l'Énergie atteint\n100, restaure  \n[PV Max basé sur la cible 15%] Armure.\nAvec Armure, gagne  \n[PV Max basé sur la cible 3%] Armure\nsur Critique d'Attaque de Base. L'Armure restaurée ne peut pas dépasser\n[PV Max basé sur la cible 25%]. (Intervalle de Déclenchement: un temps de recharge\nde 1 seconde)",
-=======
-        "description": "While without Armor, gains 5 Energy per second, and\ngains 5 Energy on Basic Attack Crit. When Energy reaches\n100, restores  \n[Target-based Max HP 15%] Armor.\nWhile with Armor, gains  \n[Target-based Max HP 3%] Armor\non Basic Attack Crit. Armor restored cannot exceed\n[Target-based Max HP 25%]. (Trigger Interval: a cooldown\nof 1 seconds)",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Sans Armure, gagne 5 Énergie par seconde, et\ngagne 5 Énergie sur Critique d'Attaque de Base. Quand l'Énergie atteint\n100, restaure  \n[PV Max basé sur la cible 15%] Armure.\nAvec Armure, gagne  \n[PV Max basé sur la cible 3%] Armure\nsur Critique d'Attaque de Base. L'Armure restaurée ne peut pas dépasser\n[PV Max basé sur la cible 25%]. (Intervalle de Déclenchement: un temps de recharge\nde 1 seconde)",        "tierUnlock": "4"
       }
     },
     "paragon_dex_4": {
@@ -230,12 +200,7 @@
         "cooldown": "18",
         "castingRange": "9",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Libère une Impulsion Nulle dans la direction ciblée, infligeant\n[Taux de Dégâts: 50%] Dégâts Physiques aux ennemis à\nportée, les repoussant de 12m, et appliquant Silence et\n40% de Ralentissement pendant 3s.",
-=======
-        "description": "Releases a Null Pulse in the target direction, dealing\n[Damage Rate: 50%] Physical Damage to enemies in\nrange, knocking them back 12m, and applying Silence and\n40% Slow for 3s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Libère une Impulsion Nulle dans la direction ciblée, infligeant\n[Taux de Dégâts: 50%] Dégâts Physiques aux ennemis à\nportée, les repoussant de 12m, et appliquant Silence et\n40% de Ralentissement pendant 3s.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_4_Passive",
@@ -245,12 +210,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "A 35% de chance d'esquiver les dégâts d'Attaque de Base.",
-=======
-        "description": "Has a 35% chance to dodge Basic Attack damage.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "A 35% de chance d'esquiver les dégâts d'Attaque de Base.",        "tierUnlock": "4"
       }
     },
     "paragon_dex_5": {
@@ -293,12 +253,7 @@
         "cooldown": "56",
         "castingRange": "",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Entre en Furtivité, gagnant [Bouclier Spectral] et la capacité\n[Lien Fantôme], d'une durée de 9s.\nBouclier Spectral: Accorde  \n[PV Max basé sur la cible 25%] effet de\nbouclier; si le Bouclier Spectral s'estompe, l'effet Lien Fantôme\nse termine prématurément.\nLien Fantôme: Invoque des fantômes qui traquent les ennemis à\nportée, infligeant \n[Taux de Dégâts: 183%] Dégâts Magiques\net reconstituant  \n[PV Max basé sur la cible 5%] Bouclier\nSpectral.\nNe brise pas la Furtivité de Clone Fantôme ..\nUtiliser toute compétence autre que Lien Fantôme, ou infliger des\nsoins ou dégâts directs, vous révèle pendant 2s avant de ré-entrer en\nFurtivité.\nRécupère 6% PV toutes les 2s en Furtivité.",
-=======
-        "description": "Enters Stealth, gaining [Spectral Shield] and the ability\n[Phantom Bind], lasting 9s.\nSpectral Shield: Grants  \n[Target-based Max HP 25%] shield\neffect; if the Spectral Shield fades out, the Phantom Bind\neffect ends prematurely.\nPhantom Bind: Summon phantoms that track enemies in\nrange, dealing \n[Damage Rate: 183%] Magic Damage\nand replenishing  \n[Target-based Max HP 5%] Spectral\nShield.\nDoesn't break Phantom Clone Stealth ..\nUsing any skill other than Phantom Bind, or dealing direct\nhealing or damage, reveals you for 2s before re-entering\nStealth.\nRecovers 6% HP every 2s while in Stealth.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Entre en Furtivité, gagnant [Bouclier Spectral] et la capacité\n[Lien Fantôme], d'une durée de 9s.\nBouclier Spectral: Accorde  \n[PV Max basé sur la cible 25%] effet de\nbouclier; si le Bouclier Spectral s'estompe, l'effet Lien Fantôme\nse termine prématurément.\nLien Fantôme: Invoque des fantômes qui traquent les ennemis à\nportée, infligeant \n[Taux de Dégâts: 183%] Dégâts Magiques\net reconstituant  \n[PV Max basé sur la cible 5%] Bouclier\nSpectral.\nNe brise pas la Furtivité de Clone Fantôme ..\nUtiliser toute compétence autre que Lien Fantôme, ou infliger des\nsoins ou dégâts directs, vous révèle pendant 2s avant de ré-entrer en\nFurtivité.\nRécupère 6% PV toutes les 2s en Furtivité.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_5_Passive",
@@ -308,12 +263,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Entre en Furtivité quand on reste immobile sans blessure et sans utiliser\nde compétences pendant une courte durée. Les dégâts, compétences, ou mouvement\nbrisent la Furtivité.\nAvertissement quand les ennemis sont à 7-14m. La Furtivité se brise\naprès 3s dans un rayon de 7m.\nRécupère 6% PV toutes les 2s en Furtivité",
-=======
-        "description": "Enters Stealth when standing still unhurt and not using\nskills for a short duration. Damage, skills, or movement\nbreaks Stealth.\nWarning when enemies are 7-14m away. Stealth breaks\nafter 3s within 7m.\nRecovers 6% HP every 2s while in Stealth",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Entre en Furtivité quand on reste immobile sans blessure et sans utiliser\nde compétences pendant une courte durée. Les dégâts, compétences, ou mouvement\nbrisent la Furtivité.\nAvertissement quand les ennemis sont à 7-14m. La Furtivité se brise\naprès 3s dans un rayon de 7m.\nRécupère 6% PV toutes les 2s en Furtivité",        "tierUnlock": "4"
       }
     },
     "paragon_dex_6": {
@@ -356,12 +306,7 @@
         "cooldown": "38",
         "castingRange": "15",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Crée un champ autour du lanceur, d'une durée de 20s. Puis\ndisperse 8 Clones d'Ombre, chacun infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques à ceux touchés. Les dégâts se réduisent à\n15% pour les coups suivants sur la même cible. Dans le\nchamp, la compétence change en [Échange d'Ombre]. Toucher un\nClone d'Ombre réduit le temps de recharge d'Échange d'Ombre de 5s,\naccorde  \n[PV Max basé sur la cible 10%] Bouclier et +20% de\nVitesse de Déplacement pendant 4s.\nLe champ disparaît en quittant la portée.\n[Échange d'Ombre]: Fonce vers l'avant et augmente la Vitesse\nd'Attaque des 5 prochaines attaques de base dans les 6s de 60%.",
-=======
-        "description": "Creates a field around the caster, lasting 20s. Then\nscatter 8 Shadow Clones, each dealing \n[Damage Rate: 200%] Physical Damage to those hit. Damage reduces to\n15% for subsequent hits on the same target. While in the\nfield, skill changes to [Shadow Swap]. Touching a\nShadow Clone reduces Shadow Swap's cooldown by 5s,\ngrants  \n[Target-based Max HP 10%] Shield and +20%\nMovement Speed for 4s.\nField disappears when leaving range.\n[Shadow Swap]: Dash forward and increase the Attack\nSpeed of the next 5 basic attacks within 6s by 60%.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Crée un champ autour du lanceur, d'une durée de 20s. Puis\ndisperse 8 Clones d'Ombre, chacun infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques à ceux touchés. Les dégâts se réduisent à\n15% pour les coups suivants sur la même cible. Dans le\nchamp, la compétence change en [Échange d'Ombre]. Toucher un\nClone d'Ombre réduit le temps de recharge d'Échange d'Ombre de 5s,\naccorde  \n[PV Max basé sur la cible 10%] Bouclier et +20% de\nVitesse de Déplacement pendant 4s.\nLe champ disparaît en quittant la portée.\n[Échange d'Ombre]: Fonce vers l'avant et augmente la Vitesse\nd'Attaque des 5 prochaines attaques de base dans les 6s de 60%.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_6_Passive",
@@ -371,12 +316,7 @@
         "cooldown": "0.8",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Accorde aux Attaques de Base 30% de chance de déclencher une frappe\nd'ombre pendant 6s, infligeant \n[Taux de Dégâts: 100%] Dégâts\nPhysiques (Temps de recharge: 0.8s).\nLes Bonus de Dégâts d'Attaque de Base affectent les dégâts et les\ncoups critiques d'attaque de base peuvent provoquer des dégâts critiques.",
-=======
-        "description": "Grants Basic Attacks a 30% chance to trigger a shadow\nstrike for 6s, dealing \n[Damage Rate: 100%] Physical\nDamage (Cooldown: 0.8s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Accorde aux Attaques de Base 30% de chance de déclencher une frappe\nd'ombre pendant 6s, infligeant \n[Taux de Dégâts: 100%] Dégâts\nPhysiques (Temps de recharge: 0.8s).\nLes Bonus de Dégâts d'Attaque de Base affectent les dégâts et les\ncoups critiques d'attaque de base peuvent provoquer des dégâts critiques.",        "tierUnlock": "4"
       }
     },
     "paragon_dex_7": {
@@ -419,12 +359,7 @@
         "cooldown": "42",
         "castingRange": "7",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Active Vortex Carmin pendant 6s.\nLe Vortex Carmin inflige \n[Taux de Dégâts: 75%] Dégâts Magiques à jusqu'à 5 ennemis chaque seconde, soignant le lanceur de 60% des dégâts infligés contre les joueurs,\n 30% contre les monstres.\nLes dégâts augmentent jusqu'à \n[Taux de Dégâts: 150%] quand les PV baissent.",
-=======
-        "description": "Activates Crimson Vortex for 6s.\nCrimson Vortex deals \n[Damage Rate: 75%] Magical Damage to up to 5 enemies every second, healing the caster for 60% of damage dealt against players,\n 30% versus monsters.\nDamage increases up to \n[Damage Rate: 150%] as HP drops.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Active Vortex Carmin pendant 6s.\nLe Vortex Carmin inflige \n[Taux de Dégâts: 75%] Dégâts Magiques à jusqu'à 5 ennemis chaque seconde, soignant le lanceur de 60% des dégâts infligés contre les joueurs,\n 30% contre les monstres.\nLes dégâts augmentent jusqu'à \n[Taux de Dégâts: 150%] quand les PV baissent.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_7_Passive",
@@ -434,12 +369,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Gagne +4% de Résistance aux Dégâts et +6% de Vitesse d'Attaque pour chaque 10% de PV perdus.",
-=======
-        "description": "Gains +4% Damage Resistance and +6% Attack Speed for every 10% HP lost.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Gagne +4% de Résistance aux Dégâts et +6% de Vitesse d'Attaque pour chaque 10% de PV perdus.",        "tierUnlock": "4"
       }
     },
     "paragon_dex_8": {
@@ -482,12 +412,7 @@
         "cooldown": "28",
         "castingRange": "8",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Lance une rafale de coups de lame sur la cible et les ennemis proches, chacun infligeant \n[Taux de Dégâts: 120%] Dégâts Physiques. Les dégâts se réduisent à 50% après le premier coup sur la même cible. Rafale pendant 4s avec Imparable et immunité aux dégâts. Peut faire des coups critiques. Une vitesse d'attaque plus élevée augmente le nombre d'attaques.",
-=======
-        "description": "Launches a flurry of slashes at the target and nearby enemies, eache dealing \n[Damage Rate: 120%] Physical Damage. Damage reduces tp 50% after the first hit on the same target. Flurry for 4s with Unstoppable and damage immunity. Can critical hit. Higher attack speed increases attack count.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Lance une rafale de coups de lame sur la cible et les ennemis proches, chacun infligeant \n[Taux de Dégâts: 120%] Dégâts Physiques. Les dégâts se réduisent à 50% après le premier coup sur la même cible. Rafale pendant 4s avec Imparable et immunité aux dégâts. Peut faire des coups critiques. Une vitesse d'attaque plus élevée augmente le nombre d'attaques.",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_8_Passive",
@@ -497,12 +422,7 @@
         "cooldown": "1.3",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Sur Coup Critique, inflige \n[Taux de Dégâts: 70%] Dégâts\nPhysiques aux ennemis proches, tout en réduisant leur\nArmure de 15% pendant 4s. (Temps de recharge: 1.3s)",
-=======
-        "description": "On Critical Hit, deals \n[Damage Rate: 70%] Physical\nDamage to nearby enemies, while also reducing their\nArmor by 15% for 4s. (Cooldown: 1.3s)",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Sur Coup Critique, inflige \n[Taux de Dégâts: 70%] Dégâts\nPhysiques aux ennemis proches, tout en réduisant leur\nArmure de 15% pendant 4s. (Temps de recharge: 1.3s)",        "tierUnlock": "4"
       }
     },
     "paragon_dex_9": {
@@ -545,12 +465,7 @@
         "cooldown": "46",
         "castingRange": "8",
         "type": "skill",
-<<<<<<< HEAD
-        "description": "Crée un Déguisement Spectral accordant la Furtivité au lanceur\net jusqu'à 15 alliés proches, augmentant la Résistance aux Dégâts\nde 25% pendant 8s\nUtiliser une compétence, infliger des dégâts ou infliger des soins brise\nla Furtivité pendant 4s avant de réappliquer",
-=======
-        "description": "Creates a Spectral Disguise granting Stealth to the caster\nand up to 15 nearby allies, increasing Damage Resistance\nby 25% for 8s\nUsing a skill, dealing damage or inflicting healing breaks\nStealth for 4s before reapplying",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "1"
+        "description": "Crée un Déguisement Spectral accordant la Furtivité au lanceur\net jusqu'à 15 alliés proches, augmentant la Résistance aux Dégâts\nde 25% pendant 8s\nUtiliser une compétence, infliger des dégâts ou infliger des soins brise\nla Furtivité pendant 4s avant de réappliquer",        "tierUnlock": "1"
       },
       "passive": {
         "gameId": "Paragon_Skill_Dex_9_Passive",
@@ -560,17 +475,8 @@
         "cooldown": "0.3",
         "castingRange": "",
         "type": "passive",
-<<<<<<< HEAD
-        "description": "Les coups de Compétence et d'Attaque de Base par l'arrière infligent  \n[Taux de Dégâts: 60%] Dégâts Physiques supplémentaires (Temps de recharge: 0.3s).\nLes Bonus de Dégâts d'Attaque de Base affectent les dégâts et les\ncoups critiques d'attaque de base peuvent provoquer des dégâts critiques.",
-=======
-        "description": "Skill and Basic Attack hits from the rear deal  \n[Damage Rate: 60%] additional Physical Damage (Cooldown: 0.3s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-        "tierUnlock": "4"
+        "description": "Les coups de Compétence et d'Attaque de Base par l'arrière infligent  \n[Taux de Dégâts: 60%] Dégâts Physiques supplémentaires (Temps de recharge: 0.3s).\nLes Bonus de Dégâts d'Attaque de Base affectent les dégâts et les\ncoups critiques d'attaque de base peuvent provoquer des dégâts critiques.",        "tierUnlock": "4"
       }
     }
   }
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
+}

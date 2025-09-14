@@ -9,12 +9,7 @@
       "cooldown": "32",
       "castingRange": "6",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Canalise pendant 5s, récupérant \n[Taux de Soin: 70%] PV chaque seconde. Peut bouger lentement pendant la canalisation",
-=======
-      "description": "Channel for 5s, recovering \n[Healing Rate: 70%] HP every second. Can move slowly while channeling",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1",
+      "description": "Canalise pendant 5s, récupérant \n[Taux de Soin: 70%] PV chaque seconde. Peut bouger lentement pendant la canalisation",      "tierUnlock": "1",
       "rarity": "rare"
     },
     {
@@ -25,12 +20,7 @@
       "cooldown": "32",
       "castingRange": "7",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Inflige \n[Taux de Dégâts: 100%] Dégâts Vrais aux ennemis proches. Les dégâts augmentent de 15% pour chaque 10% de PV manquants à la cible.",
-=======
-      "description": "Deals \n[Damage Rate: 100%] True Damage to nearby enemies. Damage increases by 15% for every 10% HP the target is missing.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1",
+      "description": "Inflige \n[Taux de Dégâts: 100%] Dégâts Vrais aux ennemis proches. Les dégâts augmentent de 15% pour chaque 10% de PV manquants à la cible.",      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -41,12 +31,7 @@
       "cooldown": "37",
       "castingRange": "6",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Augmente la Résistance aux Dégâts de 30% pendant 6s. Pendant ce temps, reflète 100% des dégâts subis en Dégâts Magiques à l'attaquant.",
-=======
-      "description": "Increases Damage Resistance by 30% for 6s. During this time, reflects 100% of damage taken as Magic Damage to the attacker.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1",
+      "description": "Augmente la Résistance aux Dégâts de 30% pendant 6s. Pendant ce temps, reflète 100% des dégâts subis en Dégâts Magiques à l'attaquant.",      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -57,12 +42,7 @@
       "cooldown": "46",
       "castingRange": "12",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Crée un écran de fumée de 12m, d'une durée de 6s. Entre en Furtivité pendant 6s. Chaque 0.5s dans l'écran de fumée accorde 1 cumul de +60% de Vitesse d'Attaque pour la prochaine Attaque de Base, d'une durée de 6s. Se cumule jusqu'à 8 fois. Utiliser une compétence, causer des soins directs ou des dégâts, ou quitter la fumée dissipe la fumée et supprime la furtivité.",
-=======
-      "description": "Creates a 12m smoke screen, lasting 6s. Enter Stealth for 6s. Every 0.5s in the smoke screen grants 1 stack of +60% Attack Speed for the next Basic Attack, lasting 6s. Stacks up to 8 times. Using a skill, causing direct healing or damage, or leaving the smoke clears the smoke and removes stealth.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1",
+      "description": "Crée un écran de fumée de 12m, d'une durée de 6s. Entre en Furtivité pendant 6s. Chaque 0.5s dans l'écran de fumée accorde 1 cumul de +60% de Vitesse d'Attaque pour la prochaine Attaque de Base, d'une durée de 6s. Se cumule jusqu'à 8 fois. Utiliser une compétence, causer des soins directs ou des dégâts, ou quitter la fumée dissipe la fumée et supprime la furtivité.",      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -73,12 +53,7 @@
       "cooldown": "32",
       "castingRange": "12",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Gronde vers la direction ciblée, infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques aux ennemis à portée. Réduit\nleur Vitesse de Déplacement de 40%, les dégâts infligés de 50%, et\ndésactive la Furtivité pendant 5s",
-=======
-      "description": "Snarls toward the target direction, dealing \n[Damage Rate: 200%] Physical Damage to enemies in range. Reduces\ntheir Movement Speed by 40%, damage dealt by 50%, and\ndisables Stealth for 5s",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1",
+      "description": "Gronde vers la direction ciblée, infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques aux ennemis à portée. Réduit\nleur Vitesse de Déplacement de 40%, les dégâts infligés de 50%, et\ndésactive la Furtivité pendant 5s",      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -89,12 +64,7 @@
       "cooldown": "18",
       "castingRange": "7",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Inflige \n[Taux de Dégâts: 200%] Dégâts Physiques aux ennemis proches, réduit leur Résistance aux Dégâts de 20% pendant 6s\net augmente ses propres dégâts de 15% pendant 6s",
-=======
-      "description": "Deals \n[Damage Rate: 200%] Physical Damage to nearby enemies, reduces their Damage Resistance by 20% for 6s\nand increases own damage by 15% for 6s",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1",
+      "description": "Inflige \n[Taux de Dégâts: 200%] Dégâts Physiques aux ennemis proches, réduit leur Résistance aux Dégâts de 20% pendant 6s\net augmente ses propres dégâts de 15% pendant 6s",      "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
         "dmgBonus": "25%",
@@ -110,12 +80,7 @@
       "cooldown": "23",
       "castingRange": "7",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Crée une aura de Ralliement autour du lanceur, d'une durée de 9s\nLes alliés dans un rayon de 7m gagnent +30% de Vitesse d'Attaque et +30% de\nVitesse de Rechargement",
-=======
-      "description": "Creates a Rally aura around the caster, lasting 9s\nAllies within 7m gain +30% Attack Speed and +30%\nCooldown Speed",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1",
+      "description": "Crée une aura de Ralliement autour du lanceur, d'une durée de 9s\nLes alliés dans un rayon de 7m gagnent +30% de Vitesse d'Attaque et +30% de\nVitesse de Rechargement",      "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
         "dmgBonus": "25%",
@@ -124,8 +89,4 @@
       }
     }
   ]
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
+}

@@ -3,11 +3,7 @@
   "links": [
     {
       "linkName": "Warden",
-<<<<<<< HEAD
       "linkBonus": "Augmente l'Effet de Soin de 4%",
-=======
-      "linkBonus": "Increases Healing Effect by 4%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "2",
       "drifters": [
         {
@@ -26,11 +22,7 @@
     },
     {
       "linkName": "Skillful",
-<<<<<<< HEAD
       "linkBonus": "Amélioration des Dégâts de Compétence et Soins de 2.5%",
-=======
-      "linkBonus": "Enhancement to Skill Damage and Healing by 2.5%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "3",
       "drifters": [
         {
@@ -46,11 +38,7 @@
     },
     {
       "linkName": "Resilient Mind",
-<<<<<<< HEAD
       "linkBonus": "Augmente la Résistance au Contrôle de Foule de 5",
-=======
-      "linkBonus": "Increases Crowd Control Resistance by 5",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "2",
       "drifters": [
         {
@@ -69,11 +57,7 @@
     },
     {
       "linkName": "Powerhouse",
-<<<<<<< HEAD
       "linkBonus": "Augmente l'Agilité de 10",
-=======
-      "linkBonus": "Boosts Agility by 10",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "3",
       "drifters": [
         {
@@ -88,14 +72,8 @@
       ]
     },
     {
-<<<<<<< HEAD
       "linkName": "Stalwart",
       "linkBonus": "Résistance aux Dégâts Améliorée de 2%",
-=======
-     
-      "linkName": "Stalwart",
-      "linkBonus": "Damage Resistance Enhanced by 2%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "2",
       "drifters": [
         {
@@ -114,11 +92,7 @@
     },
     {
       "linkName": "Task Force",
-<<<<<<< HEAD
       "linkBonus": "Augmente les Dégâts de Mêlée de 4%",
-=======
-      "linkBonus": "Increases Melee Damage by 4%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "2",
       "drifters": [
         {
@@ -137,11 +111,7 @@
     },
     {
       "linkName": "Premonition",
-<<<<<<< HEAD
       "linkBonus": "Augmente le Temps de Recharge des Compétences de 2.5%",
-=======
-      "linkBonus": "Increases Skill Cooldown by 2.5%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "3",
       "drifters": [
         {
@@ -157,11 +127,7 @@
     },
     {
       "linkName": "Strategic Mind",
-<<<<<<< HEAD
       "linkBonus": "Augmente les Dégâts à Distance de 4%",
-=======
-      "linkBonus": "Increases Ranged Damage by 4%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "2",
       "drifters": [
         {
@@ -180,11 +146,7 @@
     },
     {
       "linkName": "Vibrant Bloodline",
-<<<<<<< HEAD
       "linkBonus": "PV augmentés de 4%",
-=======
-      "linkBonus": "HP increased by 4%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "3",
       "drifters": [
         {
@@ -200,11 +162,7 @@
     },
     {
       "linkName": "Ancestral Heritage",
-<<<<<<< HEAD
       "linkBonus": "Augmente l'Intelligence de 10",
-=======
-      "linkBonus": "Increases Intelligence by 10",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "3",
       "drifters": [
         {
@@ -220,11 +178,7 @@
     },
     {
       "linkName": "Force of Nature",
-<<<<<<< HEAD
       "linkBonus": "Augmente les Dégâts Critiques d'Attaque de Base de 8%",
-=======
-      "linkBonus": "Increases Critical Damage of Basic Attack by 8%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "2",
       "drifters": [
         {
@@ -243,11 +197,7 @@
     },
     {
       "linkName": "Exotic Brawn",
-<<<<<<< HEAD
       "linkBonus": "Augmente la Force de 10",
-=======
-      "linkBonus": "Increases Strength by 10",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
       "driftersNeeded": "3",
       "drifters": [
         {
@@ -262,8 +212,4 @@
       ]
     }
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02

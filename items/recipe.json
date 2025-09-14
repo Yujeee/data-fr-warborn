@@ -4,116 +4,62 @@
     {
       "id": "strength-potion-recipe",
       "name": "Strength Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente la Force mais réduit l'Agilité et l'Intelligence",
-=======
-      "description": "Increases Strength but reduces Agility and Intelligence",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente la Force mais réduit l'Agilité et l'Intelligence",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "agility-potion-recipe",
       "name": "Agility Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente l'Agilité mais réduit la Force",
-=======
-      "description": "Increases Agility but reduces Strength",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente l'Agilité mais réduit la Force",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "intelligence-potion-recipe",
       "name": "Intelligence Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente l'Intelligence mais réduit la Force",
-=======
-      "description": "Increases Intelligence but reduces Strength",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente l'Intelligence mais réduit la Force",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "gathering-potion-recipe",
       "name": "Gathering Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente la Récolte, la Vitesse de Récolte et la Limite de Poids",
-=======
-      "description": "Increases Gathering, Gathering Speed and Weight Limit",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente la Récolte, la Vitesse de Récolte et la Limite de Poids",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "lethal-potion-recipe",
       "name": "Lethal Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente les Critiques d'Attaque de Base mais réduit le Bonus de Compétence",
-=======
-      "description": "Increases Basic Attack Crit but reduces Skill Bonus",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente les Critiques d'Attaque de Base mais réduit le Bonus de Compétence",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "regeneration-potion-recipe",
       "name": "Regeneration Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente les PV Max et la Récupération de PV",
-=======
-      "description": "Increases max HP and HP Recovery",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente les PV Max et la Récupération de PV",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "ironskin-potion-recipe",
       "name": "Ironskin Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente les Résistances, le Blocage mais réduit les dégâts et les soins",
-=======
-      "description": "Increases Resistances, Block but reduces damage and healing",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente les Résistances, le Blocage mais réduit les dégâts et les soins",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "cooldown-potion-recipe",
       "name": "Cooldown Potion Recipe",
-<<<<<<< HEAD
-      "description": "Accélère le temps de recharge mais réduit les dégâts et les soins",
-=======
-      "description": "Speeds up cooldown but reduces damage and healing",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Accélère le temps de recharge mais réduit les dégâts et les soins",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "lifesteal-potion-recipe",
       "name": "Lifesteal Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente le Vol de Vie d'Attaque de Base mais réduit les PV Max",
-=======
-      "description": "Increases Basic Attack Lifesteal but reduces max HP",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente le Vol de Vie d'Attaque de Base mais réduit les PV Max",      "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "burst-potion-recipe",
       "name": "Burst Potion Recipe",
-<<<<<<< HEAD
-      "description": "Augmente le Bonus de Compétence et le Temps de Recharge",
-=======
-      "description": "Increases Skill Bonus and Cooldown",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "category": "recipe",
+      "description": "Augmente le Bonus de Compétence et le Temps de Recharge",      "category": "recipe",
       "rarity": "common"
     }
   ]
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
+}

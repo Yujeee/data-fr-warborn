@@ -7,12 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-<<<<<<< HEAD
-    "description": "[Peste]: Inflige \n[Taux de Dégâts: 20%] Dégâts Magiques chaque\n3s pendant 13s. Se cumule jusqu'à 10 fois.\nQuand une cible affectée par [Peste] meurt, inflige  \n[Taux de Dégâts: 120%] Dégâts Magiques à jusqu'à 5 autres ennemis\nproches."
-=======
-    "description": "[Plague]: Deals \n[Damage Rate: 20%] Magic Damage every\n3s for 13s. Stacks up to 10 times.\nWhen a target affected by [Plague] dies, deals  \n[Damage Rate: 120%] Magic Damage to up to 5 other nearby\nenemies."
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-  },
+    "description": "[Peste]: Inflige \n[Taux de Dégâts: 20%] Dégâts Magiques chaque\n3s pendant 13s. Se cumule jusqu'à 10 fois.\nQuand une cible affectée par [Peste] meurt, inflige  \n[Taux de Dégâts: 120%] Dégâts Magiques à jusqu'à 5 autres ennemis\nproches."  },
   "basicAttacks": [
     {
       "gameId": "CurseAttack_1",
@@ -21,12 +16,7 @@
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "Inflige \n[Taux de Dégâts: 90%] Dégâts Magiques et applique\n[Peste].",
-=======
-      "description": "Deals \n[Damage Rate: 90%] Magic Damage and applies\n[Plague].",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2"
+      "description": "Inflige \n[Taux de Dégâts: 90%] Dégâts Magiques et applique\n[Peste].",      "tierUnlock": "2"
     },
     {
       "gameId": "CurseAttack_2",
@@ -35,12 +25,7 @@
       "cooldown": "0.5",
       "castingRange": "18",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "Invoque pendant 1.2s, libérant une onde de choc dans la direction\nciblée; inflige \n[Taux de Dégâts: 100%] Dégâts Magiques aux\nennemis sur son chemin et applique [Peste].",
-=======
-      "description": "Casts for 1.2s, releasing a shockwave in the target\ndirection; deals \n[Damage Rate: 100%] Magic Damage to\nenemies in its path and applies [Plague].",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "4"
+      "description": "Invoque pendant 1.2s, libérant une onde de choc dans la direction\nciblée; inflige \n[Taux de Dégâts: 100%] Dégâts Magiques aux\nennemis sur son chemin et applique [Peste].",      "tierUnlock": "4"
     },
     {
       "gameId": "CurseAttack_3",
@@ -49,12 +34,7 @@
       "cooldown": "2",
       "castingRange": "16",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "Lance une flaque de venin à l'emplacement ciblé, d'une durée de 3s,\nralentissant les ennemis à l'intérieur de 20% et causant [Peste]\nchaque seconde.",
-=======
-      "description": "Throws a pool of venom at the target location, lasting 3s,\nslowing enemies inside by 20% and inflicting [Plague]\nevery second.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "6"
+      "description": "Lance une flaque de venin à l'emplacement ciblé, d'une durée de 3s,\nralentissant les ennemis à l'intérieur de 20% et causant [Peste]\nchaque seconde.",      "tierUnlock": "6"
     }
   ],
   "commonSkills": [
@@ -65,12 +45,7 @@
       "cooldown": "14",
       "castingRange": "12",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Inflige \n[Taux de Dégâts: 125%] Dégâts Magiques à la cible chaque\n0.7s, cause [Peste], et restaure \n[Taux de Soin: 25%]\nPV\nNe peut pas bouger pendant la canalisation.",
-=======
-      "description": "Deals \n[Damage Rate: 125%] Magic Damage to target every\n0.7s, inflicts [Plague], and restores \n[Healing Rate: 25%]\nHP\nCannot move while channeling.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1"
+      "description": "Inflige \n[Taux de Dégâts: 125%] Dégâts Magiques à la cible chaque\n0.7s, cause [Peste], et restaure \n[Taux de Soin: 25%]\nPV\nNe peut pas bouger pendant la canalisation.",      "tierUnlock": "1"
     },
     {
       "gameId": "Curse_Common_Skill_2",
@@ -79,12 +54,7 @@
       "cooldown": "11",
       "castingRange": "16",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Invoque pendant 0.5s, lançant de la Matière Toxique à la cible. Au\ncontact d'un ennemi, elle rebondit vers d'autres ennemis dans un rayon de 7m\njusqu'à 9 fois. Chaque cible peut être touchée jusqu'à 2 fois.\nChaque coup inflige \n[Taux de Dégâts: 100%] Dégâts Magiques et\ncause 1 cumul de Peste et réduit la Résistance Magique\nde 15% pendant 4s.",
-=======
-      "description": "Casts for 0.5s, launching Toxic Matter at the target. Upon\nhitting an enemy, it bounces to other enemies within 7m\nup to 9 times. Each target can be hit up to 2 times.\nEach hit deals \n[Damage Rate: 100%] Magic Damage and\ninflicts 1 stack of Plague and reduces Magic Resistance\nby 15% for 4s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "8"
+      "description": "Invoque pendant 0.5s, lançant de la Matière Toxique à la cible. Au\ncontact d'un ennemi, elle rebondit vers d'autres ennemis dans un rayon de 7m\njusqu'à 9 fois. Chaque cible peut être touchée jusqu'à 2 fois.\nChaque coup inflige \n[Taux de Dégâts: 100%] Dégâts Magiques et\ncause 1 cumul de Peste et réduit la Résistance Magique\nde 15% pendant 4s.",      "tierUnlock": "8"
     },
     {
       "gameId": "Curse_Common_Skill_3",
@@ -93,12 +63,7 @@
       "cooldown": "9.3",
       "castingRange": "18",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Libère une vague de peste dans la direction ciblée, infligeant \n[Taux de Dégâts: 160%] Dégâts Magiques aux ennemis touchés,\ncausant 2 cumuls de [Peste] et réduisant la Vitesse de 30%\npendant 4s.",
-=======
-      "description": "Releases a plague surge in target direction, dealing \n[Damage Rate: 160%] Magic Damage to enemies hit,\ninflicting 2 stacks of [Plague] and reducing Speed by 30%\nfor 4s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "3"
+      "description": "Libère une vague de peste dans la direction ciblée, infligeant \n[Taux de Dégâts: 160%] Dégâts Magiques aux ennemis touchés,\ncausant 2 cumuls de [Peste] et réduisant la Vitesse de 30%\npendant 4s.",      "tierUnlock": "3"
     },
     {
       "gameId": "Curse_Common_Skill_4",
@@ -107,12 +72,7 @@
       "cooldown": "1.8",
       "castingRange": "9",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Tant qu'actif, consomme 15 PM toutes les 3s et cause\n[Peste] aux ennemis proches. Les Attaques de Base ont 30%\nde chance de rater pendant 9s.\nUtiliser à nouveau pour désactiver. Se désactive automatiquement quand\nles PM sont insuffisants.",
-=======
-      "description": "While active, consumes 15 MP every 3s and inflicts\n[Plague] to nearby enemies. Basic Attacks have a 30%\nchance to miss for 9s.\nUse again to deactivate. Automatically deactivates when\nMP is insufficient.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "5"
+      "description": "Tant qu'actif, consomme 15 PM toutes les 3s et cause\n[Peste] aux ennemis proches. Les Attaques de Base ont 30%\nde chance de rater pendant 9s.\nUtiliser à nouveau pour désactiver. Se désactive automatiquement quand\nles PM sont insuffisants.",      "tierUnlock": "5"
     },
     {
       "gameId": "Curse_Common_Skill_5",
@@ -121,12 +81,7 @@
       "cooldown": "14",
       "castingRange": "12",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Invoque un champ drainant à l'emplacement ciblé, d'une durée\nde 6s. Ralentit les ennemis à l'intérieur de 30% et cause [Épuisement]\nchaque 1s pendant 6s, se cumulant jusqu'à 6 fois. \n[Épuisement]\nBonus de Dégâts: -6% (-6% par cumul, peut se cumuler)\nBonus de Soin: -6% (-6% par cumul, peut se cumuler)\nVitesse d'Attaque: -6% (-6% par cumul, peut se cumuler)",
-=======
-      "description": "Summons a draining field at the target location, lasting\n6s. Slows enemies inside by 30% and inflicts [Exhaustion]\nevery 1s for 6s, stacking up to 6 times. \n[Exhaustion]\nDamage Boost: -6% (-6% per stack, can stack)\nHealing Bonus: -6% (-6% per stack, can stack)\nAttack Speed: -6% (-6% per stack, can stack)",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "7"
+      "description": "Invoque un champ drainant à l'emplacement ciblé, d'une durée\nde 6s. Ralentit les ennemis à l'intérieur de 30% et cause [Épuisement]\nchaque 1s pendant 6s, se cumulant jusqu'à 6 fois. \n[Épuisement]\nBonus de Dégâts: -6% (-6% par cumul, peut se cumuler)\nBonus de Soin: -6% (-6% par cumul, peut se cumuler)\nVitesse d'Attaque: -6% (-6% par cumul, peut se cumuler)",      "tierUnlock": "7"
     }
   ],
   "skills": [
@@ -138,12 +93,7 @@
       "cooldown": "16",
       "castingRange": "14",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Après 1s d'incantation, double les cumuls de [Peste] sur une\ncible ennemie et rafraîchit la durée au maximum. Si\nles cumuls doublés dépassent la limite, inflige (\n[Taux de Dégâts: 55%] par cumul) Dégâts Magiques pour les cumuls excédentaires.\nSi la cible n'a pas [Peste], cause au moins un\ncumul de [Peste] et inflige \n[Taux de Dégâts: 55%] Dégâts\nMagiques.",
-=======
-      "description": "After a 1s cast, doubles the stacks of [Plague] on an\nenemy target and refreshes the duration to maximum. If\nthe doubled stacks exceed the limit, deals (\n[Damage Rate: 55%] per stack) Magic Damage for excess stacks.\nIf the target does not have [Plague], inflicts at least one\nstack of [Plague] and deals \n[Damage Rate: 55%] Magic\nDamage.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Après 1s d'incantation, double les cumuls de [Peste] sur une\ncible ennemie et rafraîchit la durée au maximum. Si\nles cumuls doublés dépassent la limite, inflige (\n[Taux de Dégâts: 55%] par cumul) Dégâts Magiques pour les cumuls excédentaires.\nSi la cible n'a pas [Peste], cause au moins un\ncumul de [Peste] et inflige \n[Taux de Dégâts: 55%] Dégâts\nMagiques.",      "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
         "attackPower": "148",
@@ -158,12 +108,7 @@
       "cooldown": "16",
       "castingRange": "16",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Canalise pendant 0.5s pour causer 2 cumuls de [Peste] ainsi que\n[Méchanceté Liée par Sort] aux ennemis à portée, d'une durée de 9s.\n[Méchanceté Liée par Sort]: Chaque compétence active utilisée consomme 10\nPM supplémentaires et inflige \n[Taux de Dégâts: 200%] Dégâts\nMagiques.",
-=======
-      "description": "Channels for 0.5s to inflict 2 stacks of [Plague] as well as\n[Hexbound Malice] to enemies in range, lasting 9s.\n[Hexbound Malice]: Each active skill used consumes 10\nextra MP and inflicts \n[Damage Rate: 200%] Magic\nDamage.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Canalise pendant 0.5s pour causer 2 cumuls de [Peste] ainsi que\n[Méchanceté Liée par Sort] aux ennemis à portée, d'une durée de 9s.\n[Méchanceté Liée par Sort]: Chaque compétence active utilisée consomme 10\nPM supplémentaires et inflige \n[Taux de Dégâts: 200%] Dégâts\nMagiques.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -178,12 +123,7 @@
       "cooldown": "14",
       "castingRange": "14",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Infecte toute cible avec Source de Pestilence pendant 8s. Chaque\nseconde, inflige \n[Taux de Dégâts: 65%] Dégâts Magiques à l'\ninfecté et aux ennemis proches. Cause 1 cumul de [Peste]\net réduit les dégâts infligés de 5% aux ennemis sauf le\nporteur pendant 4s, se cumulant jusqu'à 5 fois.",
-=======
-      "description": "Infects any target with Pestilence Source for 8s. Every\nsecond, deals \n[Damage Rate: 65%] Magic Damage to the\ninfected and nearby enemies. Inflicts 1 stack of [Plague]\nand reduces damage dealt by 5% to enemies except the\ncarrier for 4s, stacking up to 5 times.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Infecte toute cible avec Source de Pestilence pendant 8s. Chaque\nseconde, inflige \n[Taux de Dégâts: 65%] Dégâts Magiques à l'\ninfecté et aux ennemis proches. Cause 1 cumul de [Peste]\net réduit les dégâts infligés de 5% aux ennemis sauf le\nporteur pendant 4s, se cumulant jusqu'à 5 fois.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -198,12 +138,7 @@
       "cooldown": "22",
       "castingRange": "14",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Infecte un ennemi avec [Parasites].\n[Parasites]: Les Parasites durent 12s et infligent \n[Taux de Dégâts: 50%] Dégâts Vrais chaque fois que la cible subit des dégâts\ndirects (intervalle minimum 0.8s). Quand dissipés, infligent \n[Taux de Dégâts: 350%] Dégâts Magiques",
-=======
-      "description": "Infects an enemy with [Parasites].\n[Parasites]: Parasites last 12s and deal \n[Damage Rate: 50%] True Damage whenever the target takes direct\ndamage (minimum interval 0.8s). When dispelled, deals \n[Damage Rate: 350%] Magic Damage",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Infecte un ennemi avec [Parasites].\n[Parasites]: Les Parasites durent 12s et infligent \n[Taux de Dégâts: 50%] Dégâts Vrais chaque fois que la cible subit des dégâts\ndirects (intervalle minimum 0.8s). Quand dissipés, infligent \n[Taux de Dégâts: 350%] Dégâts Magiques",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -218,12 +153,7 @@
       "cooldown": "16",
       "castingRange": "12",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Canalise pendant 0.5s pour maudire une zone circulaire. Après un bref\ndélai, inflige \n[Taux de Dégâts: 250%] Dégâts Magiques à jusqu'à\n10 ennemis à portée, dissipant tous les Buffs, boucliers, et effets\nHoT, et causant [Estropié] pendant 6s. \n[Estropié]\nNe peut pas utiliser de compétences de mouvement ou gagner de buffs, boucliers, ou effets\nHoT\nBonus de Vitesse de Déplacement: -50%",
-=======
-      "description": "Channels for 0.5s to curse a circular area. After a brief\ndelay, deals \n[Damage Rate: 250%] Magic Damage to up to\n10 enemies in range, dispeling all Buffs, shields, and HoT\neffects, and inflicting [Crippled] for 6s. \n[Crippled]\nCannot use movement skills or gain buffs, shields, or HoT\neffects\nMovement Speed Bonus: -50%",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Canalise pendant 0.5s pour maudire une zone circulaire. Après un bref\ndélai, inflige \n[Taux de Dégâts: 250%] Dégâts Magiques à jusqu'à\n10 ennemis à portée, dissipant tous les Buffs, boucliers, et effets\nHoT, et causant [Estropié] pendant 6s. \n[Estropié]\nNe peut pas utiliser de compétences de mouvement ou gagner de buffs, boucliers, ou effets\nHoT\nBonus de Vitesse de Déplacement: -50%",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -238,12 +168,7 @@
       "cooldown": "32",
       "castingRange": "16",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Lance un dispositif qui génère des Nécromistes aléatoirement\ndans la portée toutes les 3s (la portée s'étend graduellement). Le dispositif\ndure 10s.\nLes Nécromistes infligent \n[Taux de Dégâts: 60%] Dégâts Magiques\nchaque 2s, causent [Peste], et réduisent les soins reçus de\n5% pendant 12s, se cumulant jusqu'à 5 fois.",
-=======
-      "description": "Throws a device that generates Necromists randomly\nwithin range every 3s (range gradually expands). Device\nlasts 10s.\nNecromists deal \n[Damage Rate: 60%] Magic Damage\nevery 2s, inflict [Plague], and reduce healing received by\n5% for 12s, stacking up to 5 times.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Lance un dispositif qui génère des Nécromistes aléatoirement\ndans la portée toutes les 3s (la portée s'étend graduellement). Le dispositif\ndure 10s.\nLes Nécromistes infligent \n[Taux de Dégâts: 60%] Dégâts Magiques\nchaque 2s, causent [Peste], et réduisent les soins reçus de\n5% pendant 12s, se cumulant jusqu'à 5 fois.",      "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
         "attackPower": "163",
@@ -258,12 +183,7 @@
       "cooldown": "28",
       "castingRange": "16",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Plante une graine de Floraison de Méchanceté avant de canaliser de l'énergie\nvers elle pendant 3s. La graine grandit graduellement jusqu'à fleurir\n(appuyer sur la compétence à nouveau pour fleurir tôt). Quand elle fleurit, inflige \n[Taux de Dégâts: 360%] Dégâts Magiques aux ennemis proches,\ncause [Peste] basée sur le temps de croissance, et réduit les PV\nMax de 2.5% pendant 12s (se cumule jusqu'à 10 fois).\nLes effets augmentent avec le temps de croissance (cumuls [Peste] 1-2->\n3-10 / cumuls PV Max 1 ->10)",
-=======
-      "description": "Plants a Bloom of Malice seed before channeling energy\nto it for 3s. The seed grows gradually until blooming\n(press skill again to bloom early). When blooming, deals \n[Damage Rate: 360%] Magic Damage to nearby enemies,\ninflicts [Plague] based on growth time, and reduces Max\nHP by 2.5% for 12s (stacks up to 10 times).\nEffects increase with growth time ([Plague] stacks 1-2->\n3-10 / Max HP stacks 1 ->10)",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Plante une graine de Floraison de Méchanceté avant de canaliser de l'énergie\nvers elle pendant 3s. La graine grandit graduellement jusqu'à fleurir\n(appuyer sur la compétence à nouveau pour fleurir tôt). Quand elle fleurit, inflige \n[Taux de Dégâts: 360%] Dégâts Magiques aux ennemis proches,\ncause [Peste] basée sur le temps de croissance, et réduit les PV\nMax de 2.5% pendant 12s (se cumule jusqu'à 10 fois).\nLes effets augmentent avec le temps de croissance (cumuls [Peste] 1-2->\n3-10 / cumuls PV Max 1 ->10)",      "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
         "attackPower": "163",
@@ -271,8 +191,4 @@
       }
     }
   ]
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
+}

@@ -7,12 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-<<<<<<< HEAD
-    "description": "Infliger des dégâts cause [Saignement], infligeant \n[Taux de Dégâts: 30%] Dégâts Physiques chaque seconde pendant 8s, se cumulant jusqu'à\n6 fois (les cumuls n'augmentent pas les dégâts).\nAu maximum de cumuls, déclenche Hémorragie, infligeant  \n[Taux de Dégâts: 100%] Dégâts Physiques + Dégâts Vrais égaux à 4%\ndes PV actuels de la cible et supprime tous les cumuls [Saignement].\nLes Bonus de Dégâts d'Attaque de Base affectent les dégâts de base\net les critiques d'attaque de base peuvent faire critiquer les dégâts."
-=======
-    "description": "Dealing damage inflicts [Bleed], dealing \n[Damage Rate: 30%] Physical Damage every second for 8s, stacking up to\n6 times (stacks do not boost damage).\nAt max stacks, triggers Hemorrhage, dealing  \n[Damage Rate: 100%] Physical Damage + True Damage equal to 4%\nof the target's current HP and removes all [Bleed] stacks.\nBasic Attack Damage Bonuses affect the base damage\nand basic attack critical hits can cause the damage to\ncrit."
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-  },
+    "description": "Infliger des dégâts cause [Saignement], infligeant \n[Taux de Dégâts: 30%] Dégâts Physiques chaque seconde pendant 8s, se cumulant jusqu'à\n6 fois (les cumuls n'augmentent pas les dégâts).\nAu maximum de cumuls, déclenche Hémorragie, infligeant  \n[Taux de Dégâts: 100%] Dégâts Physiques + Dégâts Vrais égaux à 4%\ndes PV actuels de la cible et supprime tous les cumuls [Saignement].\nLes Bonus de Dégâts d'Attaque de Base affectent les dégâts de base\net les critiques d'attaque de base peuvent faire critiquer les dégâts."  },
   "basicAttacks": [
     {
       "gameId": "DaggerAttack_2",
@@ -21,12 +16,7 @@
       "cooldown": "1",
       "castingRange": "7",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques et applique 1 cumul de [Saignement]. \nPeut lancer [Coup Saignant] toutes les 6s.\nFonce vers une cible ennemie, infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques et causant 2 cumuls de [Saignement]",
-=======
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage and applies 1 stack of [Bleed]. \nCan cast [Bleeding Thrust] every 6s.\nDash toward an enemy target, dealing \n[Damage Rate: 160%] Physical Damage and inflicting 2 stacks of [Bleed]",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2"
+      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques et applique 1 cumul de [Saignement]. \nPeut lancer [Coup Saignant] toutes les 6s.\nFonce vers une cible ennemie, infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques et causant 2 cumuls de [Saignement]",      "tierUnlock": "2"
     },
     {
       "gameId": "DaggerAttack_4",
@@ -35,12 +25,7 @@
       "cooldown": "1",
       "castingRange": "12",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques et applique 1 cumul de [Saignement]. \nPeut lancer [Ricochet] toutes les 6s.\nLance une lame à la cible qui inflige \n[Taux de Dégâts: 120%] Dégâts Physiques, cause 1 cumul de [Saignement], et\nrédit leur Vitesse de Déplacement de 40% pendant 2s. Après quoi\nelle rebondit vers 1 ennemi derrière jusqu'à 4 fois",
-=======
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage and applies 1 stack of [Bleed]. \nCan cast [Ricochet] every 6s.\nThrows a blade at the target that deals \n[Damage Rate: 120%] Physical Damage, inflicts 1 stack of [Bleed], and\nreduces their Movement Speed by 40% for 2s. After which\nit bounces to 1 enemy behind up to 4 times",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "4"
+      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques et applique 1 cumul de [Saignement]. \nPeut lancer [Ricochet] toutes les 6s.\nLance une lame à la cible qui inflige \n[Taux de Dégâts: 120%] Dégâts Physiques, cause 1 cumul de [Saignement], et\nrédit leur Vitesse de Déplacement de 40% pendant 2s. Après quoi\nelle rebondit vers 1 ennemi derrière jusqu'à 4 fois",      "tierUnlock": "4"
     },
     {
       "gameId": "DaggerAttack_3",
@@ -49,12 +34,7 @@
       "cooldown": "1",
       "castingRange": "3.5",
       "type": "basic",
-<<<<<<< HEAD
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques et applique 1 cumul de [Saignement]. \nPeut lancer [Briseur d'Armure] toutes les 5s.\nInflige \n[Taux de Dégâts: 200%] Dégâts Physiques aux ennemis\nproches, causant 1 cumul de [Saignement], et réduisant leur\nArmure de 15% pendant 4s.",
-=======
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage and applies 1 stack of [Bleed]. \nCan cast [Armor Breaker] every 5s.\nDeals \n[Damage Rate: 200%] Physical Damage to nearby\nenemies, inflicting 1 stack of [Bleed], and reducing their\nArmor by 15% for 4s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "6"
+      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques et applique 1 cumul de [Saignement]. \nPeut lancer [Briseur d'Armure] toutes les 5s.\nInflige \n[Taux de Dégâts: 200%] Dégâts Physiques aux ennemis\nproches, causant 1 cumul de [Saignement], et réduisant leur\nArmure de 15% pendant 4s.",      "tierUnlock": "6"
     }
   ],
   "commonSkills": [
@@ -65,12 +45,7 @@
       "cooldown": "8.4",
       "castingRange": "12",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Lance 3 lames vers l'avant. Chaque lame inflige  \n[Taux de Dégâts: 80%] Dégâts Physiques à tous les ennemis touchés. En\natteignant la portée max, les lames reviennent, infligeant  \n[Taux de Dégâts: 80%] Dégâts Physiques à ceux touchés et causant 1\ncumul de [Saignement]\nLes coups multiples de lame sur la même cible au-delà du premier\ninfligent 30% de dégâts réduits",
-=======
-      "description": "Throws 3 blades forward. Each blade deals  \n[Damage Rate: 80%] Physical Damage to all enemies hit. Upon\nreaching max range, the blades return, dealing  \n[Damage Rate: 80%] Physical Damage to those hit and inflicting 1\nstack of [Bleed]\nMultiple blade hits on the same target beyond the first\ndeal 30% reduced damage",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "1"
+      "description": "Lance 3 lames vers l'avant. Chaque lame inflige  \n[Taux de Dégâts: 80%] Dégâts Physiques à tous les ennemis touchés. En\natteignant la portée max, les lames reviennent, infligeant  \n[Taux de Dégâts: 80%] Dégâts Physiques à ceux touchés et causant 1\ncumul de [Saignement]\nLes coups multiples de lame sur la même cible au-delà du premier\ninfligent 30% de dégâts réduits",      "tierUnlock": "1"
     },
     {
       "gameId": "Dagger_Common_Skill_2",
@@ -79,12 +54,7 @@
       "cooldown": "14",
       "castingRange": "13",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Fonce 3m vers l'arrière tout en tirant une Lame de Phase vers l'avant\nqui inflige \n[Taux de Dégâts: 100%] Dégâts Physiques au\npremier ennemi touché, causant 1 cumul de [Saignement] et Étourdissant\npendant 0.75s, tout en les marquant aussi pendant 5s.\nRelancer la compétence dans un rayon de 15m tant qu'une marque existe pour\napparaître instantanément derrière la cible, infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques et gagnant +30% de Vitesse d'Attaque\npendant 5s",
-=======
-      "description": "Dashes 3m backward while firing a Phase Blade forward\nthat deals \n[Damage Rate: 100%] Physical Damage to the\nfirst enemy hit, inflicting 1 stack of [Bleed] and Stunning\nfor 0.75s, while also marking them for 5s.\nRecast the skill within 15m while a mark exists to\ninstantly appear behind the target, dealing \n[Damage Rate: 160%] Physical Damage and gaining +30% Attack Speed\nfor 5s",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "3"
+      "description": "Fonce 3m vers l'arrière tout en tirant une Lame de Phase vers l'avant\nqui inflige \n[Taux de Dégâts: 100%] Dégâts Physiques au\npremier ennemi touché, causant 1 cumul de [Saignement] et Étourdissant\npendant 0.75s, tout en les marquant aussi pendant 5s.\nRelancer la compétence dans un rayon de 15m tant qu'une marque existe pour\napparaître instantanément derrière la cible, infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques et gagnant +30% de Vitesse d'Attaque\npendant 5s",      "tierUnlock": "3"
     },
     {
       "gameId": "Dagger_Common_Skill_3",
@@ -93,12 +63,7 @@
       "cooldown": "12",
       "castingRange": "4",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Frappe un ennemi deux fois, infligeant \n[Taux de Dégâts: 180%]\nDégâts Physiques, appliquant 1 cumul de [Saignement] et\nles Désarmant pendant 4s. Augmente les Dégâts d'Attaque de Base de\n25% pendant 5s.",
-=======
-      "description": "Strike an enemy twice, dealing \n[Damage Rate: 180%]\nPhysical Damage, applying 1 stack of [Bleed] and\nDisarming them for 4s. Increases Basic Attack Damage by\n25% for 5s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "5"
+      "description": "Frappe un ennemi deux fois, infligeant \n[Taux de Dégâts: 180%]\nDégâts Physiques, appliquant 1 cumul de [Saignement] et\nles Désarmant pendant 4s. Augmente les Dégâts d'Attaque de Base de\n25% pendant 5s.",      "tierUnlock": "5"
     },
     {
       "gameId": "Dagger_Common_Skill_4",
@@ -107,12 +72,7 @@
       "cooldown": "15",
       "castingRange": "8",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Lance une grenade fumigène pour créer un écran de fumée pendant 6s.\nLes ennemis à l'intérieur sont Ralentis de 40% et ont 55% de chance\nde rater les Attaques de Base. Inflige aussi \n[Taux de Dégâts: 25%]\nDégâts Physiques chaque seconde",
-=======
-      "description": "Throws a smoke grenade to create a smoke screen for 6s.\nEnemies inside are Slowed by 40% and have a 55% chance\nto miss Basic Attacks. Also deals \n[Damage Rate: 25%]\nPhysical Damage every second",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "7"
+      "description": "Lance une grenade fumigène pour créer un écran de fumée pendant 6s.\nLes ennemis à l'intérieur sont Ralentis de 40% et ont 55% de chance\nde rater les Attaques de Base. Inflige aussi \n[Taux de Dégâts: 25%]\nDégâts Physiques chaque seconde",      "tierUnlock": "7"
     },
     {
       "gameId": "Dagger_Common_Skill_5",
@@ -121,12 +81,7 @@
       "cooldown": "22",
       "castingRange": "6",
       "type": "common",
-<<<<<<< HEAD
-      "description": "Supprime instantanément les effets de contrôle et entre en Furtivité.\nEn Furtivité, gagne l'immunité aux effets limitant le mouvement\n(Ralentissement, Immobilisation) pendant 2s. Augmente aussi les dégâts\nde 7% pendant 6s, se cumulant jusqu'à 2 fois.\nPeut être relancé une fois dans les 6s, mais le faire ne supprimera\npas les effets de contrôle à nouveau.\nUtiliser une compétence, infliger des dégâts ou soigner brise\nla Furtivité",
-=======
-      "description": "Instantly removes control effects and enters Stealth.\nWhile in Stealth, gains immunity to movement-limiting\neffects (Slow, Immobilize) for 2s. Also increases damage\nby 7% for 6s, stacking up to 2 times.\nCan be recast once within 6s, but doing so will not remove\ncontrol effects again.\nUsing a skill, dealing damage or inflicting healing breaks\nStealth",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "8"
+      "description": "Supprime instantanément les effets de contrôle et entre en Furtivité.\nEn Furtivité, gagne l'immunité aux effets limitant le mouvement\n(Ralentissement, Immobilisation) pendant 2s. Augmente aussi les dégâts\nde 7% pendant 6s, se cumulant jusqu'à 2 fois.\nPeut être relancé une fois dans les 6s, mais le faire ne supprimera\npas les effets de contrôle à nouveau.\nUtiliser une compétence, infliger des dégâts ou soigner brise\nla Furtivité",      "tierUnlock": "8"
     }
   ],
   "skills": [
@@ -138,12 +93,7 @@
       "cooldown": "1.5",
       "castingRange": "11",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Saute vers la cible et frappe, infligeant \n[Taux de Dégâts\n220%] Dégâts Physiques et appliquant 2 cumuls de [Saignement].\nRécupère \n[Taux de Soin: 110%] PV.\nGagne 1 charge toutes les 20s, jusqu'à 2 charges",
-=======
-      "description": "Leaps to the target and strikes, dealing \n[Damage Rate\n220%] Physical Damage and applying 2 stacks of [Bleed].\nRecovers \n[Healing Rate: 110%] HP.\nGains 1 charge every 20s, up to 2 charges",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Saute vers la cible et frappe, infligeant \n[Taux de Dégâts\n220%] Dégâts Physiques et appliquant 2 cumuls de [Saignement].\nRécupère \n[Taux de Soin: 110%] PV.\nGagne 1 charge toutes les 20s, jusqu'à 2 charges",      "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
         "attackPower": "148",
@@ -160,12 +110,7 @@
       "cooldown": "15",
       "castingRange": "10",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Fonce vers la direction ciblée, laissant une dague\nderrière. À l'arrivée, inflige \n[Taux de Dégâts: 180%] Dégâts\nPhysiques et draine 20 PM des ennemis proches, causant\n2 cumuls de Saignement. Peut être relancé dans les 5s pour retourner à l'\nemplacement de la dague, infligeant \n[Taux de Dégâts: 180%] Dégâts\nPhysiques et drainant 20 PM des ennemis proches,\ncausant 2 cumuls de [Saignement].",
-=======
-      "description": "Dashes toward the target direction, leaving a dagger\nbehind. Upon arrival, deals \n[Damage Rate: 180%] Physical\nDamage and drains 20 MP from nearby enemies, inflicting\n2 stacks of Bleed. Can be recast within 5s to return to the\ndagger's location, dealing \n[Damage Rate: 180%] Physical\nDamage and draining 20 MP from nearby enemies,\ninflicting 2 stacks of [Bleed].",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Fonce vers la direction ciblée, laissant une dague\nderrière. À l'arrivée, inflige \n[Taux de Dégâts: 180%] Dégâts\nPhysiques et draine 20 PM des ennemis proches, causant\n2 cumuls de Saignement. Peut être relancé dans les 5s pour retourner à l'\nemplacement de la dague, infligeant \n[Taux de Dégâts: 180%] Dégâts\nPhysiques et drainant 20 PM des ennemis proches,\ncausant 2 cumuls de [Saignement].",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -182,12 +127,7 @@
       "cooldown": "16",
       "castingRange": "7",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Inflige à l'ennemi un Piège d'Âme, infligeant  \n[Taux de Dégâts: 150%] Dégâts Physiques et se liant à la cible,\nréduisant au silence les deux parties pendant 5s. Pendant cette période, le lanceur\ngagne [Piège d'Âme]. Le lien se brise si la distance dépasse\n12m. \n[Piège d'Âme]\nTaux Critique: +30%\nRésistance aux Dégâts: +50%\nVitesse d'Attaque: +30%\nNe peut pas utiliser de compétences",
-=======
-      "description": "Inflicts the enemy with a Soul Snare, dealing  \n[Damage Rate: 150%] Physical Damage and linking with the target,\nsilencing both parties for 5s. During this period, the caster\ngains [Soul Snare]. The link breaks if distance exceeds\n12m. \n[Soul Snare]\nCritical Rate: +30%\nDamage Resistance: +50%\nAttack Speed: +30%\nCannot use skills",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Inflige à l'ennemi un Piège d'Âme, infligeant  \n[Taux de Dégâts: 150%] Dégâts Physiques et se liant à la cible,\nréduisant au silence les deux parties pendant 5s. Pendant cette période, le lanceur\ngagne [Piège d'Âme]. Le lien se brise si la distance dépasse\n12m. \n[Piège d'Âme]\nTaux Critique: +30%\nRésistance aux Dégâts: +50%\nVitesse d'Attaque: +30%\nNe peut pas utiliser de compétences",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -204,12 +144,7 @@
       "cooldown": "23",
       "castingRange": "9",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Poinçonne dans la direction de la cible, infligeant \n[Taux de Dégâts: 140%] Dégâts Physiques et causant 2 cumuls de [Saignement].\nLe deuxième stade de la compétence peut être lancé dans les 5s: Fonce vers\nla direction ciblée, infligeant \n[Taux de Dégâts: 225%] Dégâts\nPhysiques et causant 2 cumuls de [Saignement] à tous les ennemis\ntouchés. Inflige \n[Taux de Dégâts: 450%] Dégâts Physiques contre\nles ennemis avec moins de 40% de PV.",
-=======
-      "description": "Thrusts in the target's direction, dealing \n[Damage Rate: 140%] Physical Damage and inflicting 2 stacks of [Bleed].\nSkill's second stage can be cast within 5s: Dash toward\ntarget direction, dealing \n[Damage Rate: 225%] Physical\nDamage and inflicting 2 stacks of [Bleed] to all enemies\nhit. Deals \n[Damage Rate: 450%] Physical Damage against\nenemies with less than 40% HP.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Poinçonne dans la direction de la cible, infligeant \n[Taux de Dégâts: 140%] Dégâts Physiques et causant 2 cumuls de [Saignement].\nLe deuxième stade de la compétence peut être lancé dans les 5s: Fonce vers\nla direction ciblée, infligeant \n[Taux de Dégâts: 225%] Dégâts\nPhysiques et causant 2 cumuls de [Saignement] à tous les ennemis\ntouchés. Inflige \n[Taux de Dégâts: 450%] Dégâts Physiques contre\nles ennemis avec moins de 40% de PV.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -226,12 +161,7 @@
       "cooldown": "23",
       "castingRange": "8",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Inflige \n[Taux de Dégâts: 200%] Dégâts Physiques + Dégâts\nVrais égaux à 10% des PV Max de la cible aux ennemis\nproches, tout en causant aussi 2 cumuls de [Saignement].\nSi cette compétence déclenche Hémorragie, récupère 10% des PV Max\net gagne 40%+ de Vitesse de Déplacement pendant 3s.",
-=======
-      "description": "Deals \n[Damage Rate: 200%] Physical Damage + True\nDamage equal to 10% of the target's Max HP to nearby\nenemies, while also inflicting 2 stacks of [Bleed].\nIf this skill triggers Hemorrhage, recovers 10% of Max HP\nand gains 40%+ Movement Speed for 3s.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Inflige \n[Taux de Dégâts: 200%] Dégâts Physiques + Dégâts\nVrais égaux à 10% des PV Max de la cible aux ennemis\nproches, tout en causant aussi 2 cumuls de [Saignement].\nSi cette compétence déclenche Hémorragie, récupère 10% des PV Max\net gagne 40%+ de Vitesse de Déplacement pendant 3s.",      "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
         "attackPower": "155",
@@ -248,12 +178,7 @@
       "cooldown": "23",
       "castingRange": "12",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de Dégâts: 360%]\nDégâts Physiques aux ennemis proches à l'atterrissage,\ncausant 3 cumuls de [Saignement] et [Blocage de Soin] pendant 4s.\nLes ennemis affectés ne peuvent pas être affectés par [Blocage de Soin]\nà nouveau pendant 12s.\nSi cette compétence déclenche Hémorragie, le rechargement est fixé à 12s.\n[Blocage de Soin]: Ne peut pas recevoir de soins.",
-=======
-      "description": "Leaps to the target location, dealing \n[Damage Rate: 360%]\nPhysical Damage to nearby enemies upon landing,\ninflicting 3 stacks of [Bleed] and [Heal Block] for 4s.\nAffected enemies cannot be affected by [Heal Block]\nagain for 12s.\nIf this skill triggers Hemorrhage, cooldown is set to 12s.\n[Heal Block]: Cannot receive healing.",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de Dégâts: 360%]\nDégâts Physiques aux ennemis proches à l'atterrissage,\ncausant 3 cumuls de [Saignement] et [Blocage de Soin] pendant 4s.\nLes ennemis affectés ne peuvent pas être affectés par [Blocage de Soin]\nà nouveau pendant 12s.\nSi cette compétence déclenche Hémorragie, le rechargement est fixé à 12s.\n[Blocage de Soin]: Ne peut pas recevoir de soins.",      "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
         "attackPower": "163",
@@ -270,12 +195,7 @@
       "cooldown": "23",
       "castingRange": "10",
       "type": "skill",
-<<<<<<< HEAD
-      "description": "Fonce vers l'avant, infligeant \n[Taux de Dégâts: 150%] Dégâts\nPhysiques à tous les ennemis touchés, causant 2 cumuls de [Saignement],\net réduisant la Résistance aux Dégâts de 20% pendant 4s.\nLe deuxième stade de la compétence peut être lancé dans les 5s:\nInflige \n[Taux de Dégâts: 300%] Dégâts Physiques aux ennemis\ndans un cône frontal, cause 3 cumuls de [Saignement] tout en\nsautant vers l'arrière",
-=======
-      "description": "Dashes forward, dealing \n[Damage Rate: 150%] Physical\nDamage to all enemies hit, inflicting 2 stacks of [Bleed],\nand reducing Damage Resistance by 20% for 4s.\nSkill's second stage can be cast within 5s:\nDeals \n[Damage Rate: 300%] Physical Damage to enemies\nin a frontal cone, inflicts 3 stacks of [Bleed] while also\nleaping backward",
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
-      "tierUnlock": "2",
+      "description": "Fonce vers l'avant, infligeant \n[Taux de Dégâts: 150%] Dégâts\nPhysiques à tous les ennemis touchés, causant 2 cumuls de [Saignement],\net réduisant la Résistance aux Dégâts de 20% pendant 4s.\nLe deuxième stade de la compétence peut être lancé dans les 5s:\nInflige \n[Taux de Dégâts: 300%] Dégâts Physiques aux ennemis\ndans un cône frontal, cause 3 cumuls de [Saignement] tout en\nsautant vers l'arrière",      "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
         "attackPower": "163",
@@ -285,8 +205,4 @@
       }
     }
   ]
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 11fc2ba887e80f2b7d0576bc6a43bdecad7ebb02
+}
