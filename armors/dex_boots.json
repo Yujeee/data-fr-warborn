@@ -9,7 +9,7 @@
       "cooldown": "28",
       "castingRange": "9",
       "type": "skill",
-      "description": "Step 9m toward target direction. Increases Movement Speed by 40% for 4s.",
+      "description": "Fait un pas de 9m vers la direction ciblée. Augmente la vitesse de déplacement de 40% pendant 4s.",
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -26,7 +26,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Increases Movement Speed by 60% and Attack Speed by 45% for 6s.",
+      "description": "Augmente la vitesse de déplacement de 60% et la vitesse d'attaque de 45% pendant 6s.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -38,7 +38,7 @@
       "cooldown": "25",
       "castingRange": "6",
       "type": "skill",
-      "description": "Dashes 6m in target direction. Gains 15% Critical Rate for 5s. Stacks up to 2 times. Can be used again within 4s.",
+      "description": "Fonce 6m dans la direction ciblée. Gagne 15% de taux critique pendant 5s. Se cumule jusqu'à 2 fois. Peut être réutilisé dans les 4s.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -50,7 +50,7 @@
       "cooldown": "1.5",
       "castingRange": "11",
       "type": "skill",
-      "description": "Quickly dash behind target, dealing \n[Damage Rate: 150%] Physical Damage and increasing Basic Attack Damage by 40% for 6s. Gains 1 charge every 20s, up to 2 charges",
+      "description": "Fonce rapidement derrière la cible, infligeant \n[Taux de dégâts : 150%] de dégâts physiques et augmentant les dégâts d'attaque de base de 40% pendant 6s. Gagne 1 charge toutes les 20s, jusqu'à 2 charges",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -62,7 +62,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Increases Movement Speed by 30%, enters Stealth after 1s, gaining +60% Movement Speed for 4s. Using a skill, dealing damage or inflicting healing breaks Stealth",
+      "description": "Augmente la vitesse de déplacement de 30%, entre en furtivité après 1s, gagnant +60% de vitesse de déplacement pendant 4s. Utiliser une compétence, infliger des dégâts ou soigner brise la furtivité",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -74,7 +74,7 @@
       "cooldown": "18",
       "castingRange": "14",
       "type": "skill",
-      "description": "Remove control effects and dash toward target direction. Gain Control Immunity for 2s. Can be used while skills are disabled",
+      "description": "Supprime les effets de contrôle et fonce vers la direction ciblée. Gagne une immunité au contrôle pendant 2s. Peut être utilisé même quand les compétences sont désactivées",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -91,7 +91,7 @@
       "cooldown": "16",
       "castingRange": "10",
       "type": "skill",
-      "description": "Leave a mark at current position and dash to the target location. Upon arrival, deal \n[Damage Rate: 200%] Physical Damage to enemies in range and reduce their Damage\nResistance by 15% for 4s. Can be cast again within 5\nseconds to return to original position and gain 40%\nMovement Speed for 3s.",
+      "description": "Laisse une marque à la position actuelle et fonce vers l'emplacement ciblé. À l'arrivée, inflige \n[Taux de dégâts : 200%] de dégâts physiques aux ennemis à portée et réduit leur résistance aux dégâts de 15% pendant 4s. Peut être relancé dans les 5 secondes pour retourner à la position originale et gagner 40% de vitesse de déplacement pendant 3s.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -108,7 +108,7 @@
       "cooldown": "29",
       "castingRange": "7",
       "type": "skill",
-      "description": "Boosts up to 5 nearby allies, increasing Attack Speed by 25%, Casting Speed by 30%, and Movement Speed by 30% for 6s",
+      "description": "Améliore jusqu'à 5 alliés proches, augmentant la vitesse d'attaque de 25%, la vitesse d'incantation de 30%, et la vitesse de déplacement de 30% pendant 6s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

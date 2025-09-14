@@ -9,7 +9,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Increases Movement Speed by 50% and restores \n[Healing Rate: 20%] HP every second for 5s.",
+      "description": "Augmente la vitesse de déplacement de 50% et restaure \n[Taux de soin : 20%] de PV chaque seconde pendant 5s.",
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -25,7 +25,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "For every 10% HP lost, gains 1 stack of Movement Speed Increase by 17.5% and damage by 4.5% for 5s. Stacks up to 7 times.",
+      "description": "Pour chaque 10% de PV perdu, gagne 1 cumul d'augmentation de vitesse de déplacement de 17,5% et de dégâts de 4,5% pendant 5s. Se cumule jusqu'à 7 fois.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -41,7 +41,7 @@
       "cooldown": "28",
       "castingRange": "10",
       "type": "skill",
-      "description": "Leap to the target location. Upon landing, grants  \n[Target-based Max HP 22%] Shield to nearby allies for 6s.",
+      "description": "Saute vers l'emplacement ciblé. À l'atterrissage, accorde un bouclier de \n[PV max basé sur la cible 22%] aux alliés proches pendant 6s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -57,7 +57,7 @@
       "cooldown": "42",
       "castingRange": "6",
       "type": "skill",
-      "description": "Enhances Movement Speed by 30%, Max HP and Current HP by 80%, and grants Immunity to Forced Movement (Pull, Knockback) for 6s.",
+      "description": "Améliore la vitesse de déplacement de 30%, les PV max et PV actuels de 80%, et accorde une immunité au mouvement forcé (Traction, Repoussement) pendant 6s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -73,7 +73,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Remove Slow and immobilize effects. Increases Movement Speed by 80% and gains immunity to Slow and immobilize effects for 4s.",
+      "description": "Supprime les effets de ralentissement et d'immobilisation. Augmente la vitesse de déplacement de 80% et gagne une immunité aux effets de ralentissement et d'immobilisation pendant 4s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -89,7 +89,7 @@
       "cooldown": "37",
       "castingRange": "14",
       "type": "skill",
-      "description": "Charges forward 5 times, dealing \n[Damage Rate: 50%]. Physical Damage to enemies in path and knocking them back 4m each time. If knocked into terrain, enemies are stunned for 2s. Immune to control effects and gains +80% Damage. Resistance while charging.",
+      "description": "Charge vers l'avant 5 fois, infligeant \n[Taux de dégâts : 50%] de dégâts physiques aux ennemis sur le chemin et les repoussant de 4m à chaque fois. Si repoussés contre le terrain, les ennemis sont étourdis pendant 2s. Immunisé aux effets de contrôle et gagne +80% de résistance aux dégâts pendant la charge.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -105,7 +105,7 @@
       "cooldown": "28",
       "castingRange": "9",
       "type": "skill",
-      "description": "Leaps to the target location, dealing \n[Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s to enemies upon landing. Then adjusts direction and leaps again toward the target, dealing another \n[Damage Rate: 150%] Physical Damage and inflicting Knockup for 1s on enemies upon landing. During the skill's duration, immune to control effects and gains +80% Damage Resistance.",
+      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de dégâts : 150%] de dégâts physiques et infligeant un projeté pendant 1s aux ennemis à l'atterrissage. Puis ajuste la direction et saute à nouveau vers la cible, infligeant un autre \n[Taux de dégâts : 150%] de dégâts physiques et infligeant un projeté pendant 1s aux ennemis à l'atterrissage. Pendant la durée de la compétence, immunisé aux effets de contrôle et gagne +80% de résistance aux dégâts.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

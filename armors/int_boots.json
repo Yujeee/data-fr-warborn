@@ -1,122 +1,122 @@
 {
   "lastUpdate": "June 6, 2025 6 AM",
-    "boots_intelligence": [
-      {
-        "gameId": "Shoes_Int_4",
-        "gearName": "Arcaneflow Boots",
-        "skillName": "Abundance",
-        "manaCost": "",
-        "cooldown": "28",
-        "castingRange": "6",
-        "type": "skill",
-        "description": "Increases Movement Speed by 50% and restores 8 MP every second for 5s.",
-        "tierUnlock": "1",
-        "rarity": "rare",
-        "stats": {
-          "hp": "675",
-          "dmgBonus": "9.6%",
-          "mpRecovery": "10"
-        }
-      },
-      {
-        "gameId": "Shoes_Int_1",
-        "gearName": "Blinkstep Boots",
-        "skillName": "Flash Step",
-        "manaCost": "",
-        "cooldown": "23",
-        "castingRange": "12",
-        "type": "skill",
-        "description": "Move 12m in target direction. Restore  \n[Healing Rate: 150%] HP and 20 MP.",
-        "tierUnlock": "1",
-        "rarity": "epic"
-      },
-      {
-        "gameId": "Shoes_Int_3",
-        "gearName": "Frostwalker Boots",
-        "skillName": "Frost",
-        "manaCost": "",
-        "cooldown": "28",
-        "castingRange": "6",
-        "type": "skill",
-        "description": "Increases Movement Speed by 55% for 5s. Creates a frost path that lasts 4s. Enemies in the path are slowed by 40% and their Attack Speed is reduced by 45% for 2s.",
-        "tierUnlock": "1",
-        "rarity": "epic"
-      },
-      {
-        "gameId": "Shoes_Int_5",
-        "gearName": "Miasma Stompers",
-        "skillName": "Decay",
-        "manaCost": "",
-        "cooldown": "28",
-        "castingRange": "6",
-        "type": "skill",
-        "description": "Increases Movement Speed by 55%, lasting 5s; creates a path of corruption lasting 4s along movement path.\nEnemies in the path suffer 35% reduced damage dealt and\n30% reduced healing received for 5s.",
-        "tierUnlock": "1",
-        "rarity": "epic"
-      },
-      {
-        "gameId": "Shoes_Int_6",
-        "gearName": "Shifter's Strides",
-        "skillName": "Displacement",
-        "manaCost": "",
-        "cooldown": "28",
-        "castingRange": "16",
-        "type": "skill",
-        "description": "Grants a  \n[Target-based Max HP 25%] shield lasting 4s and\nswaps positions with target player.",
-        "tierUnlock": "1",
-        "rarity": "epic"
-      },
-      {
-        "gameId": "Shoes_Int_7",
-        "gearName": "Phantomstep Boots",
-        "skillName": "Ghost",
-        "manaCost": "",
-        "cooldown": "46",
-        "castingRange": "6",
-        "type": "skill",
-        "description": "After 1.5s cast time, enters Ghost Form, increases Movement Speed by 70% and becomes immune to\ndamage and control effects for 4s. Cannot cast other\nskills or attack while in Ghost form.",
-        "tierUnlock": "1",
-        "rarity": "legendary",
-        "stats": {
-          "hp": "755",
-          "dmgBonus": "9.9%",
-          "mpRecovery": "10"
-        }
-      },
-      {
-        "gameId": "Shoes_Int_2",
-        "gearName": "Savagefoot Boots",
-        "skillName": "Berserk",
-        "manaCost": "",
-        "cooldown": "28",
-        "castingRange": "6",
-        "type": "skill",
-        "description": "Increases Movement Speed by 70% and damage by 20%\nfor 6s.\nWhen effect ends, reduces Damage Resistance by 15% for 4s",
-        "tierUnlock": "1",
-        "rarity": "legendary",
-        "stats": {
-          "hp": "755",
-          "dmgBonus": "9.9%",
-          "mpRecovery": "10"
-        }
-      },
-      {
-        "isActive": false,
-        "gameId": "Shoes_Int_8",
-        "gearName": "Shoes_Int_8",
-        "skillName": "Shoes_Int_8",
-        "manaCost": "",
-        "cooldown": "",
-        "castingRange": "",
-        "type": "skill",
-        "description": "",
-        "tierUnlock": "1",
-        "rarity": "legendary",
-        "stats": {
-          "hp": "",
-          "dmgBonus": "",
-          "mpRecovery": ""
-        }
+  "boots_intelligence": [
+    {
+      "gameId": "Shoes_Int_4",
+      "gearName": "Arcaneflow Boots",
+      "skillName": "Abundance",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Augmente la vitesse de déplacement de 50% et restaure 8 PM chaque seconde pendant 5s.",
+      "tierUnlock": "1",
+      "rarity": "rare",
+      "stats": {
+        "hp": "675",
+        "dmgBonus": "9.6%",
+        "mpRecovery": "10"
       }
-    ]
+    },
+    {
+      "gameId": "Shoes_Int_1",
+      "gearName": "Blinkstep Boots",
+      "skillName": "Flash Step",
+      "manaCost": "",
+      "cooldown": "23",
+      "castingRange": "12",
+      "type": "skill",
+      "description": "Se déplace de 12m dans la direction ciblée. Restaure \n[Taux de soin : 150%] de PV et 20 PM.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_3",
+      "gearName": "Frostwalker Boots",
+      "skillName": "Frost",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Augmente la vitesse de déplacement de 55% pendant 5s. Crée un chemin de givre qui dure 4s. Les ennemis sur le chemin sont ralentis de 40% et leur vitesse d'attaque est réduite de 45% pendant 2s.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_5",
+      "gearName": "Miasma Stompers",
+      "skillName": "Decay",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Augmente la vitesse de déplacement de 55%, d'une durée de 5s ; crée un chemin de corruption d'une durée de 4s le long du chemin de déplacement. Les ennemis sur le chemin subissent 35% de dégâts infligés réduits et 30% de soins reçus réduits pendant 5s.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_6",
+      "gearName": "Shifter's Strides",
+      "skillName": "Displacement",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "16",
+      "type": "skill",
+      "description": "Accorde un bouclier de \n[PV max basé sur la cible 25%] d'une durée de 4s et échange les positions avec le joueur ciblé.",
+      "tierUnlock": "1",
+      "rarity": "epic"
+    },
+    {
+      "gameId": "Shoes_Int_7",
+      "gearName": "Phantomstep Boots",
+      "skillName": "Ghost",
+      "manaCost": "",
+      "cooldown": "46",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Après 1,5s de temps d'incantation, entre en forme fantôme, augmente la vitesse de déplacement de 70% et devient immunisé aux dégâts et effets de contrôle pendant 4s. Ne peut pas lancer d'autres compétences ou attaquer en forme fantôme.",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "gameId": "Shoes_Int_2",
+      "gearName": "Savagefoot Boots",
+      "skillName": "Berserk",
+      "manaCost": "",
+      "cooldown": "28",
+      "castingRange": "6",
+      "type": "skill",
+      "description": "Augmente la vitesse de déplacement de 70% et les dégâts de 20% pendant 6s. Quand l'effet se termine, réduit la résistance aux dégâts de 15% pendant 4s",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "755",
+        "dmgBonus": "9.9%",
+        "mpRecovery": "10"
+      }
+    },
+    {
+      "isActive": false,
+      "gameId": "Shoes_Int_8",
+      "gearName": "Shoes_Int_8",
+      "skillName": "Shoes_Int_8",
+      "manaCost": "",
+      "cooldown": "",
+      "castingRange": "",
+      "type": "skill",
+      "description": "",
+      "tierUnlock": "1",
+      "rarity": "legendary",
+      "stats": {
+        "hp": "",
+        "dmgBonus": "",
+        "mpRecovery": ""
+      }
+    }
+  ]
 }

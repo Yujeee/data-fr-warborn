@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "When dealing weapon skill damage, applies [Target Mark] for 8s. After dealing Basic Attack Damage 3 times to a marked target, deals \n[Damage Rate: 90%] additional Physical Damage, inflicts 25% Slow for 2s, and increases\nMovement Speed by 25% for 2s, also grants the next 2\nBasic Attacks +60% Attack Speed for 6s. Basic Attack\nDamage Bonuses affect damage and basic attack critical\nhits can cause the damage to crit.\nRemoves [Target Mark] after triggering."
+    "description": "Quand on inflige des dégâts de compétence d'arme, applique [Marque de cible] pendant 8s. Après avoir infligé des dégâts d'attaque de base 3 fois à une cible marquée, inflige \n[Taux de dégâts : 90%] de dégâts physiques supplémentaires, inflige 25% de ralentissement pendant 2s, et augmente la vitesse de déplacement de 25% pendant 2s, accorde aussi aux 2 prochaines attaques de base +60% de vitesse d'attaque pendant 6s. Les bonus de dégâts d'attaque de base affectent les dégâts et les critiques d'attaque de base peuvent faire critiquer les dégâts. Supprime [Marque de cible] après déclenchement."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Split Arrow].\nDeals \n[Damage Rate: 80%] Physical Damage to up to 5\nenemies in a frontal cone",
+      "description": "Remplace l'attaque de base par [Flèche divisée]. Inflige \n[Taux de dégâts : 80%] de dégâts physiques à jusqu'à 5 ennemis dans un cône frontal",
       "tierUnlock": "4"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "1.5",
       "castingRange": "9",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Piercing Arrow].\nFires an arrow forward, dealing \n[Damage Rate: 170%]\nPhysical Damage and reducing Armor by 10% for 4s to all\nenemies hit.\nRange increases with charge time",
+      "description": "Remplace l'attaque de base par [Flèche perçante]. Tire une flèche vers l'avant, infligeant \n[Taux de dégâts : 170%] de dégâts physiques et réduisant l'armure de 10% pendant 4s à tous les ennemis touchés. La portée augmente avec le temps de charge",
       "tierUnlock": "6"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Physical\nDamage to the target. \nEvery 6th Basic Attack becomes [Venom Arrow].\nDeals \n[Damage Rate: 100%] Physical Damage and inflicts\nVenom. \n[Venom]\nDeals \n[Damage Rate: 15%] Magic Damage every second\nfor 6s. Stacks up to 3 times ..",
+      "description": "[Attaque de base] : Inflige \n[Taux de dégâts : 80%] de dégâts physiques à la cible. Chaque 6ème attaque de base devient [Flèche venimeuse]. Inflige \n[Taux de dégâts : 100%] de dégâts physiques et inflige Venin. [Venin] Inflige \n[Taux de dégâts : 15%] de dégâts magiques chaque seconde pendant 6s. Se cumule jusqu'à 3 fois.",
       "tierUnlock": "2"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "12",
       "castingRange": "6",
       "type": "common",
-      "description": "Gains 10 explosive arrows for 12s.\nWhen Basic Attacks or skill arrows hit enemies, deal \n[Damage Rate: 40%] Physical Damage to up to 5 nearby\nenemies",
+      "description": "Gagne 10 flèches explosives pendant 12s. Quand les attaques de base ou les flèches de compétence touchent des ennemis, inflige \n[Taux de dégâts : 40%] de dégâts physiques à jusqu'à 5 ennemis proches",
       "tierUnlock": "5"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "15",
       "castingRange": "6",
       "type": "common",
-      "description": "Gains 10 frost arrows for 12s.\nBasic Attacks and skill arrows deal \n[Damage Rate: 50%]\nadditional Physical Damage and inflict 40% Slow for 2s\non hit.",
+      "description": "Gagne 10 flèches de givre pendant 12s. Les attaques de base et les flèches de compétence infligent \n[Taux de dégâts : 50%] de dégâts physiques supplémentaires et infligent 40% de ralentissement pendant 2s au toucher.",
       "tierUnlock": "8"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "",
       "castingRange": "",
       "type": "common",
-      "description": " Fires a sleep arrow forward while self-knockback 14m. Deals \n[Damage Rate: 200%] Physical Damage on first enemy hit and applies Sleep for 5 seconds.",
+      "description": "Tire une flèche de sommeil vers l'avant tout en se repoussant de 14m. Inflige \n[Taux de dégâts : 200%] de dégâts physiques au premier ennemi touché et applique Sommeil pendant 5 secondes.",
       "tierUnlock": "4"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "14",
       "castingRange": "16",
       "type": "common",
-      "description": "Fires a silencing arrow forward. The first enemy hit takes \n[Damage Rate: 100%] Physical Damage. After 2s, the\narrow inflicts \n[Damage Rate: 180%] additional Magic\nDamage and applies Silence for 3s to enemies within 5m.",
+      "description": "Tire une flèche de silence vers l'avant. Le premier ennemi touché subit \n[Taux de dégâts : 100%] de dégâts physiques. Après 2s, la flèche inflige \n[Taux de dégâts : 180%] de dégâts magiques supplémentaires et applique Silence pendant 3s aux ennemis dans un rayon de 5m.",
       "tierUnlock": "7"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "1.5",
       "castingRange": "14",
       "type": "common",
-      "description": "Fires three binding arrows forward. The first player hit by\neach takes \n[Damage Rate: 100%] Physical Damage\n(\n[Damage Rate: 150%] Physical Damage to mobs) and is\nImmobilized for 1.5s.\nGains 1 charge every 14s, up to 2 charges.",
+      "description": "Tire trois flèches de liaison vers l'avant. Le premier joueur touché par chacune subit \n[Taux de dégâts : 100%] de dégâts physiques (\n[Taux de dégâts : 150%] de dégâts physiques aux créatures) et est immobilisé pendant 1,5s. Gagne 1 charge toutes les 14s, jusqu'à 2 charges.",
       "tierUnlock": "2"
     }
   ],
@@ -102,7 +102,7 @@
       "cooldown": "1.5",
       "castingRange": "14",
       "type": "skill",
-      "description": "Rains arrows down at the target location, dealing \n[Damage Rate: 180%] Physical Damage to players\n(\n[Damage Rate: 270%] Physical Damage to mobs) and\ninflicting 30% Slow for 3s.\nGains 1 charge every 12s, up to 3 charges",
+      "description": "Fait pleuvoir des flèches sur l'emplacement ciblé, infligeant \n[Taux de dégâts : 180%] de dégâts physiques aux joueurs (\n[Taux de dégâts : 270%] de dégâts physiques aux créatures) et infligeant 30% de ralentissement pendant 3s. Gagne 1 charge toutes les 12s, jusqu'à 3 charges",
       "tierUnlock": "3",
       "rarity": "rare",
       "stats": {
@@ -118,7 +118,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "skill",
-      "description": "Gains 18 Splintershot and +30% Attack Speed for 20s.\nBasic Attacks fire 2 additional arrows (in addition to the\nBasic Attack), each dealing \n[Damage Rate: 30%] Magic\nDamage.",
+      "description": "Gagne 18 Éclats de flèche et +30% de vitesse d'attaque pendant 20s. Les attaques de base tirent 2 flèches supplémentaires (en plus de l'attaque de base), chacune infligeant \n[Taux de dégâts : 30%] de dégâts magiques.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -134,7 +134,7 @@
       "cooldown": "18",
       "castingRange": "26",
       "type": "skill",
-      "description": "Fires a Powershot in the target direction that explodes\nupon hitting the first enemy, dealing \n[Damage Rate: 150%]\nMagic Damage and Stunning up to 5 enemies in the area.\nDamage increases with distance, up to 2x base damage.\nStun duration also scales with distance, starting at a\nminimum of 1 seconds and reaching a maximum of 3\nseconds when the arrow travels 80% of its maximum\nrange.",
+      "description": "Tire un coup puissant dans la direction ciblée qui explose en touchant le premier ennemi, infligeant \n[Taux de dégâts : 150%] de dégâts magiques et étourdissant jusqu'à 5 ennemis dans la zone. Les dégâts augmentent avec la distance, jusqu'à 2x les dégâts de base. La durée d'étourdissement s'adapte aussi à la distance, commençant à un minimum de 1 seconde et atteignant un maximum de 3 secondes quand la flèche parcourt 80% de sa portée maximale.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -150,7 +150,7 @@
       "cooldown": "23",
       "castingRange": "18",
       "type": "skill",
-      "description": "Shoots an Arcbolt in the target direction that deals \n[Damage Rate: 100%] Physical Damage on hit and creates\na lightning disruption field.\nThe field lasts 8s, dealing \n[Damage Rate: 60%] Physical\nDamage to enemies within 6m every 1s and reducing their\nArmor by 10% for 4s. Stacks up to 5 times.",
+      "description": "Tire un éclair d'arc dans la direction ciblée qui inflige \n[Taux de dégâts : 100%] de dégâts physiques au toucher et crée un champ de perturbation électrique. Le champ dure 8s, infligeant \n[Taux de dégâts : 60%] de dégâts physiques aux ennemis dans un rayon de 6m chaque 1s et réduisant leur armure de 10% pendant 4s. Se cumule jusqu'à 5 fois.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -166,7 +166,7 @@
       "cooldown": "18",
       "castingRange": "18",
       "type": "skill",
-      "description": "Fires three Tempest Arrows forward, dealing \n[Damage Rate: 180%] Physical Damage, reducing Attack Speed by\n35% for 4s, and knocking targets back 5m. Enemies\nknocked into terrain are Stunned for 2.5s.\nWhen multiple arrows hit the same target, the damage\nfrom arrows beyond the first is reduced by 30%.",
+      "description": "Tire trois flèches de tempête vers l'avant, infligeant \n[Taux de dégâts : 180%] de dégâts physiques, réduisant la vitesse d'attaque de 35% pendant 4s, et repoussant les cibles de 5m. Les ennemis repoussés contre le terrain sont étourdis pendant 2,5s. Quand plusieurs flèches touchent la même cible, les dégâts des flèches au-delà de la première sont réduits de 30%.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -182,7 +182,7 @@
       "cooldown": "1.5",
       "castingRange": "20",
       "type": "skill",
-      "description": "Shoots 3 Severance Shots in the target direction, dealing \n[Damage Rate: 250%] Physical Damage to enemies hit\nalong the path, reducing their healing received by 20% for\n4s.\nWhen multiple Severance Shots hit the same target, the\ndamage of arrows beyond the first is reduced by 30%.\nGains 1 charge every 12s, up to 3 charges",
+      "description": "Tire 3 coups de séparation dans la direction ciblée, infligeant \n[Taux de dégâts : 250%] de dégâts physiques aux ennemis touchés le long du chemin, réduisant leurs soins reçus de 20% pendant 4s. Quand plusieurs coups de séparation touchent la même cible, les dégâts des flèches au-delà de la première sont réduits de 30%. Gagne 1 charge toutes les 12s, jusqu'à 3 charges",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -198,7 +198,7 @@
       "cooldown": "1.5",
       "castingRange": "18",
       "type": "skill",
-      "description": "Fires a Shadow Vortex in the target direction. The first\nenemy hit takes \n[Damage Rate: 100%] Physical Damage.\nAfter 0.5s, the vortex inflicts \n[Damage Rate: 220%] Magic\nDamage to enemies within 7m, pulls them to the center,\nand Slows them by 40% for 3s.\nGains 1 charge every 20s, up to 2 charges",
+      "description": "Tire un vortex d'ombre dans la direction ciblée. Le premier ennemi touché subit \n[Taux de dégâts : 100%] de dégâts physiques. Après 0,5s, le vortex inflige \n[Taux de dégâts : 220%] de dégâts magiques aux ennemis dans un rayon de 7m, les tire vers le centre, et les ralentit de 40% pendant 3s. Gagne 1 charge toutes les 20s, jusqu'à 2 charges",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

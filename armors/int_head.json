@@ -9,7 +9,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When casting skills, increases Magic Damage dealt by 20% for 6s Trigger Interval: 30s",
+      "description": "Quand on lance des compétences, augmente les dégâts magiques infligés de 20% pendant 6s. Intervalle de déclenchement : 30s",
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -26,7 +26,7 @@
       "cooldown": "20",
       "castingRange": "",
       "type": "passive",
-      "description": "When healing, grants target a  \n[Target-based Max HP 20%] shield for 6s Trigger Interval: 20s",
+      "description": "Quand on soigne, accorde à la cible un bouclier de \n[PV max basé sur la cible 20%] pendant 6s. Intervalle de déclenchement : 20s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -43,7 +43,7 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "When the skill damages an enemy target, it triggers an explosion at their location, dealing  \n[Damage Rate: 180%] Magic Damage to enemies in range and reducing their healing received by 25% for 6s. Trigger Interval: 25s.",
+      "description": "Quand la compétence inflige des dégâts à une cible ennemie, elle déclenche une explosion à leur emplacement, infligeant \n[Taux de dégâts : 180%] de dégâts magiques aux ennemis à portée et réduisant leurs soins reçus de 25% pendant 6s. Intervalle de déclenchement : 25s.",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -60,7 +60,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When skills deal direct damage, creates a poison zone\nlasting 6s. Enemies within 5m take \n[Damage Rate: 25%]\nMagic Damage every second and have their Magic\nResistance reduced by 20%.\nTrigger Interval: 30s",
+      "description": "Quand les compétences infligent des dégâts directs, crée une zone de poison d'une durée de 6s. Les ennemis dans un rayon de 5m subissent \n[Taux de dégâts : 25%] de dégâts magiques chaque seconde et voient leur résistance magique réduite de 20%. Intervalle de déclenchement : 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -77,7 +77,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When casting skills with MP below 40%, gains 10 MP\nevery second for 8s.\nTrigger Interval: 45s",
+      "description": "Quand on lance des compétences avec moins de 40% de PM, gagne 10 PM chaque seconde pendant 8s. Intervalle de déclenchement : 45s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -94,7 +94,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 40% HP, gains a\n[Target-based Max HP 25%] shield and generates a\nrepulsion field lasting 6s. Enemies touching the field take\nDamage Rate: 100%] Magic Damage and are knocked\nback 7m.\nTrigger Interval: 45s",
+      "description": "Quand on subit des dégâts en dessous de 40% de PV, gagne un bouclier de [PV max basé sur la cible 25%] et génère un champ de répulsion d'une durée de 6s. Les ennemis touchant le champ subissent [Taux de dégâts : 100%] de dégâts magiques et sont repoussés de 7m. Intervalle de déclenchement : 45s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -111,7 +111,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When damage taken within 3s exceeds 35% of max HP,\ncreates a healing wave that restores \n[Healing Rate: 200%]\nHP to nearby allies and removes control effects.\nTrigger Interval: 45s",
+      "description": "Quand les dégâts subis en 3s dépassent 35% des PV max, crée une vague de soin qui restaure \n[Taux de soin : 200%] de PV aux alliés proches et supprime les effets de contrôle. Intervalle de déclenchement : 45s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

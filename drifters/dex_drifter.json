@@ -41,7 +41,7 @@
         "cooldown": "27",
         "castingRange": "7",
         "type": "skill",
-        "description": "Activate an Electric Device for 8s.\nElectric Device hits up to 5 enemies every 0.5s for \n[Damage Rate: 40%] Physical Damage, reducing Armor by\n8% for 8s. Stacks up to 10 times.",
+        "description": "Active un dispositif électrique pendant 8s.\nLe dispositif électrique frappe jusqu'à 5 ennemis toutes les 0,5s pour \n[Taux de dégâts : 40%] de dégâts physiques, réduisant l'armure de 8% pendant 8s. Se cumule jusqu'à 10 fois.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -52,7 +52,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Basic Attacks grant 1 stack of Electric Charge. At 5\nstacks, the next attack triggers EMP Blast dealing \n[Damage Rate: 160%] Physical Damage to enemies in\nrange.",
+        "description": "Les attaques de base accordent 1 cumul de charge électrique. À 5 cumuls, la prochaine attaque déclenche une explosion EMP infligeant \n[Taux de dégâts : 160%] de dégâts physiques aux ennemis à portée.",
         "tierUnlock": "4"
       }
     },
@@ -96,7 +96,7 @@
         "cooldown": "42",
         "castingRange": "7",
         "type": "skill",
-        "description": "Creates a void field lasting 8s that envelops the caster\nand up to 5 enemies, dealing 192\n[Damage Rate: 50%]\nMagic Damage to enemies within. Enemies in the void are\nimmune to Physical Damage, cannot perform basic\nattacks, are slowed for 30%, and have their Magic\nResistance reduced by 30%. The caster can still perform\nbasic attacks and gain 35% Basic Attack Lifesteal, while\nalso ignoring the Physical Damage immunity of enemies\nin the void.",
+        "description": "Crée un champ de vide d'une durée de 8s qui enveloppe le lanceur et jusqu'à 5 ennemis, infligeant 192 \n[Taux de dégâts : 50%] de dégâts magiques aux ennemis à l'intérieur. Les ennemis dans le vide sont immunisés aux dégâts physiques, ne peuvent pas effectuer d'attaques de base, sont ralentis de 30%, et ont leur résistance magique réduite de 30%. Le lanceur peut encore effectuer des attaques de base et gagner 35% de vol de vie d'attaque de base, tout en ignorant l'immunité aux dégâts physiques des ennemis dans le vide.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -107,7 +107,7 @@
         "cooldown": "30",
         "castingRange": "",
         "type": "passive",
-        "description": "Converts Physical Damage from Basic Attacks into Magic Damage. Each\ntime an attack deals damage, it reduces the target's Magic Resistance by 4%, for 4s, stacking up\nto 10.",
+        "description": "Convertit les dégâts physiques des attaques de base en dégâts magiques. Chaque fois qu'une attaque inflige des dégâts, elle réduit la résistance magique de la cible de 4%, pendant 4s, se cumulant jusqu'à 10.",
         "tierUnlock": "4"
       }
     },
@@ -151,7 +151,7 @@
         "cooldown": "28",
         "castingRange": "7",
         "type": "skill",
-        "description": "Removes all current shield values, dealing  \n[Damage Rate: 250%] Physical Damage to nearby enemies, while\nalso gaining 55% Attack Speed, 30% Movement Speed,\nand 30% Critical Rate, and becoming Immune to Control\nEffects for 6s.\n Can't be dispelled.",
+        "description": "Supprime toutes les valeurs de bouclier actuelles, infligeant \n[Taux de dégâts : 250%] de dégâts physiques aux ennemis proches, tout en gagnant 55% de vitesse d'attaque, 30% de vitesse de déplacement, et 30% de taux critique, et devenant immunisé aux effets de contrôle pendant 6s. Ne peut pas être dissipé.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -162,7 +162,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "While without Armor, gains 5 Energy per second, and\ngains 5 Energy on Basic Attack Crit. When Energy reaches\n100, restores  \n[Target-based Max HP 15%] Armor.\nWhile with Armor, gains  \n[Target-based Max HP 3%] Armor\non Basic Attack Crit. Armor restored cannot exceed\n[Target-based Max HP 25%]. (Trigger Interval: a cooldown\nof 1 seconds)",
+        "description": "Sans armure, gagne 5 d'énergie par seconde, et gagne 5 d'énergie sur critique d'attaque de base. Quand l'énergie atteint 100, restaure \n[PV max basé sur la cible 15%] d'armure. Avec armure, gagne \n[PV max basé sur la cible 3%] d'armure sur critique d'attaque de base. L'armure restaurée ne peut pas dépasser \n[PV max basé sur la cible 25%]. (Intervalle de déclenchement : une recharge de 1 seconde)",
         "tierUnlock": "4"
       }
     },
@@ -206,7 +206,7 @@
         "cooldown": "18",
         "castingRange": "9",
         "type": "skill",
-        "description": "Releases a Null Pulse in the target direction, dealing\n[Damage Rate: 50%] Physical Damage to enemies in\nrange, knocking them back 12m, and applying Silence and\n40% Slow for 3s.",
+        "description": "Libère une impulsion nulle dans la direction ciblée, infligeant \n[Taux de dégâts : 50%] de dégâts physiques aux ennemis à portée, les repoussant de 12m, et appliquant Silence et 40% de ralentissement pendant 3s.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -217,7 +217,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Has a 35% chance to dodge Basic Attack damage.",
+        "description": "A 35% de chance d'esquiver les dégâts d'attaque de base.",
         "tierUnlock": "4"
       }
     },
@@ -261,7 +261,7 @@
         "cooldown": "56",
         "castingRange": "",
         "type": "skill",
-        "description": "Enters Stealth, gaining [Spectral Shield] and the ability\n[Phantom Bind], lasting 9s.\nSpectral Shield: Grants  \n[Target-based Max HP 25%] shield\neffect; if the Spectral Shield fades out, the Phantom Bind\neffect ends prematurely.\nPhantom Bind: Summon phantoms that track enemies in\nrange, dealing \n[Damage Rate: 183%] Magic Damage\nand replenishing  \n[Target-based Max HP 5%] Spectral\nShield.\nDoesn't break Phantom Clone Stealth ..\nUsing any skill other than Phantom Bind, or dealing direct\nhealing or damage, reveals you for 2s before re-entering\nStealth.\nRecovers 6% HP every 2s while in Stealth.",
+        "description": "Entre en furtivité, gagnant [Bouclier spectral] et la capacité [Lien fantôme], d'une durée de 9s.\nBouclier spectral : Accorde un effet de bouclier de \n[PV max basé sur la cible 25%] ; si le bouclier spectral s'estompe, l'effet de lien fantôme se termine prématurément.\nLien fantôme : Invoque des fantômes qui traquent les ennemis à portée, infligeant \n[Taux de dégâts : 183%] de dégâts magiques et reconstituant \n[PV max basé sur la cible 5%] de bouclier spectral.\nNe brise pas la furtivité de clone fantôme.\nUtiliser toute compétence autre que lien fantôme, ou infliger des soins directs ou des dégâts, vous révèle pendant 2s avant de réentrer en furtivité.\nRécupère 6% de PV toutes les 2s en furtivité.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -272,7 +272,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Enters Stealth when standing still unhurt and not using\nskills for a short duration. Damage, skills, or movement\nbreaks Stealth.\nWarning when enemies are 7-14m away. Stealth breaks\nafter 3s within 7m.\nRecovers 6% HP every 2s while in Stealth",
+        "description": "Entre en furtivité quand on reste immobile sans blessure et sans utiliser de compétences pendant une courte durée. Les dégâts, compétences, ou mouvements brisent la furtivité.\nAvertissement quand les ennemis sont à 7-14m. La furtivité se brise après 3s dans un rayon de 7m.\nRécupère 6% de PV toutes les 2s en furtivité",
         "tierUnlock": "4"
       }
     },
@@ -316,7 +316,7 @@
         "cooldown": "38",
         "castingRange": "15",
         "type": "skill",
-        "description": "Creates a field around the caster, lasting 20s. Then\nscatter 8 Shadow Clones, each dealing \n[Damage Rate: 200%] Physical Damage to those hit. Damage reduces to\n15% for subsequent hits on the same target. While in the\nfield, skill changes to [Shadow Swap]. Touching a\nShadow Clone reduces Shadow Swap's cooldown by 5s,\ngrants  \n[Target-based Max HP 10%] Shield and +20%\nMovement Speed for 4s.\nField disappears when leaving range.\n[Shadow Swap]: Dash forward and increase the Attack\nSpeed of the next 5 basic attacks within 6s by 60%.",
+        "description": "Crée un champ autour du lanceur, d'une durée de 20s. Puis disperse 8 clones d'ombre, chacun infligeant \n[Taux de dégâts : 200%] de dégâts physiques à ceux touchés. Les dégâts se réduisent à 15% pour les coups suivants sur la même cible. Dans le champ, la compétence change en [Échange d'ombre]. Toucher un clone d'ombre réduit la recharge d'échange d'ombre de 5s, accorde un bouclier de \n[PV max basé sur la cible 10%] et +20% de vitesse de déplacement pendant 4s.\nLe champ disparaît en quittant la portée.\n[Échange d'ombre] : Fonce vers l'avant et augmente la vitesse d'attaque des 5 prochaines attaques de base dans les 6s de 60%.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -327,7 +327,7 @@
         "cooldown": "0.8",
         "castingRange": "",
         "type": "passive",
-        "description": "Grants Basic Attacks a 30% chance to trigger a shadow\nstrike for 6s, dealing \n[Damage Rate: 100%] Physical\nDamage (Cooldown: 0.8s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
+        "description": "Accorde aux attaques de base 30% de chance de déclencher une frappe d'ombre pendant 6s, infligeant \n[Taux de dégâts : 100%] de dégâts physiques (Recharge : 0,8s).\nLes bonus de dégâts d'attaque de base affectent les dégâts et les critiques d'attaque de base peuvent faire critiquer les dégâts.",
         "tierUnlock": "4"
       }
     },
@@ -371,7 +371,7 @@
         "cooldown": "42",
         "castingRange": "7",
         "type": "skill",
-        "description": "Activates Crimson Vortex for 6s.\nCrimson Vortex deals \n[Damage Rate: 75%] Magical Damage to up to 5 enemies every second, healing the caster for 60% of damage dealt against players,\n 30% versus monsters.\nDamage increases up to \n[Damage Rate: 150%] as HP drops.",
+        "description": "Active le vortex cramoisi pendant 6s.\nLe vortex cramoisi inflige \n[Taux de dégâts : 75%] de dégâts magiques à jusqu'à 5 ennemis chaque seconde, soignant le lanceur pour 60% des dégâts infligés contre les joueurs, 30% contre les monstres.\nLes dégâts augmentent jusqu'à \n[Taux de dégâts : 150%] quand les PV baissent.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -382,7 +382,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains +4% Damage Resistance and +6% Attack Speed for every 10% HP lost.",
+        "description": "Gagne +4% de résistance aux dégâts et +6% de vitesse d'attaque pour chaque 10% de PV perdu.",
         "tierUnlock": "4"
       }
     },
@@ -426,7 +426,7 @@
         "cooldown": "28",
         "castingRange": "8",
         "type": "skill",
-        "description": "Launches a flurry of slashes at the target and nearby enemies, eache dealing \n[Damage Rate: 120%] Physical Damage. Damage reduces tp 50% after the first hit on the same target. Flurry for 4s with Unstoppable and damage immunity. Can critical hit. Higher attack speed increases attack count.",
+        "description": "Lance une rafale de taillades sur la cible et les ennemis proches, chacune infligeant \n[Taux de dégâts : 120%] de dégâts physiques. Les dégâts se réduisent à 50% après le premier coup sur la même cible. Rafale pendant 4s avec Inarrêtable et immunité aux dégâts. Peut critiquer. Une vitesse d'attaque plus élevée augmente le nombre d'attaques.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -437,7 +437,7 @@
         "cooldown": "1.3",
         "castingRange": "",
         "type": "passive",
-        "description": "On Critical Hit, deals \n[Damage Rate: 70%] Physical\nDamage to nearby enemies, while also reducing their\nArmor by 15% for 4s. (Cooldown: 1.3s)",
+        "description": "Sur critique, inflige \n[Taux de dégâts : 70%] de dégâts physiques aux ennemis proches, tout en réduisant leur armure de 15% pendant 4s. (Recharge : 1,3s)",
         "tierUnlock": "4"
       }
     },
@@ -481,7 +481,7 @@
         "cooldown": "46",
         "castingRange": "8",
         "type": "skill",
-        "description": "Creates a Spectral Disguise granting Stealth to the caster\nand up to 15 nearby allies, increasing Damage Resistance\nby 25% for 8s\nUsing a skill, dealing damage or inflicting healing breaks\nStealth for 4s before reapplying",
+        "description": "Crée un déguisement spectral accordant la furtivité au lanceur et jusqu'à 15 alliés proches, augmentant la résistance aux dégâts de 25% pendant 8s. Utiliser une compétence, infliger des dégâts ou soigner brise la furtivité pendant 4s avant de réappliquer",
         "tierUnlock": "1"
       },
       "passive": {
@@ -492,7 +492,7 @@
         "cooldown": "0.3",
         "castingRange": "",
         "type": "passive",
-        "description": "Skill and Basic Attack hits from the rear deal  \n[Damage Rate: 60%] additional Physical Damage (Cooldown: 0.3s).\nBasic Attack Damage Bonuses affect damage and basic\nattack critical hits can cause the damage to crit.",
+        "description": "Les coups de compétence et d'attaque de base par derrière infligent \n[Taux de dégâts : 60%] de dégâts physiques supplémentaires (Recharge : 0,3s).\nLes bonus de dégâts d'attaque de base affectent les dégâts et les critiques d'attaque de base peuvent faire critiquer les dégâts.",
         "tierUnlock": "4"
       }
     }

@@ -6,7 +6,7 @@
       "iconName": "WeaponRare1",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Basic Attack Damage by %s1%",
+      "description": "Augmente les dégâts d'attaque de base de %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -19,7 +19,7 @@
       "iconName": "WeaponRare2",
       "rarity": "rare",
       "slot": "all",
-      "description": "Increases Skill Effect by %s1%",
+      "description": "Augmente l'effet de compétence de %s1%",
       "arguments": [
         {
           "argumentName": "s1",
@@ -32,7 +32,7 @@
       "iconName": "WeaponEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct Physical Damage, has a %s1% chance to modify the target's Armor by   %s2% for 4s. Trigger Interval: 30s",
+      "description": "Quand les compétences d'arme infligent des dégâts physiques directs, a %s1% de chance de modifier l'armure de la cible de %s2% pendant 4s. Intervalle de déclenchement : 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -49,7 +49,7 @@
       "iconName": "WeaponEpic2",
       "rarity": "epic",
       "slot": "all",
-      "description": "When Basic Attacks deal direct damage, has a (melee weapons %s1% / ranged weapons %s2%) chance to gain  \n[Target-based Max HP %s3%] Shield for 4s.\nTrigger Interval: 30s.",
+      "description": "Quand les attaques de base infligent des dégâts directs, a (armes de mêlée %s1% / armes à distance %s2%) de chance de gagner un bouclier de \n[PV max basé sur la cible %s3%] pendant 4s. Intervalle de déclenchement : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -70,7 +70,7 @@
       "iconName": "WeaponEpic3",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills or Basic Attacks deal Direct\nDamage to enemies under Hard Control effects\n(Stun, Fear, Freeze, Knockup, Petrify), there is a\n%s1% chance to reduce their Damage Resistance by\n%s2% for 4s.\nCooldown: 30s.",
+      "description": "Quand les compétences d'arme ou les attaques de base infligent des dégâts directs aux ennemis sous effets de contrôle dur (Étourdi, Peur, Gelé, Projeté, Pétrifié), il y a %s1% de chance de réduire leur résistance aux dégâts de %s2% pendant 4s. Recharge : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -87,7 +87,7 @@
       "iconName": "WeaponEpic4",
       "rarity": "epic",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to increase Basic Attack\nDamage by %s2% for 6s.\nTrigger Interval: 30s.",
+      "description": "Quand on inflige des dégâts directs avec des attaques de base, a %s1% de chance d'augmenter les dégâts d'attaque de base de %s2% pendant 6s. Intervalle de déclenchement : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -104,7 +104,7 @@
       "iconName": "WeaponEpic5",
       "rarity": "epic",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a (melee weapons %s1% / ranged weapons %s2%)\nchance to modify the target's Movement Speed by\n%s3% for 4s.\nTrigger Interval: 10s",
+      "description": "Quand on inflige des dégâts directs avec des attaques de base, a (armes de mêlée %s1% / armes à distance %s2%) de chance de modifier la vitesse de déplacement de la cible de %s3% pendant 4s. Intervalle de déclenchement : 10s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -125,7 +125,7 @@
       "iconName": "WeaponEpic6",
       "rarity": "epic",
       "slot": "all",
-      "description": "When scoring a Critical Hit, has a %s1% chance to\nmodify the target's Damage Resistance by %s2% for\n4s.\nTrigger Interval: 30s.",
+      "description": "Quand on réussit un coup critique, a %s1% de chance de modifier la résistance aux dégâts de la cible de %s2% pendant 4s. Intervalle de déclenchement : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -142,7 +142,7 @@
       "iconName": "WeaponEpic7",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct Magic Damage, has\na %s1% chance to modify the target's Magic\nResistance by %s2% for 4s.\nTrigger Interval: 30s",
+      "description": "Quand les compétences d'arme infligent des dégâts magiques directs, a %s1% de chance de modifier la résistance magique de la cible de %s2% pendant 4s. Intervalle de déclenchement : 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -159,7 +159,7 @@
       "iconName": "WeaponEpic8",
       "rarity": "epic",
       "slot": "all",
-      "description": "When weapon skills deal direct damage, has a %s1%\nchance to restore %s2% MP.\nTrigger Interval: 10s.",
+      "description": "Quand les compétences d'arme infligent des dégâts directs, a %s1% de chance de restaurer %s2% de PM. Intervalle de déclenchement : 10s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -176,7 +176,7 @@
       "iconName": "WeaponEpic9",
       "rarity": "epic",
       "slot": "all",
-      "description": "When casting weapon skills, has a %s1% chance to\nincrease Cooldown Speed by %s2% for 4s.\nTrigger Interval: 30s.",
+      "description": "Quand on lance des compétences d'arme, a %s1% de chance d'augmenter la vitesse de recharge de %s2% pendant 4s. Intervalle de déclenchement : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -193,7 +193,7 @@
       "iconName": "WeaponEpic10",
       "rarity": "epic",
       "slot": "all",
-      "description": "When landing a Basic Attack crit, %s1% chance to\nincrease Dodge by %s2% for 4s\nCooldown: s30.",
+      "description": "Quand on réussit un critique d'attaque de base, %s1% de chance d'augmenter l'esquive de %s2% pendant 4s. Recharge : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -210,7 +210,7 @@
       "iconName": "WeaponEpic11",
       "rarity": "epic",
       "slot": "all",
-      "description": "When inflicting Hard Control effects (Stun,\nFear, Freeze, Knockup, Petrify, Sleep) with a\nWeapon Skill, %s1% chance to lower the enemy's\nHealing Received by %s2% for 4s\nCooldown: 30s.",
+      "description": "Quand on inflige des effets de contrôle dur (Étourdi, Peur, Gelé, Projeté, Pétrifié, Sommeil) avec une compétence d'arme, %s1% de chance de réduire les soins reçus de l'ennemi de %s2% pendant 4s. Recharge : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -227,7 +227,7 @@
       "iconName": "WeaponEpic12",
       "rarity": "epic",
       "slot": "all",
-      "description": "When inflicting a DOT with a Weapon Basic\nttack or Skill, %s1% chance to recover %s2% HP\nCooldown: 20s.",
+      "description": "Quand on inflige un effet de dégâts dans le temps avec une attaque de base ou compétence d'arme, %s1% de chance de récupérer %s2% de PV. Recharge : 20s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -244,7 +244,7 @@
       "iconName": "WeaponExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "sword",
-      "description": "Only triggers with Greatswords\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to gain 1 stacks of\nSword Momentum and increase Damage\nResistance by %s2% for 4s.\nTrigger Interval: 15s.\nSword Momentum: Damage Boost: +3% (3% per\nstack, can stack)\nDamage Resistance: +4% (4% per stack, can stack)\nAttack Speed: +4% (4% per stack, can stack)",
+      "description": "Ne se déclenche qu'avec les épées à deux mains. Quand les compétences d'arme ou les attaques de base infligent des dégâts directs, a %s1% de chance de gagner 1 cumul d'élan d'épée et d'augmenter la résistance aux dégâts de %s2% pendant 4s. Intervalle de déclenchement : 15s. Élan d'épée : Boost de dégâts : +3% (3% par cumul, cumulable). Résistance aux dégâts : +4% (4% par cumul, cumulable). Vitesse d'attaque : +4% (4% par cumul, cumulable)",
       "arguments": [
         {
           "argumentName": "s1",
@@ -261,7 +261,7 @@
       "iconName": "WeaponExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "mace",
-      "description": "Only triggers with Maces\nWhen weapon skills or Basic Attacks deal Direct\nDamage, has a 35% chance to create a disruption\nfield around the caster. Enemies within take %s1%\nreduced Damage and have their Attack Speed\nreduced by %s2% for 4s.\nCooldown: 15s.",
+      "description": "Ne se déclenche qu'avec les masses. Quand les compétences d'arme ou les attaques de base infligent des dégâts directs, a 35% de chance de créer un champ de perturbation autour du lanceur. Les ennemis à l'intérieur subissent %s1% de dégâts réduits et ont leur vitesse d'attaque réduite de %s2% pendant 4s. Recharge : 15s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -278,7 +278,7 @@
       "iconName": "WeaponExclusiveLgdr3",
       "rarity": "legendary",
       "slot": "axe",
-      "description": "Only triggers with Axes\nWhen gaining the [Bloodthirst] buff, has a 25%\nchance to increase Attack Speed by %s2% and\nDamage by %s1% for 6s.\nTrigger Interval: 20s.",
+      "description": "Ne se déclenche qu'avec les haches. Quand on gagne le buff [Soif de sang], a 25% de chance d'augmenter la vitesse d'attaque de %s2% et les dégâts de %s1% pendant 6s. Intervalle de déclenchement : 20s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -295,7 +295,7 @@
       "iconName": "WeaponExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "bow",
-      "description": "Only triggers with Bows\nWhen arrows deal direct damage, has a %s1%\nchance of creating an explosion at the target\nlocation dealing \n[Damage Rate: %s2%] Physical Damage\n and applying[Target Mark].\n Also stun for 2 seconds.\nTrigger Interval: 15s.",
+      "description": "Ne se déclenche qu'avec les arcs. Quand les flèches infligent des dégâts directs, a %s1% de chance de créer une explosion à l'emplacement de la cible infligeant \n[Taux de dégâts : %s2%] de dégâts physiques et appliquant [Marque de cible]. Étourdit aussi pendant 2 secondes. Intervalle de déclenchement : 15s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -312,7 +312,7 @@
       "iconName": "WeaponExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "spear",
-      "description": "Only triggers with Spears\nWhen scoring a Critical Hit, has a %s1% chance to\nincrease Attack Speed by %s2% for 6s.\nCooldown: 15s",
+      "description": "Ne se déclenche qu'avec les lances. Quand on réussit un coup critique, a %s1% de chance d'augmenter la vitesse d'attaque de %s2% pendant 6s. Recharge : 15s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -329,7 +329,7 @@
       "iconName": "WeaponExclusiveLgdr6",
       "rarity": "legendary",
       "slot": "dagger",
-      "description": "Only triggers with Daggers\nAgainst targets below 40%, Basic Attacks have a\n%s1% chance to deal additional \n[Damage Rate: %s2%]Physical Damage\nand apply 2 stacks of [Bleed].\nTrigger Interval: 15s.\n[Bleed]: Deals \n[Damage Rate: 30%] Physical\nDamage every second for 8s, stacking up to 6\ntimes. At max stacks, causes Hemorrhage,\nremoving all stacks and instantly dealing  \n[Damage Rate: 100%] Physical Damage.",
+      "description": "Ne se déclenche qu'avec les dagues. Contre les cibles en dessous de 40%, les attaques de base ont %s1% de chance d'infliger des dégâts physiques supplémentaires de \n[Taux de dégâts : %s2%] et d'appliquer 2 cumuls de [Saignement]. Intervalle de déclenchement : 15s. [Saignement] : Inflige \n[Taux de dégâts : 30%] de dégâts physiques chaque seconde pendant 8s, se cumulant jusqu'à 6 fois. Au maximum de cumuls, cause une hémorragie, supprimant tous les cumuls et infligeant instantanément \n[Taux de dégâts : 100%] de dégâts physiques.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -346,7 +346,7 @@
       "iconName": "WeaponExclusiveLgdr7",
       "rarity": "legendary",
       "slot": "nature",
-      "description": "Only triggers with Bloom Staves\nWhen weapon skills or Basic Attacks directly heal\nan ally with Recovery, has a %s1% * Recovery stacks\nchance to grant  \n[Target-based Max HP %s2%] Shield\nfor 4s.\nTrigger Interval: 15s.\nRecovery: Restores \n[Healing Rate: 12%] HP every\nsecond for 12s, stacking up to 3 times.",
+      "description": "Ne se déclenche qu'avec les bâtons de floraison. Quand les compétences d'arme ou les attaques de base soignent directement un allié avec récupération, a %s1% * cumuls de récupération de chance d'accorder un bouclier de \n[PV max basé sur la cible %s2%] pendant 4s. Intervalle de déclenchement : 15s. Récupération : Restaure \n[Taux de soin : 12%] de PV chaque seconde pendant 12s, se cumulant jusqu'à 3 fois.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -363,7 +363,7 @@
       "iconName": "WeaponExclusiveLgdr8",
       "rarity": "legendary",
       "slot": "ice",
-      "description": "Only triggers with Ice Foci\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a frost\nexplosion at the target location \nthat deals \n[Damage Rate: %s2%] Magic Damage\n to all enemies within 4m and inflicts Frost.\nTrigger Interval: 20s.\nFrost: Movement Speed is reduced by -40% for 4s,\nSlow gradually diminishes over time",
+      "description": "Ne se déclenche qu'avec les focaliseurs de glace. Quand les compétences d'arme ou les attaques de base infligent des dégâts directs, a %s1% de chance de déclencher une explosion de givre à l'emplacement de la cible qui inflige \n[Taux de dégâts : %s2%] de dégâts magiques à tous les ennemis dans un rayon de 4m et inflige Givre. Intervalle de déclenchement : 20s. Givre : La vitesse de déplacement est réduite de -40% pendant 4s, le ralentissement diminue graduellement avec le temps",
       "arguments": [
         {
           "argumentName": "s1",
@@ -380,7 +380,7 @@
       "iconName": "WeaponExclusiveLgdr9",
       "rarity": "legendary",
       "slot": "fire",
-      "description": "Only triggers with Cannonades\nWhen weapon skills or Basic Attacks deal direct\ndamage, has a %s1% chance to trigger a flame\nexplosion at the target location \nthat deals \n[Damage Rate: %s2%] Magic Damage \nto all enemies within 4m and inflicts 2\nstacks of Burn.\nTrigger Interval: 15s.\nBurn: Deals \n[Damage Rate: 25%] Magic Damage\nevery second for 8s, stacking up to 6 times. At 6\nstacks, removes the effect and deals  \n[Damage Rate: 80%] Magic Damage to enemy targets within\n4m of the carrier.",
+      "description": "Ne se déclenche qu'avec les canonnades. Quand les compétences d'arme ou les attaques de base infligent des dégâts directs, a %s1% de chance de déclencher une explosion de flamme à l'emplacement de la cible qui inflige \n[Taux de dégâts : %s2%] de dégâts magiques à tous les ennemis dans un rayon de 4m et inflige 2 cumuls de brûlure. Intervalle de déclenchement : 15s. Brûlure : Inflige \n[Taux de dégâts : 25%] de dégâts magiques chaque seconde pendant 8s, se cumulant jusqu'à 6 fois. À 6 cumuls, supprime l'effet et inflige \n[Taux de dégâts : 80%] de dégâts magiques aux cibles ennemies dans un rayon de 4m du porteur.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -397,7 +397,7 @@
       "iconName": "WeaponExclusiveLgdr10",
       "rarity": "legendary",
       "slot": "holy",
-      "description": "Only triggers with Radiant Fluxes\nWhen weapon skills or Basic Attacks apply direct\nhealing to allies, has a %s1% chance to increase\ntarget's Damage Resistance by %s2% for 5s.\nTrigger Interval: 15s.",
+      "description": "Ne se déclenche qu'avec les flux radiants. Quand les compétences d'arme ou les attaques de base appliquent des soins directs aux alliés, a %s1% de chance d'augmenter la résistance aux dégâts de la cible de %s2% pendant 5s. Intervalle de déclenchement : 15s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -414,7 +414,7 @@
       "iconName": "WeaponExclusiveLgdr11",
       "rarity": "legendary",
       "slot": "curse",
-      "description": "Only triggers with Voidcallers\nWhen weapon skills or Basic Attacks inflict DoT\neffects on enemies, has a %s1% chance to inflict 2\nstacks of Plague.\nTrigger Interval: %s2%s.\nPlague: Deals \n[Damage Rate: 20%] Magic Damage\nevery 3s for 13s. Stacks up to 10 times.",
+      "description": "Ne se déclenche qu'avec les invocateurs du vide. Quand les compétences d'arme ou les attaques de base infligent des effets de dégâts dans le temps aux ennemis, a %s1% de chance d'infliger 2 cumuls de peste. Intervalle de déclenchement : %s2%s. Peste : Inflige \n[Taux de dégâts : 20%] de dégâts magiques toutes les 3s pendant 13s. Se cumule jusqu'à 10 fois.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -431,7 +431,7 @@
       "iconName": "WeaponExclusiveLgdr12",
       "rarity": "legendary",
       "slot": "gun",
-      "description": "When Weapon Skills or Basic Attacks deal direct\n damage, has a %s1% chance to restore 1 bullet and \n boosts Basic Attack Damage by %s2% for 5s.\nTrigger Interval: 15s.",
+      "description": "Quand les compétences d'arme ou les attaques de base infligent des dégâts directs, a %s1% de chance de restaurer 1 balle et d'augmenter les dégâts d'attaque de base de %s2% pendant 5s. Intervalle de déclenchement : 15s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -448,7 +448,7 @@
       "iconName": "WeaponLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When a weapon skill inflicts Hard Control effects\n(Stun, Fear, Frozen, Knockup, Petrify) or Pull\neffects, it has a %s1% chance to create an\nearthquake at the target's location. After a\n1.5-second delay, it deals\n[Damage Rate: %s2%] Physical Damage and\napplies Stun for %s3% seconds.\nCooldown: 30s.",
+      "description": "Quand une compétence d'arme inflige des effets de contrôle dur (Étourdi, Peur, Gelé, Projeté, Pétrifié) ou des effets de traction, elle a %s1% de chance de créer un tremblement de terre à l'emplacement de la cible. Après un délai de 1,5 seconde, elle inflige \n[Taux de dégâts : %s2%] de dégâts physiques et applique étourdissement pendant %s3% secondes. Recharge : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -469,7 +469,7 @@
       "iconName": "WeaponLgdr2",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When dealing direct damage with Basic Attacks,\nhas a %s1% chance to deal additional\n[Damage Rate: %s2%] Physical Damage \nto the current target and reduce\nMovement Speed by %s3% for 2s.\nTrigger Interval: 30s",
+      "description": "Quand on inflige des dégâts directs avec des attaques de base, a %s1% de chance d'infliger des dégâts physiques supplémentaires de \n[Taux de dégâts : %s2%] à la cible actuelle et de réduire la vitesse de déplacement de %s3% pendant 2s. Intervalle de déclenchement : 30s",
       "arguments": [
         {
           "argumentName": "s1",
@@ -490,7 +490,7 @@
       "iconName": "WeaponLgdr3",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When weapon skills deal direct damage, there is a\n%s1% chance to trigger an explosion at the target\nlocation, dealing \n[Damage Rate: %s2%]Magic Damage \n and increasing\nDamage Resistance by %s3% for 4s.\nTrigger Interval: 30s.",
+      "description": "Quand les compétences d'arme infligent des dégâts directs, il y a %s1% de chance de déclencher une explosion à l'emplacement de la cible, infligeant \n[Taux de dégâts : %s2%] de dégâts magiques et augmentant la résistance aux dégâts de %s3% pendant 4s. Intervalle de déclenchement : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -511,7 +511,7 @@
       "iconName": "WeaponLgdr4",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When dealing Direct Damage with a Weapon\nBasic Attack or Skill, %s1% chance to gain 1 stack\nof a %s2% damage boost buff for every 10% of\nmissing HP. The buff lasts 4s and stacks up to\n5 times\nCooldown: 30s.",
+      "description": "Quand on inflige des dégâts directs avec une attaque de base ou une compétence d'arme, %s1% de chance de gagner 1 cumul d'un buff d'augmentation de dégâts de %s2% pour chaque 10% de PV manquants. Le buff dure 4s et se cumule jusqu'à 5 fois. Recharge : 30s.",
       "arguments": [
         {
           "argumentName": "s1",
@@ -528,7 +528,7 @@
       "iconName": "WeaponLgdr5",
       "rarity": "legendary",
       "slot": "all",
-      "description": "When using a Weapon Skill, %s1% chance to\nreduce the CD of weapon-exclusive skills by %s2% s\nCooldown: 30s.",
+      "description": "Quand on utilise une compétence d'arme, %s1% de chance de réduire la recharge des compétences exclusives d'arme de %s2%s. Recharge : 30s.",
       "arguments": [
         {
           "argumentName": "s1",

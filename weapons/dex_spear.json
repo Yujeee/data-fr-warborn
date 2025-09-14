@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "Using a weapon skill grants [Spear Scar]: The next 4 Basic Attacks gain +60% Attack Speed, +2.5m range, and +30%\nLifesteal. This effect lasts 6s.\nAlso has a 35% chance to grant  \n[Target-based Max HP\n15%] Shield for 2s."
+    "description": "Utiliser une compétence d'arme accorde [Cicatrice de lance] : Les 4 prochaines attaques de base gagnent +60% de vitesse d'attaque, +2,5m de portée et +30% de vol de vie. Cet effet dure 6s. A aussi 35% de chance d'accorder un bouclier de [PV max basés sur la cible 15%] pendant 2s."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "1",
       "castingRange": "7",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage to the target. \nCan cast [Leap Strike] every 5s.\nCharges toward the enemy target, dealing \n[Damage Rate: 170%] Physical Damage and increasing Attack Speed by\n20% for 4s",
+      "description": "[Attaque de base] : Inflige \n[Taux de dégâts : 100%] de dégâts physiques à la cible. Peut lancer [Frappe de saut] toutes les 5s. Charge vers la cible ennemie, infligeant \n[Taux de dégâts : 170%] de dégâts physiques et augmentant la vitesse d'attaque de 20% pendant 4s",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "1",
       "castingRange": "12",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Physical\nDamage to the target. \nPerforms a [Surging Throw] after 5 Basic Attacks.\nDeals \n[Damage Rate: 180%] Physical Damage and\nincreases Movement Speed by 20% for 2s",
+      "description": "[Attaque de base] : Inflige \n[Taux de dégâts : 80%] de dégâts physiques à la cible. Effectue un [Lancer de sursaut] après 5 attaques de base. Inflige \n[Taux de dégâts : 180%] de dégâts physiques et augmente la vitesse de déplacement de 20% pendant 2s",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",
-      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage to the target. \nCan cast [Sweeping Strike] every 5s.\nDeals \n[Damage Rate: 240%] Physical Damage to enemies\nin range. Gains 6% Damage Resistance for every enemy\nhit, lasting 4s. Stacks up to 5 times.",
+      "description": "[Attaque de base] : Inflige \n[Taux de dégâts : 100%] de dégâts physiques à la cible. Peut lancer [Frappe balayante] toutes les 5s. Inflige \n[Taux de dégâts : 240%] de dégâts physiques aux ennemis à portée. Gagne 6% de résistance aux dégâts pour chaque ennemi touché, d'une durée de 4s. Se cumule jusqu'à 5 fois.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "7.5",
       "castingRange": "7",
       "type": "common",
-      "description": "Repeatedly thrusts at enemies in a frontal cone, dealing \n[Damage Rate: 60%] Physical Damage per hit, then\nslashes forward to deal \n[Damage Rate: 130%] Physical\nDamage to enemies in range.",
+      "description": "Poinçonne répétitivement les ennemis dans un cône frontal, infligeant \n[Taux de dégâts : 60%] de dégâts physiques par coup, puis taille vers l'avant pour infliger \n[Taux de dégâts : 130%] de dégâts physiques aux ennemis à portée.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "1.5",
       "castingRange": "12",
       "type": "common",
-      "description": "Throws a lance at the target location, dealing \n[Damage Rate: 160%] Physical Damage and reducing Movement\nSpeed by 25% for 3s to enemies in range.\nThe lance remains at the target location for 6s. Moving to\nits location allows retrieval, granting 20% Movement\nSpeed and 20% Attack Speed for 4s.\nGains 1 charge every 12s, up to 2 charges",
+      "description": "Lance une lance à l'emplacement ciblé, infligeant \n[Taux de dégâts : 160%] de dégâts physiques et réduisant la vitesse de déplacement de 25% pendant 3s aux ennemis à portée. La lance reste à l'emplacement ciblé pendant 6s. Se déplacer à son emplacement permet de la récupérer, accordant 20% de vitesse de déplacement et 20% de vitesse d'attaque pendant 4s. Gagne 1 charge toutes les 12s, jusqu'à 2 charges",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "14",
       "castingRange": "4",
       "type": "common",
-      "description": "Channels for 4s, gaining Control Immunity and 60%\nDamage Resistance. While channeling, reflects 80%\nPhysical Damage back to attackers when taking damage.\nDeals \n[Damage Rate: 40%] Physical Damage to nearby\nenemies every 0.5s.\nRecast again while channeling to charge forward, dealing \n[Damage Rate: 150%] Physical Damage to enemies hit\nand reducing their Armor by 20% for 4s.",
+      "description": "Canonise pendant 4s, gagnant l'immunité au contrôle et 60% de résistance aux dégâts. Pendant la canalisation, reflète 80% de dégâts physiques vers les attaquants quand on subit des dégâts. Inflige \n[Taux de dégâts : 40%] de dégâts physiques aux ennemis proches toutes les 0,5s. Relance à nouveau pendant la canalisation pour charger vers l'avant, infligeant \n[Taux de dégâts : 150%] de dégâts physiques aux ennemis touchés et réduisant leur armure de 20% pendant 4s.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "14",
       "castingRange": "10",
       "type": "common",
-      "description": "Deals \n[Damage Rate: 150%] Physical Damage to enemies\nin front and inflicts Knockup for 1s.\nCan be recast within 6s to slam down, dealing \n[Damage Rate: 150%] Physical Damage to enemies in range and\nreducing their Movement Speed by 45% for 3s",
+      "description": "Inflige \n[Taux de dégâts : 150%] de dégâts physiques aux ennemis devant et inflige un renversement de 1s. Peut être relancée dans les 6s pour s'écraser, infligeant \n[Taux de dégâts : 150%] de dégâts physiques aux ennemis à portée et réduisant leur vitesse de déplacement de 45% pendant 3s",
       "tierUnlock": "7"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "14",
       "castingRange": "6",
       "type": "common",
-      "description": "Instantly removes Control effects, deals \n[Damage Rate: 280%] Physical Damage to enemies in front, and leaps\nback 8m. Increases Movement Speed by 30% for 4s.\nCan be used while skills are disabled",
+      "description": "Supprime instantanément les effets de contrôle, inflige \n[Taux de dégâts : 280%] de dégâts physiques aux ennemis devant et saute en arrière de 8m. Augmente la vitesse de déplacement de 30% pendant 4s. Peut être utilisée même si les compétences sont désactivées",
       "tierUnlock": "8"
     }
   ],
@@ -102,7 +102,7 @@
       "cooldown": "18",
       "castingRange": "5",
       "type": "skill",
-      "description": "Strikes continuously, dealing \n[Damage Rate: 120%]\nPhysical Damage to players (\n[Damage Rate: 240%]\nPhysical Damage to mobs). The final strike deals \n[Damage Rate: 180%] Physical Damage to players\n(\n[Damage Rate: 360%] Physical Damage to mobs). Each\nhit reduces Armor by 7% for 6s, stacking up to 4 times.",
+      "description": "Frappe continuellement, infligeant \n[Taux de dégâts : 120%] de dégâts physiques aux joueurs (\n[Taux de dégâts : 240%] de dégâts physiques aux mobs). Le coup final inflige \n[Taux de dégâts : 180%] de dégâts physiques aux joueurs (\n[Taux de dégâts : 360%] de dégâts physiques aux mobs). Chaque coup réduit l'armure de 7% pendant 6s, se cumulant jusqu'à 4 fois.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -120,7 +120,7 @@
       "cooldown": "23",
       "castingRange": "10",
       "type": "skill",
-      "description": "Leaps to the target location, dealing \n[Damage Rate: 300%]\nPhysical Damage and Immobilizing enemies for 2.5s on\nlanding. Plants a Banner of Justice that lasts 8s. Allies\nwithin its range gain 30% Damage Resistance and 35%\nAttack Speed.",
+      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de dégâts : 300%] de dégâts physiques et immobilisant les ennemis pendant 2,5s à l'atterrissage. Plante une Bannière de justice qui dure 8s. Les alliés dans sa portée gagnent 30% de résistance aux dégâts et 35% de vitesse d'attaque.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -138,7 +138,7 @@
       "cooldown": "18",
       "castingRange": "12",
       "type": "skill",
-      "description": "Charges at the target enemy, dealing \n[Damage Rate: 150%] Physical Damage and inflicting Stun for 1s\n(ignores Control Resistance). Throws the target\nbackward, dealing \n[Damage Rate: 200%] Physical\nDamage to enemies in the landing area and reducing their\nMovement Speed by 30% for 3s.",
+      "description": "Charge vers l'ennemi ciblé, infligeant \n[Taux de dégâts : 150%] de dégâts physiques et infligeant un étourdissement de 1s (ignore la résistance au contrôle). Lance la cible en arrière, infligeant \n[Taux de dégâts : 200%] de dégâts physiques aux ennemis dans la zone d'atterrissage et réduisant leur vitesse de déplacement de 30% pendant 3s.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -156,7 +156,7 @@
       "cooldown": "21",
       "castingRange": "7",
       "type": "skill",
-      "description": "Performs a sweeping strike, dealing \n[Damage Rate: 300%]\nPhysical Damage and knocking enemies back 8m.\nIncreases the caster's Damage Resistance by 50% for 6s.\nCreates a disruption field lasting 8s that Slows enemies\nwithin 8m by 30% and reduces their damage by 20%.",
+      "description": "Effectue une frappe balayante, infligeant \n[Taux de dégâts : 300%] de dégâts physiques et repoussant les ennemis de 8m. Augmente la résistance aux dégâts du lanceur de 50% pendant 6s. Crée un champ de perturbation d'une durée de 8s qui ralentit les ennemis dans un rayon de 8m de 30% et réduit leurs dégâts de 20%.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -174,7 +174,7 @@
       "cooldown": "23",
       "castingRange": "10",
       "type": "skill",
-      "description": "Charges forward, dealing \n[Damage Rate: 50%] Physical\nDamage to all enemies hit. Upon reaching the destination,\nperforms 4 strikes, each dealing \n[Damage Rate: 50%]\nPhysical Damage. Each strike that hits at least one enemy\nrestores \n[Healing Rate: 50%] HP.\nCan be cast again within 6s",
+      "description": "Charge vers l'avant, infligeant \n[Taux de dégâts : 50%] de dégâts physiques à tous les ennemis touchés. En atteignant la destination, effectue 4 frappes, chacune infligeant \n[Taux de dégâts : 50%] de dégâts physiques. Chaque frappe qui touche au moins un ennemi restaure \n[Taux de soin : 50%] de PV. Peut être lancée à nouveau dans les 6s",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -192,7 +192,7 @@
       "cooldown": "1.5",
       "castingRange": "12",
       "type": "skill",
-      "description": "Throws a corroding lance at the target location, dealing\nDamage Rate: 200%] Physical Damage to enemies hit\nand reducing their Max HP by 15% for 4s. Creates an\nexpanding corrosive field lasting 5s that reduces\nMovement Speed by 40% and deals \n[Damage Rate: 80%]\nMagic Damage every second to enemies within.\nGains 1 charge every 25s, up to 2 charges",
+      "description": "Lance une lance corrodante à l'emplacement ciblé, infligeant \n[Taux de dégâts : 200%] de dégâts physiques aux ennemis touchés et réduisant leurs PV max de 15% pendant 4s. Crée un champ corrosif en expansion d'une durée de 5s qui réduit la vitesse de déplacement de 40% et inflige \n[Taux de dégâts : 80%] de dégâts magiques chaque seconde aux ennemis à l'intérieur. Gagne 1 charge toutes les 25s, jusqu'à 2 charges",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -210,7 +210,7 @@
       "cooldown": "1.5",
       "castingRange": "12",
       "type": "skill",
-      "description": "Dashes in the target direction, dealing \n[Damage Rate: 260%] Physical Damage and inflicting Knockup on for 1s.\nInflicts Disarm and reduces Movement Speed by 30% for 4s\nGains 1 charge every 18s, up to 2 charges",
+      "description": "Se précipite dans la direction ciblée, infligeant \n[Taux de dégâts : 260%] de dégâts physiques et infligeant un renversement de 1s. Inflige le désarmement et réduit la vitesse de déplacement de 30% pendant 4s. Gagne 1 charge toutes les 18s, jusqu'à 2 charges",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

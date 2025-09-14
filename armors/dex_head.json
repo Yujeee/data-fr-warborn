@@ -9,7 +9,7 @@
       "cooldown": "60",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 30% HP, immediately restores \n[Healing Rate: 40%] HP every second for 5s. Trigger Interval: 60s",
+      "description": "Quand on subit des dégâts en dessous de 30% de PV, restaure immédiatement \n[Taux de soin : 40%] de PV chaque seconde pendant 5s. Intervalle de déclenchement : 60s",
       "tierUnlock": "1",
       "rarity": "rare",
       "stats": {
@@ -26,7 +26,7 @@
       "cooldown": "30",
       "castingRange": "",
       "type": "passive",
-      "description": "When using Basic Attack, the next 5 Basic Attacks (including the triggering one) within 8s cast additional Chain Lightning onto enemy targets. Upon hitting, it automatically ricochets to the nearest target, up to 5 times, dealing \n[Damage Rate: 60%] Physical Damage per hit. (Trigger Interval: 0.6 seconds) Damage is influenced by Basic Attack damage boost and can crit based on Basic Attack critical rate. Cooldown: 30s",
+      "description": "Quand on utilise une attaque de base, les 5 prochaines attaques de base (y compris celle qui déclenche) dans les 8s lancent un éclair en chaîne supplémentaire sur les cibles ennemies. En touchant, il ricoche automatiquement vers la cible la plus proche, jusqu'à 5 fois, infligeant \n[Taux de dégâts : 60%] de dégâts physiques par coup. (Intervalle de déclenchement : 0,6 secondes) Les dégâts sont influencés par l'augmentation de dégâts d'attaque de base et peuvent critiquer selon le taux critique d'attaque de base. Recharge : 30s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -43,7 +43,7 @@
       "cooldown": "60",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 30% HP, instantly enters Stealth and increases Movement Speed by 30% for 5s. After 1.5 seconds in Stealth, using a skill, dealing damage, or inflicting healing will break Stealth. Trigger Interval: 60s",
+      "description": "Quand on subit des dégâts en dessous de 30% de PV, entre instantanément en furtivité et augmente la vitesse de déplacement de 30% pendant 5s. Après 1,5 seconde en furtivité, utiliser une compétence, infliger des dégâts ou soigner brisera la furtivité. Intervalle de déclenchement : 60s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -60,7 +60,7 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage from Basic Attacks, immediately\ngains +70% Dodge Enhancement for 6s. Trigger Interval: 25",
+      "description": "Quand on subit des dégâts d'attaques de base, gagne immédiatement +70% d'amélioration d'esquive pendant 6s. Intervalle de déclenchement : 25s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -77,7 +77,7 @@
       "cooldown": "25",
       "castingRange": "",
       "type": "passive",
-      "description": "When dealing direct damage with Basic Attacks, grants\n+10% Critical Rate and +35% Attack Speed for 9s. Trigger Interval: 25s",
+      "description": "Quand on inflige des dégâts directs avec des attaques de base, accorde +10% de taux critique et +35% de vitesse d'attaque pendant 9s. Intervalle de déclenchement : 25s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {
@@ -94,7 +94,7 @@
       "cooldown": "120",
       "castingRange": "",
       "type": "passive",
-      "description": "When taking damage at below 20% HP, prevents HP from\nfalling below 1 and regenerates \n[Healing Rate: 30%] HP\nevery second for 4s. Cannot be dispelled.\nTrigger Interval: 120s",
+      "description": "Quand on subit des dégâts en dessous de 20% de PV, empêche les PV de tomber en dessous de 1 et régénère \n[Taux de soin : 30%] de PV chaque seconde pendant 4s. Ne peut pas être dissipé. Intervalle de déclenchement : 120s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -111,7 +111,7 @@
       "cooldown": "45",
       "castingRange": "",
       "type": "passive",
-      "description": "When affected by hard control effects (Stun, Fear, Freeze,\nKnockup, Petrify, Sleep), Silence, or Immobilize:\nInstantly removes all control effects and debuffs, and\ngrants immunity to control effects and Silence, and\nincreases Speed by 25% for 4s.\nTrigger Interval: 45s.",
+      "description": "Quand on est affecté par des effets de contrôle forts (Étourdi, Peur, Gelé, Projeté, Pétrifié, Endormi), Silence, ou Immobilisé : Supprime instantanément tous les effets de contrôle et débuffs, et accorde une immunité aux effets de contrôle et au Silence, et augmente la vitesse de 25% pendant 4s. Intervalle de déclenchement : 45s.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {

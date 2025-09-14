@@ -41,7 +41,7 @@
         "cooldown": "46",
         "castingRange": "20",
         "type": "skill",
-        "description": "Channel void energy for 5s and send forth 37 Void Orbs,\neach dealing \n[Damage Rate: 35%] Magic Damage and\ninflicting [Void Toxin]\nSkill cannot be interrupted.\n[Void Toxin]: Deals \n[Damage Rate: 10%] Magic Damage\nevery second (increases based on stacks) for 12s,\nstacking up to 5 times. [Void Toxin] from different sources\nshare stacks.",
+        "description": "Canalise l'énergie du vide pendant 5s et envoie 37 orbes du vide, chacun infligeant \n[Taux de dégâts : 35%] de dégâts magiques et infligeant [Toxine du vide]. La compétence ne peut pas être interrompue.\n[Toxine du vide] : Inflige \n[Taux de dégâts : 10%] de dégâts magiques chaque seconde (augmente selon les cumuls) pendant 12s, se cumulant jusqu'à 5 fois. [Toxine du vide] de différentes sources partagent les cumuls.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -52,7 +52,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Gains 5% Movement Speed for 3s when inflicting an\nenemy with a DoT effect, stacking up to 6 times.",
+        "description": "Gagne 5% de vitesse de déplacement pendant 3s quand on inflige un effet de dégâts dans le temps à un ennemi, se cumulant jusqu'à 6 fois.",
         "tierUnlock": "4"
       }
     },
@@ -96,7 +96,7 @@
         "cooldown": "42",
         "castingRange": "10",
         "type": "skill",
-        "description": "Links to 8 targets within 10m around the caster,\nchanneling for 4s. Restores \n[Healing Rate: 40%] HP to the\ncaster and linked allies every 0.5s, while dealing  \n[Damage Rate: 70%] Magic Damage to linked enemies.\nCannot be interrupted while channeling.",
+        "description": "Se lie à 8 cibles dans un rayon de 10m autour du lanceur, canalisant pendant 4s. Restaure \n[Taux de soin : 40%] de PV au lanceur et aux alliés liés toutes les 0,5s, tout en infligeant \n[Taux de dégâts : 70%] de dégâts magiques aux ennemis liés. Ne peut pas être interrompu pendant la canalisation.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -107,7 +107,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Other allies within 12m receive +20% healing.",
+        "description": "Les autres alliés dans un rayon de 12m reçoivent +20% de soins.",
         "tierUnlock": "4"
       }
     },
@@ -151,7 +151,7 @@
         "cooldown": "46",
         "castingRange": "5",
         "type": "skill",
-        "description": "Removes all control effects and gains [Submerge] for\n2.5s\n[Submerge]: Dives underground, becoming immune to all\ndamage and control effects. Increases Movement Speed\nby 40% and recovers\n[Healing Rate: 49%] HP every\nsecond.\nPress skill again to exit [Submerge] early.\nUpon exiting [Submerge], deals \n[Damage Rate: 200%]\nMagic Damage to nearby enemies.\nCan be used while skills are disabled",
+        "description": "Supprime tous les effets de contrôle et gagne [Immersion] pendant 2,5s.\n[Immersion] : Plonge sous terre, devenant immunisé à tous les dégâts et effets de contrôle. Augmente la vitesse de déplacement de 40% et récupère \n[Taux de soin : 49%] de PV chaque seconde.\nAppuyez à nouveau sur la compétence pour sortir d'[Immersion] prématurément.\nEn sortant d'[Immersion], inflige \n[Taux de dégâts : 200%] de dégâts magiques aux ennemis proches.\nPeut être utilisé même quand les compétences sont désactivées",
         "tierUnlock": "1"
       },
       "passive": {
@@ -162,7 +162,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "Dealing damage with a skill grants 1 stack of Swarm,\nrestoring \n[Healing Rate: 7.5%] HP every 2s for 6s\n(stacks do not boost healing effect). During this time,\nDamage Resistance increases by 5%, stacking up to 5\ntimes. (Cooldown: 0.5s)",
+        "description": "Infliger des dégâts avec une compétence accorde 1 cumul d'Essaim, restaurant \n[Taux de soin : 7,5%] de PV toutes les 2s pendant 6s (les cumuls n'augmentent pas l'effet de soin). Pendant ce temps, la résistance aux dégâts augmente de 5%, se cumulant jusqu'à 5 fois. (Recharge : 0,5s)",
         "tierUnlock": "4"
       }
     },
@@ -206,7 +206,7 @@
         "cooldown": "46",
         "castingRange": "14",
         "type": "skill",
-        "description": "Applies Serpent's Whisper to the caster or an allied target,\npreventing movement and skill usage for 4s and granting\nimmunity to damage and control. Deals \n[Damage Rate: 58%] Magic Damage to nearby enemies every 0.5s and\napplies [Creeping Stone]\n[Creeping Stone]: Lasts 1s, stacking up to 4 times. Target\nis Petrified and has their Armor reduced by 25% for 2 at\nmax stacks (cannot gain [Creeping Stone] for 6)\nCan be used while skills are disabled. Serpent's Whisper\ncannot be dispelled.",
+        "description": "Applique le murmure du serpent au lanceur ou à une cible alliée, empêchant le mouvement et l'utilisation de compétences pendant 4s et accordant une immunité aux dégâts et au contrôle. Inflige \n[Taux de dégâts : 58%] de dégâts magiques aux ennemis proches toutes les 0,5s et applique [Pierre rampante].\n[Pierre rampante] : Dure 1s, se cumulant jusqu'à 4 fois. La cible est pétrifiée et a son armure réduite de 25% pendant 2s au maximum de cumuls (ne peut pas gagner [Pierre rampante] pendant 6s).\nPeut être utilisé même quand les compétences sont désactivées. Le murmure du serpent ne peut pas être dissipé.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -217,7 +217,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "Retains 1 HP upon taking lethal damage, transforming\ninto a spirit serpent, cleansing all negative effects\n(control, DoT, and debuffs), gaining immunity to control,\ndebuffs and damage for 2s, and +100% Movement Speed,\nand healing 5% HP every 0.5s. (CD: 120s)",
+        "description": "Conserve 1 PV en subissant des dégâts mortels, se transformant en serpent spirituel, nettoyant tous les effets négatifs (contrôle, dégâts dans le temps, et débuffs), gagnant une immunité au contrôle, aux débuffs et aux dégâts pendant 2s, et +100% de vitesse de déplacement, et soignant 5% de PV toutes les 0,5s. (CD : 120s)",
         "tierUnlock": "4"
       }
     },
@@ -261,7 +261,7 @@
         "cooldown": "28",
         "castingRange": "12",
         "type": "skill",
-        "description": "Creates a Genetic Cascade link with the target, lasting\n15s.\nFor allied targets: Restores \n[Healing Rate: 25%] HP every\nsecond and increases damage dealt by 3% for 5s. Stacks\nup to 10 times.\nFor enemy targets: Deals \n[Damage Rate: 50%] Magic\nDamage every second and reduces damage dealt by 3%\nfor 5s. Stacks up to 10 times.\nCan link to another target of a different type while a link is\nactive.\nLink breaks if the target moves over 25m away.",
+        "description": "Crée un lien de cascade génétique avec la cible, d'une durée de 15s.\nPour les cibles alliées : Restaure \n[Taux de soin : 25%] de PV chaque seconde et augmente les dégâts infligés de 3% pendant 5s. Se cumule jusqu'à 10 fois.\nPour les cibles ennemies : Inflige \n[Taux de dégâts : 50%] de dégâts magiques chaque seconde et réduit les dégâts infligés de 3% pendant 5s. Se cumule jusqu'à 10 fois.\nPeut se lier à une autre cible d'un type différent tant qu'un lien est actif.\nLe lien se brise si la cible se déplace à plus de 25m.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -272,7 +272,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "After dealing damage 5 times, creates two Yin Vortexes\naround the caster that deal \n[Damage Rate: 100%] Magic\nDamage to enemies hit and reduce healing received by 5%\nfor 4s. Stacks up to 3 times. (Cooldown: 0.5s)\nAfter healing 5 times, creates two Yang Vortexes around\nself that restore \n[Healing Rate: 50%] HP to allies hit and\nincrease healing received by 5% for 4s. Stacks up to 3\ntimes. (Cooldown: 0.5s)",
+        "description": "Après avoir infligé des dégâts 5 fois, crée deux vortex Yin autour du lanceur qui infligent \n[Taux de dégâts : 100%] de dégâts magiques aux ennemis touchés et réduisent les soins reçus de 5% pendant 4s. Se cumule jusqu'à 3 fois. (Recharge : 0,5s)\nAprès avoir soigné 5 fois, crée deux vortex Yang autour de soi qui restaurent \n[Taux de soin : 50%] de PV aux alliés touchés et augmentent les soins reçus de 5% pendant 4s. Se cumule jusqu'à 3 fois. (Recharge : 0,5s)",
         "tierUnlock": "4"
       }
     },
@@ -316,7 +316,7 @@
         "cooldown": "28",
         "castingRange": "14",
         "type": "skill",
-        "description": "Select an enemy target to summon ravens. After 2\nseconds, ravens dive to attack, dealing \n[Damage Rate: 210%] Magic Damage to up to 10 enemies in range,\ndispelling all buffs, shields, and HoT effects. Applies 50%\nSlow and reduces damage dealt by 50% for 6s. Targets\ncannot gain buffs, shields, or HoT effects during this time.",
+        "description": "Sélectionne une cible ennemie pour invoquer des corbeaux. Après 2 secondes, les corbeaux plongent pour attaquer, infligeant \n[Taux de dégâts : 210%] de dégâts magiques à jusqu'à 10 ennemis à portée, dissipant tous les buffs, boucliers, et effets de soins dans le temps. Applique 50% de ralentissement et réduit les dégâts infligés de 50% pendant 6s. Les cibles ne peuvent pas gagner de buffs, boucliers, ou effets de soins dans le temps pendant ce temps.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -327,7 +327,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "Skills dealing damage grant the caster Raven's Call. At 6\nstacks, the next skill damage within 8s that hits an enemy\ntarget will summon ravens at the location, dealing \n[Damage Rate: 120%] Magic Damage to up to 5 enemy\ntargets in range. This effect removes 1 stack of buffs from\nhit targets and restores \n[Healing Rate: 60%] HP to self.\n(Trigger Interval: 0.5s)",
+        "description": "Les compétences infligeant des dégâts accordent l'appel du corbeau au lanceur. À 6 cumuls, les prochains dégâts de compétence dans les 8s qui touchent une cible ennemie invoqueront des corbeaux à l'emplacement, infligeant \n[Taux de dégâts : 120%] de dégâts magiques à jusqu'à 5 cibles ennemies à portée. Cet effet supprime 1 cumul de buffs des cibles touchées et restaure \n[Taux de soin : 60%] de PV à soi. (Intervalle de déclenchement : 0,5s)",
         "tierUnlock": "4"
       }
     },
@@ -371,7 +371,7 @@
         "cooldown": "42",
         "castingRange": "10",
         "type": "skill",
-        "description": "Creates a Lunar Domain and channels for 8s. Enemies\nwithin are struck by starlight on skill use, taking  \n[Damage Rate: 200%] Magic Damage and losing 20 MP. Allies\nwithin recover 8 MP every second and gain \n[Target-based Max HP 15%] Shield lasting 4s.\nSkill cannot be interrupted. +20% Movement Speed while\nchanneling.",
+        "description": "Crée un domaine lunaire et canalise pendant 8s. Les ennemis à l'intérieur sont frappés par la lumière des étoiles à l'utilisation de compétence, subissant \n[Taux de dégâts : 200%] de dégâts magiques et perdant 20 PM. Les alliés à l'intérieur récupèrent 8 PM chaque seconde et gagnent un bouclier de \n[PV max basé sur la cible 15%] d'une durée de 4s.\nLa compétence ne peut pas être interrompue. +20% de vitesse de déplacement pendant la canalisation.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -382,7 +382,7 @@
         "cooldown": "",
         "castingRange": "12",
         "type": "passive",
-        "description": "Every 2s restores Moonveil Max MP + 3% MP to other\nallies within 12m",
+        "description": "Toutes les 2s restaure les PM max de Moonveil + 3% de PM aux autres alliés dans un rayon de 12m",
         "tierUnlock": "4"
       }
     },
@@ -426,7 +426,7 @@
         "cooldown": "42",
         "castingRange": "16",
         "type": "skill",
-        "description": "Creates an expanding Sanctification Field at the target\nlocation and channels for 5s.\nCannot be interrupted while channeling.\nCleanses control effects every 0.5s, all debuffs, and 2 DoT\neffects, from up to 20 allies in the field and restores \n[Healing Rate: 25%] HP.",
+        "description": "Crée un champ de sanctification en expansion à l'emplacement ciblé et canalise pendant 5s.\nNe peut pas être interrompu pendant la canalisation.\nNettoie les effets de contrôle toutes les 0,5s, tous les débuffs, et 2 effets de dégâts dans le temps, de jusqu'à 20 alliés dans le champ et restaure \n[Taux de soin : 25%] de PV.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -437,7 +437,7 @@
         "cooldown": "",
         "castingRange": "",
         "type": "passive",
-        "description": "When healing with skills, the target gains 5% additional\nDamage Resistance for 4s. Stacks up to 6 times",
+        "description": "Quand on soigne avec des compétences, la cible gagne 5% de résistance aux dégâts supplémentaire pendant 4s. Se cumule jusqu'à 6 fois",
         "tierUnlock": "4"
       }
     },
@@ -481,7 +481,7 @@
         "cooldown": "93",
         "castingRange": "40",
         "type": "skill",
-        "description": "Creates an astral field beneath the caster. After 3s,\nteleports up to 15 teammates in range to the target\nlocation. Upon arrival, deals \n[Damage Rate: 200%] Magic\nDamage to surrounding enemies and Stuns them for 1s.\nAllies gain  \n[Target-based Max HP 20%] Shield, +30%\nMovement Speed effects for 4s.\nIf there's unpassable terrain in the teleportation path,\nteleport to that position instead ..\n Target cannot be teleported by Astral Gate for 10 seconds after teleportation.",
+        "description": "Crée un champ astral sous le lanceur. Après 3s, téléporte jusqu'à 15 coéquipiers à portée vers l'emplacement ciblé. À l'arrivée, inflige \n[Taux de dégâts : 200%] de dégâts magiques aux ennemis environnants et les étourdit pendant 1s.\nLes alliés gagnent un bouclier de \n[PV max basé sur la cible 20%], des effets de +30% de vitesse de déplacement pendant 4s.\nS'il y a un terrain infranchissable sur le chemin de téléportation, téléporte à cette position à la place.\nLa cible ne peut pas être téléportée par la porte astrale pendant 10 secondes après la téléportation.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -492,7 +492,7 @@
         "cooldown": "0.5",
         "castingRange": "",
         "type": "passive",
-        "description": "Reduces the cooldown of all skills (not including Tactical\nItem skills) by 0.3s when this skill deals damage.\n(Cooldown: 0.5s)",
+        "description": "Réduit la recharge de toutes les compétences (n'incluant pas les compétences d'objets tactiques) de 0,3s quand cette compétence inflige des dégâts. (Recharge : 0,5s)",
         "tierUnlock": "4"
       }
     },
@@ -536,7 +536,7 @@
         "cooldown": "44",
         "castingRange": "7",
         "type": "skill",
-        "description": "Channels for 5s, scattering 8 Blood Seeds (up to 40 total) around the caster every second. Each seed explodes 1.5s after landing, dealing \n[Damage Rate: 100%] Magic\nDamage to up to 5 enemies in range. If at least one enemy\nis hit by the explosion, the caster regenerates \n[Healing Rate: 15] Vitality. Skill cannot be interrupted. Increases Movement Speed by 30% (decaying over time)",
+        "description": "Canalise pendant 5s, dispersant 8 graines de sang (jusqu'à 40 au total) autour du lanceur chaque seconde. Chaque graine explose 1,5s après l'atterrissage, infligeant \n[Taux de dégâts : 100%] de dégâts magiques à jusqu'à 5 ennemis à portée. Si au moins un ennemi est touché par l'explosion, le lanceur régénère \n[Taux de soin : 15] de vitalité. La compétence ne peut pas être interrompue. Augmente la vitesse de déplacement de 30% (décroissant dans le temps)",
         "tierUnlock": "1"
       },
       "passive": {
@@ -547,7 +547,7 @@
         "cooldown": "25",
         "castingRange": "",
         "type": "passive",
-        "description": "Skills and Basic Attacks inflict Blood Curse on those hit for 6s. When the curse ends, 30% of the damage you dealt to the target during the curse explodes as Magic Damage and heals the caster for \n[Healing Rate: 20%] HP.\n(Cooldown: 25s)",
+        "description": "Les compétences et attaques de base infligent la malédiction du sang à ceux touchés pendant 6s. Quand la malédiction se termine, 30% des dégâts que vous avez infligés à la cible pendant la malédiction explosent en dégâts magiques et soignent le lanceur pour \n[Taux de soin : 20%] de PV. (Recharge : 25s)",
         "tierUnlock": "4"
       }
     }

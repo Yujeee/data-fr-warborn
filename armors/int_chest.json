@@ -9,7 +9,7 @@
       "cooldown": "32",
       "castingRange": "7",
       "type": "skill",
-      "description": "Instantly restores [Healing  100%] HP to nearby allies.",
+      "description": "Restaure instantanément [Soin 100%] de PV aux alliés proches.",
       "tierUnlock": "1",
       "rarity": "rare"
     },
@@ -21,7 +21,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Immediately removes all control effects, restores \n[Healing  150%] HP, and grants Control Immunity for 2s. Can be used while skills are disabled",
+      "description": "Supprime immédiatement tous les effets de contrôle, restaure \n[Soin 150%] de PV, et accorde une immunité au contrôle pendant 2s. Peut être utilisé même quand les compétences sont désactivées",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -33,7 +33,7 @@
       "cooldown": "32",
       "castingRange": "7",
       "type": "skill",
-      "description": "Creates a 7m radius Mana Font around the caster, lasting 6s Restores 10 MP to allies in range every 1s Increases casting speed of friendly units within by 80%",
+      "description": "Crée une fontaine de mana de 7m de rayon autour du lanceur, d'une durée de 6s. Restaure 10 PM aux alliés à portée chaque 1s. Augmente la vitesse d'incantation des unités alliées à l'intérieur de 80%",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -45,7 +45,7 @@
       "cooldown": "28",
       "castingRange": "16",
       "type": "skill",
-      "description": "Launches a dispel projectile that deals \n[Damage Rate: 120%] Magic Damage to enemies in the impact area, removes all buffs and Shield effects. Reduces target's physical damage dealt by 40%",
+      "description": "Lance un projectile de dissipation qui inflige \n[Taux de dégâts : 120%] de dégâts magiques aux ennemis dans la zone d'impact, supprime tous les buffs et effets de bouclier. Réduit les dégâts physiques infligés de la cible de 40%",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -57,7 +57,7 @@
       "cooldown": "30",
       "castingRange": "6",
       "type": "skill",
-      "description": "Deals [Damage Rate: 200%] Magic Damage to nearby enemies, disarms them for 4s and knocks them back 10m, and reduces their Movement Speed by 40% for 4s.",
+      "description": "Inflige [Taux de dégâts : 200%] de dégâts magiques aux ennemis proches, les désarme pendant 4s et les repousse de 10m, et réduit leur vitesse de déplacement de 40% pendant 4s.",
       "tierUnlock": "1",
       "rarity": "epic"
     },
@@ -69,7 +69,7 @@
       "cooldown": "28",
       "castingRange": "6",
       "type": "skill",
-      "description": "Gains a  \n[Target-based Max HP 45%] shield for 6s. While the shield exists, restores 20 MP each time taking damage.",
+      "description": "Gagne un bouclier de \n[PV max basé sur la cible 45%] pendant 6s. Tant que le bouclier existe, restaure 20 PM à chaque fois qu'on subit des dégâts.",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -87,7 +87,7 @@
       "cooldown": "46",
       "castingRange": "",
       "type": "skill",
-      "description": "Creates a panic curse field around the caster that lasts\n6s\nEnemies within 6m who use skills take \n[Damage Rate: 200%] Magic Damage and are affected by Fear for 1.5s",
+      "description": "Crée un champ de malédiction de panique autour du lanceur qui dure 6s. Les ennemis dans un rayon de 6m qui utilisent des compétences subissent [Taux de dégâts : 200%] de dégâts magiques et sont affectés par la Peur pendant 1,5s",
       "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
@@ -105,7 +105,7 @@
       "cooldown": "29",
       "castingRange": "6",
       "type": "skill",
-      "description": "Grants 406 Armor for 6s- While active, any attacker that hits with basic attack or skill damage has their damage reduced by 40% and Movement Speed by 30% for 4s",
+      "description": "Accorde 406 d'armure pendant 6s. Tant qu'actif, tout attaquant qui touche avec une attaque de base ou des dégâts de compétence voit ses dégâts réduits de 40% et sa vitesse de déplacement de 30% pendant 4s",
       "tierUnlock": "1",
       "rarity": "epic",
       "stats": {

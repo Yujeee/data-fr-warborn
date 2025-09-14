@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "Damage dealt inflicts [Burn], dealing \n[Damage Rate: 25%] Magic Damage every second for 8s, stacking up to 6 times (stacks do not boost damage). When [Burn] reaches max stacks, deals \n[Damage Rate: 80%] Magic Damage to up to 5 enemies near the carrier and removes all [Burn] stacks."
+    "description": "Les dégâts infligés infligent [Brûlure], infligeant \n[Taux de dégâts : 25%] de dégâts magiques chaque seconde pendant 8s, se cumulant jusqu'à 6 fois (les cumuls n'augmentent pas les dégâts). Quand [Brûlure] atteint le maximum de cumuls, inflige \n[Taux de dégâts : 80%] de dégâts magiques à jusqu'à 5 ennemis proches du porteur et supprime tous les cumuls de [Brûlure]."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "Deals \n[Damage Rate: 120%] Magic Damage and applies 1 stack of [Burn].",
+      "description": "Inflige \n[Taux de dégâts : 120%] de dégâts magiques et applique 1 cumul de [Brûlure].",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "0.5",
       "castingRange": "14",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Scorching Shard]. After 1.2s cast, fires 3 scorching shards in the target direction, dealing \n[Damage Rate: 120%] Magic Damage to\nenemies hit and inflicting 1 stack of [Burn]. When multiple\nshards hit the same target, additional shards deal 25%\nless damage to the original damage.",
+      "description": "Remplace l'attaque de base par [Éclat brûlant]. Après 1,2s de lancement, tire 3 éclats brûlants dans la direction ciblée, infligeant \n[Taux de dégâts : 120%] de dégâts magiques aux ennemis touchés et infligeant 1 cumul de [Brûlure]. Quand plusieurs éclats touchent la même cible, les éclats supplémentaires infligent 25% de dégâts en moins par rapport aux dégâts originaux.",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "0.5",
       "castingRange": "18",
       "type": "basic",
-      "description": "Replaces Basic Attack with [Wildfire Shard]. After 2s cast, fires a wildfire shard at the target location\nthat bounces forward twice. Explodes on contact with\nenemies, dealing \n[Damage Rate: 120%] Magic Damage\nand inflicting 1 stack of [Burn] to enemies in range.",
+      "description": "Remplace l'attaque de base par [Éclat de feu sauvage]. Après 2s de lancement, tire un éclat de feu sauvage vers l'emplacement ciblé qui rebondit vers l'avant deux fois. Explose au contact des ennemis, infligeant \n[Taux de dégâts : 120%] de dégâts magiques et infligeant 1 cumul de [Brûlure] aux ennemis à portée.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "6",
       "castingRange": "14",
       "type": "common",
-      "description": "Continuously channels flames in target direction for 3s,\ndealing \n[Damage Rate: 50%] Magic Damage and inflicting\n[Burn] to all enemies in range every 0.5s.\nCan rotate but cannot move while channeling\n75% Increased Damage against Monsters.",
+      "description": "Canalise continuellement des flammes dans la direction ciblée pendant 3s, infligeant \n[Taux de dégâts : 50%] de dégâts magiques et infligeant [Brûlure] à tous les ennemis à portée toutes les 0,5s. Peut tourner mais ne peut pas bouger pendant la canalisation. 75% de dégâts augmentés contre les monstres.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "11",
       "castingRange": "18",
       "type": "common",
-      "description": "Channels for 0.5s and then launches a molten orb in\ntarget direction that sticks to the first enemy hit, lasting\n5s and dealing \n[Damage Rate: 110%] Magic Damage to\nenemies within 5m every 2s while inflicting 1 stack of\n[Burn].",
+      "description": "Canalise pendant 0,5s puis lance un orbe en fusion dans la direction ciblée qui colle au premier ennemi touché, d'une durée de 5s et infligeant \n[Taux de dégâts : 110%] de dégâts magiques aux ennemis dans un rayon de 5m toutes les 2s tout en infligeant 1 cumul de [Brûlure].",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "11",
       "castingRange": "10",
       "type": "common",
-      "description": "Jumps in target direction, dealing \n[Damage Rate: 250%]\nMagic Damage and inflicting 2 stacks of [Burn] to nearby\nenemies upon takeoff.",
+      "description": "Saute dans la direction ciblée, infligeant \n[Taux de dégâts : 250%] de dégâts magiques et infligeant 2 cumuls de [Brûlure] aux ennemis proches au décollage.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "18",
       "castingRange": "6",
       "type": "common",
-      "description": "Sprays oil lasting 8s in front, inflicting [Oil Coating] to\nenemies who enter.\n[Oil Coating]: Reduces Movement Speed by 50% for 4s.\nWhen affected by [Burn], [Oil Coating] is replaced with\n[Volatile Burn] and cannot be inflicted again for 6s.\n[Volatile Burn]: Causes Fear and deals \n[Damage Rate: 56%] Magic Damage every 0.5s for 1.5s.",
+      "description": "Pulvérise de l'huile d'une durée de 8s devant, infligeant [Enduit d'huile] aux ennemis qui entrent. [Enduit d'huile] : Réduit la vitesse de déplacement de 50% pendant 4s. Quand affecté par [Brûlure], [Enduit d'huile] est remplacé par [Brûlure volatile] et ne peut pas être infligé à nouveau pendant 6s. [Brûlure volatile] : Cause la peur et inflige \n[Taux de dégâts : 56%] de dégâts magiques toutes les 0,5s pendant 1,5s.",
       "tierUnlock": "7"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "9.3",
       "castingRange": "6",
       "type": "common",
-      "description": "Activates Overdrive Mode, increasing Casting Speed by\n60% and Magic Damage by 20%.\nConsumes 5 MP every second.\nUse skill again to deactivate Overdrive. Automatically\ndeactivates when MP is insufficient.",
+      "description": "Active le mode surcharge, augmentant la vitesse de lancement de 60% et les dégâts magiques de 20%. Consomme 5 PM chaque seconde. Utilise la compétence à nouveau pour désactiver la surcharge. Se désactive automatiquement quand les PM sont insuffisants.",
       "tierUnlock": "8"
     }
   ],
@@ -102,7 +102,7 @@
       "cooldown": "18",
       "castingRange": "14",
       "type": "skill",
-      "description": "After 1s cast, launches scorching flames at the target\nlocation to create Hellfire.\nHellfire lasts 6s, dealing \n[Damage Rate: 70%] Magic\nDamage to all players (\n[Damage Rate: 140%] Magic\nDamage to mobs) within and inflicting 1 stack of [Burn]\nevery 1s.",
+      "description": "Après 1s de lancement, lance des flammes brûlantes à l'emplacement ciblé pour créer un Feu de l'Enfer. Le Feu de l'Enfer dure 6s, infligeant \n[Taux de dégâts : 70%] de dégâts magiques à tous les joueurs (\n[Taux de dégâts : 140%] de dégâts magiques aux mobs) à portée et infligeant 1 cumul de [Brûlure] toutes les 1s.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -118,7 +118,7 @@
       "cooldown": "2",
       "castingRange": "10",
       "type": "skill",
-      "description": "Fires a Molten Blast in target direction that explodes on\nimpact, dealing \n[Damage Rate: 150%] Magic Damage to\nenemies in range and inflicting 1 stack of [Burn].\nCan be charged. At 3s charge time, the Molten Blast can\npenetrate enemies along its path, dealing \n[Damage Rate: 50%] Magic Damage and exploding at the end point to\ndeal \n[Damage Rate: 250%] Magic Damage, inflicting 2\nstacks of [Burn], and applying Knockback to enemies\nwithin the explosion range by 3m.\nGains 1 charge every 18s, up to 2 charges.",
+      "description": "Tire une Explosion en fusion dans la direction ciblée qui explose à l'impact, infligeant \n[Taux de dégâts : 150%] de dégâts magiques aux ennemis à portée et infligeant 1 cumul de [Brûlure]. Peut être chargée. À 3s de temps de charge, l'Explosion en fusion peut traverser les ennemis sur son chemin, infligeant \n[Taux de dégâts : 50%] de dégâts magiques et explosant au point final pour infliger \n[Taux de dégâts : 250%] de dégâts magiques, infligeant 2 cumuls de [Brûlure] et appliquant un recul de 3m aux ennemis dans la portée d'explosion. Gagne 1 charge toutes les 18s, jusqu'à 2 charges.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -134,7 +134,7 @@
       "cooldown": "20",
       "castingRange": "17",
       "type": "skill",
-      "description": "After a 1s cast, launches three scorching surges at the\ntarget location. After 1s, the flames erupt, each dealing \n[Damage Rate: 240%] Magic Damage and inflicting 1\nstack of [Burn] and Knockup for 1s to enemies in range.\nDamage reduces to 50% for enemies that take damage\nfrom more than one scorching surge.",
+      "description": "Après 1s de lancement, lance trois vagues brûlantes à l'emplacement ciblé. Après 1s, les flammes éclatent, chacune infligeant \n[Taux de dégâts : 240%] de dégâts magiques et infligeant 1 cumul de [Brûlure] et un renversement de 1s aux ennemis à portée. Les dégâts sont réduits à 50% pour les ennemis qui subissent des dégâts de plus d'une vague brûlante.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -150,7 +150,7 @@
       "cooldown": "23",
       "castingRange": "18",
       "type": "skill",
-      "description": "After a 1s cast, channels for 3s, continuously firing at\ntarget. Each projectile deals \n[Damage Rate: 45%] Magic\nDamage to enemies hit, inflicts 1 stack of [Burn], and\nreduces Magic Resistance by 8% for 4s. Stacks up to 6\ntimes.",
+      "description": "Après 1s de lancement, canalise pendant 3s, tirant continuellement sur la cible. Chaque projectile inflige \n[Taux de dégâts : 45%] de dégâts magiques aux ennemis touchés, inflige 1 cumul de [Brûlure] et réduit la résistance magique de 8% pendant 4s. Se cumule jusqu'à 6 fois.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -166,7 +166,7 @@
       "cooldown": "23",
       "castingRange": "20",
       "type": "skill",
-      "description": "Channels a starforge beam for 4s after a 1s cast. Deals \n[Damage Rate: 85%] Magic Damage to enemies in range\nevery 0.5s, inflicting 1 stack of [Burn] and [Scorch].\nEach hit increases damage by 10%, up to 50%.\nCannot be interrupted during channeling and grants a\n[Target-based Max HP 25%] shield.\n[Scorch]: Reduces healing received by 5% for 4s. Stacks\nup to 3 times.",
+      "description": "Canonise un rayon de forge d'étoile pendant 4s après 1s de lancement. Inflige \n[Taux de dégâts : 85%] de dégâts magiques aux ennemis à portée toutes les 0,5s, infligeant 1 cumul de [Brûlure] et [Brûlure]. Chaque coup augmente les dégâts de 10%, jusqu'à 50%. Ne peut pas être interrompu pendant la canalisation et accorde un bouclier de [PV max basés sur la cible 25%]. [Brûlure] : Réduit les soins reçus de 5% pendant 4s. Se cumule jusqu'à 3 fois.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -182,7 +182,7 @@
       "cooldown": "9.3",
       "castingRange": "23",
       "type": "skill",
-      "description": "Enter Molten Volley Mode for 20s. Cannot move while\nactive but can cancel manually.\nBasic Attack replaced: Fires magma at the target location\nthat rolls forward after impact, dealing  \n[Damage Rate: 90%] Magic Damage to those hit and inflicting 1 stack of\n[Burn]. Damage increases by 10% after each enemy hit, up\nto 40%.",
+      "description": "Entre en mode Salve en fusion pendant 20s. Ne peut pas bouger tant qu'actif mais peut être annulé manuellement. Attaque de base remplacée : Tire du magma à l'emplacement ciblé qui roule vers l'avant après l'impact, infligeant \n[Taux de dégâts : 90%] de dégâts magiques à ceux touchés et infligeant 1 cumul de [Brûlure]. Les dégâts augmentent de 10% après chaque ennemi touché, jusqu'à 40%.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

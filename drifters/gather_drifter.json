@@ -41,7 +41,7 @@
         "cooldown": "44",
         "castingRange": "14",
         "type": "skill",
-        "description": "Jumps backward 6 meters while throwing a robotic\ngrappling hook in the target direction, dealing \n[Damage Rate: 110%] Magic Damage to the first enemy hit and\nbinding them for I Os. Enemies attempting to leave the\nbinding range are pulled back to the center and take\n[Damage Rate: 142%] Magic Damage.",
+        "description": "Saute en arrière de 6 mètres tout en lançant un grappin robotique dans la direction ciblée, infligeant \n[Taux de dégâts : 110%] de dégâts magiques au premier ennemi touché et les liant pendant 1s. Les ennemis tentant de quitter la portée de liaison sont tirés vers le centre et subissent \n[Taux de dégâts : 142%] de dégâts magiques.",
         "tierUnlock": "1"
       },
       "passive": {
@@ -52,7 +52,7 @@
         "cooldown": "N/A",
         "castingRange": "N/A",
         "type": "passive",
-        "description": "Increases own weight limit by 200",
+        "description": "Augmente sa propre limite de poids de 200",
         "tierUnlock": "4"
       }
     },

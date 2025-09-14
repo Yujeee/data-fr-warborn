@@ -4,70 +4,70 @@
     {
       "id": "strength-potion-recipe",
       "name": "Strength Potion Recipe",
-      "description": "Increases Strength but reduces Agility and Intelligence",
+      "description": "Augmente la force mais réduit l'agilité et l'intelligence",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "agility-potion-recipe",
       "name": "Agility Potion Recipe",
-      "description": "Increases Agility but reduces Strength",
+      "description": "Augmente l'agilité mais réduit la force",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "intelligence-potion-recipe",
       "name": "Intelligence Potion Recipe",
-      "description": "Increases Intelligence but reduces Strength",
+      "description": "Augmente l'intelligence mais réduit la force",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "gathering-potion-recipe",
       "name": "Gathering Potion Recipe",
-      "description": "Increases Gathering, Gathering Speed and Weight Limit",
+      "description": "Augmente la récolte, la vitesse de récolte et la limite de poids",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "lethal-potion-recipe",
       "name": "Lethal Potion Recipe",
-      "description": "Increases Basic Attack Crit but reduces Skill Bonus",
+      "description": "Augmente le critique d'attaque de base mais réduit le bonus de compétence",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "regeneration-potion-recipe",
       "name": "Regeneration Potion Recipe",
-      "description": "Increases max HP and HP Recovery",
+      "description": "Augmente les PV max et la récupération de PV",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "ironskin-potion-recipe",
       "name": "Ironskin Potion Recipe",
-      "description": "Increases Resistances, Block but reduces damage and healing",
+      "description": "Augmente les résistances, le blocage mais réduit les dégâts et les soins",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "cooldown-potion-recipe",
       "name": "Cooldown Potion Recipe",
-      "description": "Speeds up cooldown but reduces damage and healing",
+      "description": "Accélère la recharge mais réduit les dégâts et les soins",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "lifesteal-potion-recipe",
       "name": "Lifesteal Potion Recipe",
-      "description": "Increases Basic Attack Lifesteal but reduces max HP",
+      "description": "Augmente le vol de vie d'attaque de base mais réduit les PV max",
       "category": "recipe",
       "rarity": "common"
     },
     {
       "id": "burst-potion-recipe",
       "name": "Burst Potion Recipe",
-      "description": "Increases Skill Bonus and Cooldown",
+      "description": "Augmente le bonus de compétence et la recharge",
       "category": "recipe",
       "rarity": "common"
     }
