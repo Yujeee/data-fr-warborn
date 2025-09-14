@@ -7,7 +7,7 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "Passif Aura et Lame [Élan]: Gagne 1 cumul d'[Élan] chaque seconde en combat et 2 cumuls quand on inflige des dégâts avec des Attaques de Base, 4 cumuls sur Coup Critique, 1 cumul quand on subit des Dégâts d'Attaque de Base, et 2 cumuls quand on subit des Dégâts de Compétence. À 10 cumuls [Élan], augmente l'Élan d'Épée de 1 niveau. L'Élan dure 20s. [Élan d'Épée]: Chaque niveau accorde +3% de Dégâts, +4% de Vitesse d'Attaque, et +4% de Résistance aux Dégâts. Dure 8s. Accorde jusqu'à 6 cumuls, se dégradant avec le temps."
+    "description": "X Aura and Blade Passive [Momentum]: Gains 1 stack of [Momentum] every second while in combat and 2 stacks when dealing damage with Basic Attacks, 4 stacks on Critical Hit, 1 stack when taking Basic Attack Damage, and 2 stacks when taking Skill Damage. At 10 [Momentum] stacks, increases Sword Momentum by 1 level. Momentum lasts 20s. [Sword Momentum]: Each level grants +3% Damage, +4% Attack Speed, and +4% Damage Resistance. Lasts 8s. Grants up to 6 stacks, decaying over time."
   },
   "basicAttacks": [
     {
@@ -17,7 +17,7 @@
       "cooldown": "1.3",
       "castingRange": "7",
       "type": "basic",
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 130%] Dégâts Physiques à la cible ennemie. Peut lancer [Coup d'Épée] toutes les 6s. Charge vers une cible ennemie pour infliger \n[Taux de Dégâts: 180%] Dégâts Physiques et causer 40% de Ralentissement pendant 2s.",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Slash] every 6s. Charges toward an enemy target to deal \n[Damage Rate: 180%] Physical Damage and inflict 40% Slow for 2s.",
       "tierUnlock": "2"
     },
     {
@@ -27,7 +27,7 @@
       "cooldown": "1.3",
       "castingRange": "3.5",
       "type": "basic",
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 130%] Dégâts Physiques à la cible ennemie. Peut lancer [Coup de Hache d'Épée] toutes les 5s. Inflige \n[Taux de Dégâts: 220%] Dégâts Physiques aux ennemis environnants. Accorde  \n[PV Max basé sur la cible 3%] Bouclier pour chaque ennemi touché, d'une durée de 4s. Se cumule jusqu'à 5 fois.",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Cleave] every 5. Deals \n[Damage Rate: 220%] Physical Damage to surrounding enemies. Grants  \n[Target-based Max HP 3%] Shield for each enemy hit, lasting 4s. Stacks up to 5 times.",
       "tierUnlock": "4"
     },
     {
@@ -37,7 +37,7 @@
       "cooldown": "1.3",
       "castingRange": "20",
       "type": "basic",
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 130%] Dégâts Physiques à la cible ennemie. Peut lancer [Énergie d'Épée] toutes les 6s. Libère l'énergie d'épée vers l'avant, infligeant \n[Taux de Dégâts: 140%] Dégâts Physiques aux ennemis touchés. Augmente la Vitesse de Déplacement de 25% pendant 2s si au moins 1 ennemi est touché.",
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 130%] Physical Damage to enemy target. Can cast [Sword Energy] every 6s. Unleashes sword energy forward, dealing \n[Damage Rate: 140%] Physical Damage to enemies hit. Increases Movement Speed by 25% for 2s if at least 1 enemy is hit.",
       "tierUnlock": "6"
     }
   ],
@@ -49,7 +49,7 @@
       "cooldown": "11",
       "castingRange": "5",
       "type": "common",
-      "description": "Effectue 4 coups vers l'avant, chacun infligeant \n[Taux de Dégâts: 60%] Dégâts Physiques aux joueurs (\n[Taux de Dégâts: 90%] Dégâts Physiques aux mobs). Le coup final libère l'énergie d'épée vers l'avant, infligeant \n[Taux de Dégâts: 150%] Dégâts Physiques à tous les ennemis touchés.",
+      "description": "Performs 4 forward slashes, each dealing \n[Damage Rate: 60%] Physical Damage to players (\n[Damage Rate: 90%] Physical Damage to mobs). The final hit unleashes sword energy forward, dealing \n[Damage Rate: 150%] Physical Damage to all enemies hit.",
       "tierUnlock": "1"
     },
     {
@@ -59,7 +59,7 @@
       "cooldown": "14",
       "castingRange": "10",
       "type": "common",
-      "description": "Saute vers l'emplacement ciblé, infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques et causant 50% de Ralentissement pendant 3s aux ennemis proches à l'atterrissage. Gagne  \n[PV Max basé sur la cible 20%] Bouclier pendant 4s quand on touche au moins 1 ennemi",
+      "description": "Leaps to the target location, dealing \n[Damage Rate: 200%] Physical Damage and inflicting 50% Slow for 3s to nearby enemies upon landing. Gains  \n[Target-based Max HP 20%] Shield for 4s when hitting at least 1 enemy",
       "tierUnlock": "3"
     },
     {
@@ -69,7 +69,7 @@
       "cooldown": "11",
       "castingRange": "10",
       "type": "common",
-      "description": "Maintenir pour charger avec immunité au contrôle et gagner +20% de Résistance aux Dégâts. Pendant la charge: Inflige \n[Taux de Dégâts: 150%] Dégâts Physiques et Étourdit les ennemis pendant 0.5s. Après avoir chargé pendant 1.5s, inflige \n[Taux de Dégâts: 200%] Dégâts Physiques, Étourdit pendant 1.5s et crée une vague au sol qui inflige \n[Taux de Dégâts: 150%] Dégâts Physiques et cause 40% de Ralentissement pendant 4s.",
+      "description": "Hold to charge with control immunity and gain +20% Damage Resistance. While charging: Deals \n[Damage Rate: 150%] Physical Damage and Stuns enemies for 0.5s. After charging for 1.5s, deals \n[Damage Rate: 200%] Physical Damage, Stuns for 1.5s and creates a ground wave that deals \n[Damage Rate: 150%] Physical Damage and inflicts 40% Slow for 4s.",
       "tierUnlock": "5"
     },
     {
@@ -79,7 +79,7 @@
       "cooldown": "14",
       "castingRange": "6",
       "type": "common",
-      "description": "Commence à Bloquer pendant 3s. En Bloquant, réduit la Vitesse de Déplacement mais gagne l'immunité au contrôle et +70% de Résistance aux Dégâts. Ensuite, inflige \n[Taux de Dégâts: 320%] Dégâts Physiques aux ennemis proches et réduit leur Armure de 20% pendant 4s. Le Blocage peut être annulé tôt",
+      "description": "Begins Blocking for 3s. While Blocking, reduces Movement Speed but gains control immunity and +70% Damage Resistance. Afterward, deals \n[Damage Rate: 320%] Physical Damage to nearby enemies and reduces their Armor by 20% for 4s. Block can be canceled early",
       "tierUnlock": "7"
     },
     {
@@ -89,7 +89,7 @@
       "cooldown": "14",
       "castingRange": "6",
       "type": "common",
-      "description": "Supprime immédiatement tous les effets de contrôle, gagne 1 cumul d'[Élan d'Épée], augmente la Résistance aux Dégâts de 25%, et la Vitesse d'Attaque des 3 prochaines Attaques de Base de 80% pendant 8s. Peut être utilisé même quand les compétences sont désactivées.",
+      "description": "Immediately removes all control effects, gains 1 stack of [Sword Momentum], increases Damage Resistance by 25%, and the Attack Speed of the next 3 Basic Attacks by 80% for 8s. Can be used while skills are disabled.",
       "tierUnlock": "8"
     }
   ],
@@ -102,7 +102,7 @@
       "cooldown": "19",
       "castingRange": "10",
       "type": "skill",
-      "description": "Tourne vers l'emplacement ciblé, infligeant \n[Taux de Dégâts: 75%] Dégâts Physiques à tous les joueurs (\n[Taux de Dégâts: 150%] Dégâts Physiques aux mobs) touchés. À 3+ cumuls d'Élan d'Épée, crée une tornade à l'arrivée, infligeant \n[Taux de Dégâts: 50%] Dégâts Physiques chaque 1s pendant 5s.",
+      "description": "Spins toward the target location, dealing \n[Damage Rate: 75%] Physical Damage to all players (\n[Damage Rate: 150%] Physical Damage to mobs) hit. At 3+ Sword Momentum stacks, creates a tornado on arrival, dealing \n[Damage Rate: 50%] Physical Damage every 1s for 5s.",
       "tierUnlock": "2",
       "rarity": "rare",
       "stats": {
@@ -120,7 +120,7 @@
       "cooldown": "19",
       "castingRange": "12",
       "type": "skill",
-      "description": "Se charge brièvement puis fonce vers l'ennemi ciblé, causant [Blocage de Soin] pendant 4s et infligeant des Dégâts Physiques basés sur les cumuls [Élan d'Épée]. Cumuls [Élan d'Épée]: 0 | 1 | 2 | 3-6 Dégâts Physiques: \n[Taux de Dégâts: 210%] | \n[Taux de Dégâts: 240%] | \n[Taux de Dégâts: 270%] | \n[Taux de Dégâts: 300%] À 3+ cumuls, crée une explosion infligeant \n[Taux de Dégâts: 200%] Dégâts Physiques et Étourdissant pendant 1.5s. [Blocage de Soin]: Ne peut pas recevoir de soins.",
+      "description": "Briefly charges up and then rushes at the target enemy, inflicting [Heal Block] for 4s and dealing Physical Damage based on [Sword Momentum] stacks. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Physical Damage: \n[Damage Rate: 210%] | \n[Damage Rate: 240%] | \n[Damage Rate: 270%] | \n[Damage Rate: 300%] At 3+ stacks, creates an explosion dealing \n[Damage Rate: 200%] Physical Damage and Stunning for 1.5s. [Heal Block]: Cannot receive healing.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -138,7 +138,7 @@
       "cooldown": "19",
       "castingRange": "20",
       "type": "skill",
-      "description": "Libère une puissante énergie d'épée vers la direction ciblée, infligeant \n[Taux de Dégâts: 300%] Dégâts Magiques aux ennemis touchés. Effets supplémentaires basés sur les cumuls [Élan d'Épée]: 1 cumul: 30% de Ralentissement pendant 2s. 2 cumuls: 30% de Ralentissement pendant 2s et Silence pendant 2s. 3-6 cumuls: 30% de Ralentissement pendant 4s et Silence pendant 4s. À 3+ cumuls, libère 2 Énergies d'Épée supplémentaires. L'Énergie d'Épée supplémentaire inflige 30% de dégâts réduits.",
+      "description": "Unleashes a powerful sword energy toward the target direction, dealing \n[Damage Rate: 300%] Magic Damage to enemies hit. Additional effects based on [Sword Momentum] stacks: 1 stack: 30% Slow for 2s. 2 stacks: 30% Slow for 2s and Silence for 2s. 3-6 stacks: 30% Slow for 4s and Silence for 4s. At 3+ stacks, unleashes 2 extra Sword Energy. Additional Sword Energy deals 30% reduced damage.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -156,7 +156,7 @@
       "cooldown": "19",
       "castingRange": "7",
       "type": "skill",
-      "description": "Repousse les ennemis de 8m et inflige \n[Taux de Dégâts: 450%] Dégâts Physiques. Réduit les Dégâts infligés basés sur les cumuls [Élan d'Épée] pendant 6s. Cumuls Élan d'Épée]: 0 | 1 | 2 | 3-6 Réduction des dégâts infligés: 20% | 26% | 32% | 38% À 3+ cumuls, le Repoussement augmente à 12m et Étourdit pendant 2s à la collision.",
+      "description": "Knocks enemies back 8m and deals \n[Damage Rate: 450%] Physical Damage. Reduces Damage dealt based on [Sword Momentum] stacks for 6s. Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Reduction to damage dealt: 20% | 26% | 32% | 38% At 3+ stacks, Knockback increased to 12m and Stuns for 2s on collision.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -174,7 +174,7 @@
       "cooldown": "24",
       "castingRange": "6",
       "type": "skill",
-      "description": "Gagne l'immunité au Mouvement Forcé (Traction, Repoussement). La portée d'attaque et les PV Max augmentent basés sur les cumuls [Élan d'Épée] pendant 10s (Ne peut pas être dissipé) Peut utiliser [Enjambée de Titan] pour infliger \n[Taux de Dégâts: 150%] Dégâts Physiques et faire sursauter les ennemis pendant 0.5s. Cumuls [Élan d'Épée]: 0 | 1 | 2 | 3-6 Portée d'Attaque de Base: 1.5 | 2 | 2.5 | 3 PV Max: 30% |45% | 60% | 75% À 3+ cumuls, crée une aura de titan qui Ralentit les ennemis de 30% et réduit la Vitesse d'Attaque de 30%.",
+      "description": "Gains immunity to Forced Movement (Pull, Knockback). Attack range and Max HP increase based on [Sword Momentum] stacks for 10s (Cannot be dispelled) Can use [Titan's Stride] to deal \n[Damage Rate: 150%] Physical Damage and Knockup enemies for 0.5s. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Basic Attack range: 1.5 | 2 | 2.5 | 3 Max HP: 30% |45% | 60% | 75% At 3+ stacks, creates a titan aura that Slows enemies by 30% and reduces Attack Speed by 30%.",
       "tierUnlock": "2",
       "rarity": "epic",
       "stats": {
@@ -192,7 +192,7 @@
       "cooldown": "30",
       "castingRange": "16",
       "type": "skill",
-      "description": "Fonce vers l'avant, infligeant \n[Taux de Dégâts: 250%] Dégâts Physiques à tous les ennemis touchés. Réduit la Résistance aux Dégâts basée sur les cumuls [Élan d'Épée] pendant 4s. Cumuls [Élan d'Épée]: 0 | 1 | 2 | 3-6 Réduction de Résistance aux Dégâts: 15% | 24% | 32% | 40% À 3+ cumuls, Tire les ennemis vers le centre à l'arrivée et coupe plusieurs fois sur 1.8s, infligeant \n[Taux de Dégâts: 30%] Dégâts Physiques chaque 0.3s.",
+      "description": "Dashes forward, dealing \n[Damage Rate: 250%] Physical Damage to all enemies hit. Reduces Damage Resistance based on [Sword Momentum] stacks for 4s. [Sword Momentum] stacks: 0 | 1 | 2 | 3-6 Damage Resistance reduction: 15% | 24% | 32% | 40% At 3+ stacks, Pulls enemies to the center on arrival and slashes multiple times over 1.8s, dealing \n[Damage Rate: 30%] Physical Damage every 0.3s.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {
@@ -210,7 +210,7 @@
       "cooldown": "19",
       "castingRange": "12",
       "type": "skill",
-      "description": "Saute vers l'emplacement ciblé, créant d'innombrables lames. Les Dégâts Physiques s'échelonnent avec les cumuls [Élan d'Épée]. Cumuls [Élan d'Épée]: 0 | 1 | 2 | 3-6 Dégâts Physiques: \n[Taux de Dégâts: 280%] | \n[Taux de Dégâts: 320%] | \n[Taux de Dégâts: 360%] | \n[Taux de Dégâts: 400%] À 3+ cumuls, crée deux ensembles de lames se formant vers l'extérieur, chacun infligeant \n[Taux de Dégâts: 150%] Dégâts Physiques et causant 1s de Sursaut.",
+      "description": "Leaps to the target location, creating countless blades. Physical Damage scales with [Sword Momentum] stacks. [Sword Momentum] Stacks: 0 | 1 | 2 | 3-6 Physical Damage: \n[Damage Rate: 280%] | \n[Damage Rate: 320%] | \n[Damage Rate: 360%] | \n[Damage Rate: 400%] At 3+ stacks, creates two sets of blades forming outward, each dealing \n[Damage Rate: 150%] Physical Damage and inflicting 1s Knockup.",
       "tierUnlock": "2",
       "rarity": "legendary",
       "stats": {

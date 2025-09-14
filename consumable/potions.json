@@ -5,7 +5,7 @@
       "id": "vitalis-potion",
       "iconName": "equip_medicine_3_1",
       "name": "Vitalis Potion",
-      "description": "Immunisé aux restrictions de mouvement (Ralentissement, Immobilisation), augmente la Résistance au Contrôle de 86 et la Réduction de Contrôle de 30% pendant 9s",
+      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 86 and Control Reduction by 30% for 9s",
       "category": "potion",
       "rarity": "rare"
     },
@@ -13,7 +13,7 @@
       "id": "enhanced-vitalis-potion",
       "iconName": "equip_medicine_3_2",
       "name": "Enhanced Vitalis Potion",
-      "description": "Immunisé aux restrictions de mouvement (Ralentissement, Immobilisation), augmente la Résistance au Contrôle de 143 et la Réduction de Contrôle de 45% pendant 9s",
+      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 143 and Control Reduction by 45% for 9s",
       "category": "potion",
       "rarity": "rare"
     },
@@ -21,7 +21,7 @@
       "id": "advanced-vitalis-potion",
       "iconName": "equip_medicine_3_3",
       "name": "Advanced Vitalis Potion",
-      "description": "Immunisé aux restrictions de mouvement (Ralentissement, Immobilisation), augmente la Résistance au Contrôle de 190 et la Réduction de Contrôle de 60% pendant 9s",
+      "description": "Immune to movement restrictions (Slow, Immobilize), increases Control Resistance by 190 and Control Reduction by 60% for 9s",
       "category": "potion",
       "rarity": "rare"
     },
@@ -29,7 +29,7 @@
       "id": "titan-potion",
       "iconName": "equip_medicine_5_1",
       "name": "Titan Potion",
-      "description": "Grandit en taille et accorde l'immunité au Mouvement Forcé (Repoussement, Attraction), augmente les PV de 96%, et augmente à la fois l'Armure et la Résistance Magique de 60 pendant 6s.",
+      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 96%, and increases both Armor and Magic Resistance by 60 for 6s.",
       "category": "potion",
       "rarity": "rare"
     },
@@ -37,7 +37,7 @@
       "id": "enhanced-titan-potion",
       "iconName": "equip_medicine_5_2",
       "name": "Enhanced Titan Potion",
-      "description": "Grandit en taille et accorde l'immunité au Mouvement Forcé (Repoussement, Attraction), augmente les PV de 159%, et augmente à la fois l'Armure et la Résistance Magique de 96 pendant 6s.",
+      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 159%, and increases both Armor and Magic Resistance by 96 for 6s.",
       "category": "potion",
       "rarity": "rare"
     },
@@ -45,7 +45,7 @@
       "id": "advanced-titan-potion",
       "iconName": "equip_medicine_5_3",
       "name": "Advanced Titan Potion",
-      "description": "Grandit en taille et accorde l'immunité au Mouvement Forcé (Repoussement, Attraction), augmente les PV de 211%, et augmente à la fois l'Armure et la Résistance Magique de 124 pendant 6s.",
+      "description": "Grows in size and grants Forced Movement immunity (Knockback, Pull), boosts HP by 211%, and increases both Armor and Magic Resistance by 124 for 6s.",
       "category": "potion",
       "rarity": "rare"
     },
@@ -53,7 +53,7 @@
       "id": "rejuvenix-flask",
       "name": "Rejuvenix Flask",
       "iconName": "equip_medicine_1_1",
-      "description": "Récupère 2.5% PV chaque seconde pendant 9s",
+      "description": "Recovers 2.5% HP every second for 9s",
       "category": "potion",
       "rarity": "uncommon"
     },
@@ -61,7 +61,7 @@
       "id": "enhanced-rejuvenix-flask",
       "name": "Enhanced Rejuvenix Flask",
       "iconName": "equip_medicine_1_1",
-      "description": "Récupère 3.2% PV chaque seconde pendant 9s",
+      "description": "Recovers 3.2% HP every second for 9s",
       "category": "potion",
       "rarity": "uncommon"
     },
@@ -69,7 +69,7 @@
       "id": "advanced-rejuvenix-flask",
       "name": "Advanced Rejuvenix Flask",
       "iconName": "equip_medicine_1_1",
-      "description": "Récupère 4% PV chaque seconde pendant 9s",
+      "description": "Recovers 4% HP every second for 9s",
       "category": "potion",
       "rarity": "uncommon"
     },
@@ -77,7 +77,7 @@
       "id": "psyche-infusion",
       "name": "Psyche Infusion",
       "iconName": "equip_medicine_4_1",
-      "description": "Restaure 2.9% PM chaque seconde et augmente le taux de recharge des compétences de 30% pendant 9s",
+      "description": "Restores 2.9% MP every second and increases skill cooldown rate by 30% for 9s",
       "category": "potion",
       "rarity": "uncommon"
     },
@@ -85,7 +85,7 @@
       "id": "enhanced-psyche-infusion",
       "name": "Enhanced Psyche Infusion",
       "iconName": "equip_medicine_4_2",
-      "description": "Restaure 4.8% PM chaque seconde et augmente le taux de recharge des compétences de 40% pendant 9s",
+      "description": "Restores 4.8% MP every second and increases skill cooldown rate by 40% for 9s",
       "category": "potion",
       "rarity": "uncommon"
     },
@@ -93,7 +93,7 @@
       "id": "advanced-psyche-infusion",
       "name": "Advanced Psyche Infusion",
       "iconName": "equip_medicine_4_3",
-      "description": "Restaure 6.4% PM chaque seconde et augmente le taux de recharge des compétences de 50% pendant 9s",
+      "description": "Restores 6.4% MP every second and increases skill cooldown rate by 50% for 9s",
       "category": "potion",
       "rarity": "uncommon"
     },
@@ -101,7 +101,7 @@
       "id": "enhanced-warding-potion",
       "name": "Enhanced Warding Potion",
       "iconName": "equip_medicine_6_2",
-      "description": "Utiliser pour supprimer instantanément tous les débuffs et effets de dégâts dans le temps de soi, restaurer 25% PV. Augmente les Soins Reçus de 150% pendant 6s",
+      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 25% HP. Increases Healing Received by 150% for 6s",
       "category": "potion",
       "rarity": "epic"
     },
@@ -109,7 +109,7 @@
       "id": "advanced-warding-potion",
       "name": "Advanced Warding Potion",
       "iconName": "equip_medicine_6_3",
-      "description": "Utiliser pour supprimer instantanément tous les débuffs et effets de dégâts dans le temps de soi, restaurer 30% PV. Augmente les Soins Reçus de 200% pendant 6s",
+      "description": "Use to instantly remove all debuffs and DoT effects from self, restore 30% HP. Increases Healing Received by 200% for 6s",
       "category": "potion",
       "rarity": "epic"
     },
@@ -117,21 +117,21 @@
       "id": "stealth-potion",
       "name": "Stealth Potion",
       "iconName": "icon_Stealth",
-      "description": "Utiliser pour entrer en Furtivité pendant 8s.\nUtiliser une compétence, infliger ou subir des dégâts, ou infliger des soins brise la Furtivité.",
+      "description": "Use to enter Stealth for 8s.\nUsing a skill, dealing or taking damage, or inflicting healing breaks Stealth.",
       "category": "potion",
       "rarity": "rare"
     },
     {
       "id": "mass-haste-matrix",
       "name": "Mass Haste Matrix",
-      "description": "Augmente la Vitesse de Déplacement de 60% pour les alliés dans une certaine portée autour du lanceur, d'une durée de 9s.",
+      "description": "Increases Movement Speed by 60% for allies within a certain range around the caster, lasting 9s.",
       "category": "utility",
       "rarity": "rare"
     },
     {
       "id": "instant-aid-vial",
       "name": "Instant Aid Vial",
-      "description": "Utiliser pour restaurer instantanément 16% PV Max plus 1600 PV.",
+      "description": "Use to instantly restore 16% Max HP plus 1600 HP.",
       "category": "healing",
       "rarity": "rare"
     },
@@ -139,7 +139,7 @@
       "id": "aegis-draught",
       "name": "Aegis Draught",
       "iconName": "Invincible_Potion",
-      "description": "Utiliser pour supprimer et gagner l'immunité aux effets de Dégâts dans le Temps et de Débuffs. Pendant 6s, immunisé aux dégâts, Dégâts dans le Temps, Débuffs, et Contrôle, tout en infligeant 50% de dégâts réduits.",
+      "description": "Use to remove and gain immunity to Damage Over Time and Debuff effects. For 6s, immune to damage, Damage Over Time, Debuffs, and Control, while dealing 50% reduced damage.",
       "category": "protection",
       "rarity": "legendary"
     },
@@ -147,9 +147,10 @@
       "id": "frost-potion",
       "name": "Enhanced Frost Potion",
       "iconName": "equip_medicine_iceblock_2",
-      "description": "Utiliser ceci accorde Gelé et incapable d'agir, gagne [PV Max basé sur la cible 150%] Bouclier pendant 6s. Si le bouclier existe, Récupère\n[PV Max basé sur la cible 7%] PV par seconde.. Cette capacité peut encore être utilisée même quand les compétences sont désactivées.",
+      "description": "Using this grants Frozen and unable to act, gains [Target-based Max HP 150%] Shield for 6s. If the shield exists, Recovers\n[Target-based Max HP 7%] HP per second.. This ability can still be used even when skills are disabled.",
       "category": "protection",
       "rarity": "epic"
     }
   ]
 }
+

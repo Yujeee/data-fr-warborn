@@ -7,7 +7,8 @@
     "cooldown": "",
     "castingRange": "",
     "type": "passive",
-    "description": "Utiliser une compétence d'arme accorde [Cicatrice de Lance]: Les 4 prochaines Attaques de Base gagnent +60% de Vitesse d'Attaque, +2.5m de portée, et +30% de\nVol de Vie. Cet effet dure 6s.\nA aussi 35% de chance d'accorder  \n[PV Max basé sur la cible\n15%] Bouclier pendant 2s."  },
+    "description": "Using a weapon skill grants [Spear Scar]: The next 4 Basic Attacks gain +60% Attack Speed, +2.5m range, and +30%\nLifesteal. This effect lasts 6s.\nAlso has a 35% chance to grant  \n[Target-based Max HP\n15%] Shield for 2s."
+  },
   "basicAttacks": [
     {
       "gameId": "SpearAttack_3",
@@ -16,7 +17,8 @@
       "cooldown": "1",
       "castingRange": "7",
       "type": "basic",
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques à la cible. \nPeut lancer [Coup de Saut] toutes les 5s.\nCharge vers la cible ennemie, infligeant \n[Taux de Dégâts: 170%] Dégâts Physiques et augmentant la Vitesse d'Attaque de\n20% pendant 4s",      "tierUnlock": "2"
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage to the target. \nCan cast [Leap Strike] every 5s.\nCharges toward the enemy target, dealing \n[Damage Rate: 170%] Physical Damage and increasing Attack Speed by\n20% for 4s",
+      "tierUnlock": "2"
     },
     {
       "gameId": "SpearAttack_2",
@@ -25,7 +27,8 @@
       "cooldown": "1",
       "castingRange": "12",
       "type": "basic",
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 80%] Dégâts\nPhysiques à la cible. \nEffectue un [Lancer Surgissant] après 5 Attaques de Base.\nInflige \n[Taux de Dégâts: 180%] Dégâts Physiques et\naugmente la Vitesse de Déplacement de 20% pendant 2s",      "tierUnlock": "4"
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 80%] Physical\nDamage to the target. \nPerforms a [Surging Throw] after 5 Basic Attacks.\nDeals \n[Damage Rate: 180%] Physical Damage and\nincreases Movement Speed by 20% for 2s",
+      "tierUnlock": "4"
     },
     {
       "gameId": "SpearAttack_4",
@@ -34,7 +37,8 @@
       "cooldown": "1",
       "castingRange": "14",
       "type": "basic",
-      "description": "[Attaque de Base]:Inflige \n[Taux de Dégâts: 100%] Dégâts\nPhysiques à la cible. \nPeut lancer [Coup Balayant] toutes les 5s.\nInflige \n[Taux de Dégâts: 240%] Dégâts Physiques aux ennemis\nà portée. Gagne 6% de Résistance aux Dégâts pour chaque ennemi\ntouché, d'une durée de 4s. Se cumule jusqu'à 5 fois.",      "tierUnlock": "6"
+      "description": "[Basic Attack]:Deals \n[Damage Rate: 100%] Physical\nDamage to the target. \nCan cast [Sweeping Strike] every 5s.\nDeals \n[Damage Rate: 240%] Physical Damage to enemies\nin range. Gains 6% Damage Resistance for every enemy\nhit, lasting 4s. Stacks up to 5 times.",
+      "tierUnlock": "6"
     }
   ],
   "commonSkills": [
@@ -45,7 +49,8 @@
       "cooldown": "7.5",
       "castingRange": "7",
       "type": "common",
-      "description": "Poinçonne répétitivement les ennemis dans un cône frontal, infligeant \n[Taux de Dégâts: 60%] Dégâts Physiques par coup, puis\ntranche vers l'avant pour infliger \n[Taux de Dégâts: 130%] Dégâts\nPhysiques aux ennemis à portée.",      "tierUnlock": "1"
+      "description": "Repeatedly thrusts at enemies in a frontal cone, dealing \n[Damage Rate: 60%] Physical Damage per hit, then\nslashes forward to deal \n[Damage Rate: 130%] Physical\nDamage to enemies in range.",
+      "tierUnlock": "1"
     },
     {
       "gameId": "Spear_Common_Skill_4",
@@ -54,7 +59,8 @@
       "cooldown": "1.5",
       "castingRange": "12",
       "type": "common",
-      "description": "Lance une lance à l'emplacement ciblé, infligeant \n[Taux de Dégâts: 160%] Dégâts Physiques et réduisant la Vitesse de\nDéplacement de 25% pendant 3s aux ennemis à portée.\nLa lance reste à l'emplacement ciblé pendant 6s. Se déplacer vers\nson emplacement permet la récupération, accordant 20% de Vitesse de\nDéplacement et 20% de Vitesse d'Attaque pendant 4s.\nGagne 1 charge toutes les 12s, jusqu'à 2 charges",      "tierUnlock": "3"
+      "description": "Throws a lance at the target location, dealing \n[Damage Rate: 160%] Physical Damage and reducing Movement\nSpeed by 25% for 3s to enemies in range.\nThe lance remains at the target location for 6s. Moving to\nits location allows retrieval, granting 20% Movement\nSpeed and 20% Attack Speed for 4s.\nGains 1 charge every 12s, up to 2 charges",
+      "tierUnlock": "3"
     },
     {
       "gameId": "Spear_Common_Skill_3",
@@ -63,7 +69,8 @@
       "cooldown": "14",
       "castingRange": "4",
       "type": "common",
-      "description": "Canalise pendant 4s, gagnant l'Immunité au Contrôle et 60% de\nRésistance aux Dégâts. Pendant la canalisation, reflète 80% de\nDégâts Physiques aux attaquants quand on subit des dégâts.\nInflige \n[Taux de Dégâts: 40%] Dégâts Physiques aux ennemis\nproches chaque 0.5s.\nRelancer à nouveau pendant la canalisation pour charger vers l'avant, infligeant \n[Taux de Dégâts: 150%] Dégâts Physiques aux ennemis touchés\net réduisant leur Armure de 20% pendant 4s.",      "tierUnlock": "5"
+      "description": "Channels for 4s, gaining Control Immunity and 60%\nDamage Resistance. While channeling, reflects 80%\nPhysical Damage back to attackers when taking damage.\nDeals \n[Damage Rate: 40%] Physical Damage to nearby\nenemies every 0.5s.\nRecast again while channeling to charge forward, dealing \n[Damage Rate: 150%] Physical Damage to enemies hit\nand reducing their Armor by 20% for 4s.",
+      "tierUnlock": "5"
     },
     {
       "gameId": "Spear_Common_Skill_2",
@@ -72,7 +79,8 @@
       "cooldown": "14",
       "castingRange": "10",
       "type": "common",
-      "description": "Inflige \n[Taux de Dégâts: 150%] Dégâts Physiques aux ennemis\ndevant et cause Sursaut pendant 1s.\nPeut être relancé dans les 6s pour frapper vers le bas, infligeant \n[Taux de Dégâts: 150%] Dégâts Physiques aux ennemis à portée et\nrédit leur Vitesse de Déplacement de 45% pendant 3s",      "tierUnlock": "7"
+      "description": "Deals \n[Damage Rate: 150%] Physical Damage to enemies\nin front and inflicts Knockup for 1s.\nCan be recast within 6s to slam down, dealing \n[Damage Rate: 150%] Physical Damage to enemies in range and\nreducing their Movement Speed by 45% for 3s",
+      "tierUnlock": "7"
     },
     {
       "gameId": "Spear_Common_Skill_5",
@@ -81,7 +89,8 @@
       "cooldown": "14",
       "castingRange": "6",
       "type": "common",
-      "description": "Supprime instantanément les effets de Contrôle, inflige \n[Taux de Dégâts: 280%] Dégâts Physiques aux ennemis devant, et saute\nvers l'arrière de 8m. Augmente la Vitesse de Déplacement de 30% pendant 4s.\nPeut être utilisé même quand les compétences sont désactivées",      "tierUnlock": "8"
+      "description": "Instantly removes Control effects, deals \n[Damage Rate: 280%] Physical Damage to enemies in front, and leaps\nback 8m. Increases Movement Speed by 30% for 4s.\nCan be used while skills are disabled",
+      "tierUnlock": "8"
     }
   ],
   "skills": [
@@ -212,4 +221,4 @@
       }
     }
   ]
-}
+}

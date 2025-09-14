@@ -9,7 +9,8 @@
       "cooldown": "32",
       "castingRange": "6 ",
       "type": "skill",
-      "description": "Canalise pendant 2.5s, augmentant la Résistance aux Dégâts de 90%. Peut bouger pendant la canalisation mais la Vitesse est réduite de -90%",      "tierUnlock": "1",
+      "description": "Channels for 2.5s, increasing Damage Resistance by 90%. Can move during channeling but Speed is reduced by -90%",
+      "tierUnlock": "1",
       "rarity": "rare"
     },
     {
@@ -20,7 +21,8 @@
       "cooldown": "32",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "> Accorde un bouclier avec  \n[PV Max basé sur la cible 20%] Valeur de Bouclier aux alliés proches pendant 6s. Quand les PV sont en dessous de 40%, la Valeur de Bouclier augmente à  \n[PV Max basé sur la cible 35%].",      "tierUnlock": "1",
+      "description": "> Grants a shield with  \n[Target-based Max HP 20%] Shield Value to nearby allies for 6s. When HP is below 40%, the Shield Value increases to  \n[Target-based Max HP 35%].",
+      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -31,7 +33,8 @@
       "cooldown": "28",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "Inflige \n[Taux de Dégâts: 300%] Dégâts Physiques aux ennemis proches, les étourdissant pendant 1.5s et réduisant leur Vitesse de 40% pendant 4s.",      "tierUnlock": "1",
+      "description": "Deals \n[Damage Rate: 300%] Physical Damage to nearby enemies, stunning them for 1.5s and reducing their Speed by 40% for 4s.",
+      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -42,7 +45,8 @@
       "cooldown": "32",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "Sonne une corne de guerre, d'une durée de 5s. Les alliés dans un rayon de 7m gagnent 30% de Résistance aux Dégâts, 50 de Résistance au Contrôle, et l'immunité aux effets de Mouvement Forcé (Repoussement, Traction).",      "tierUnlock": "1",
+      "description": "Sounds a war horn, lasting 5s. Allies within 7m gain 30% Damage Resistance, 50 Control Resistance, and immunity to Forced Movement effects (Knockback, Pull).",
+      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -53,7 +57,8 @@
       "cooldown": "32",
       "castingRange": "16 ",
       "type": "skill",
-      "description": "Tire une corde de grappin qui inflige \n[Taux de Dégâts: 100%] Dégâts Physiques à la cible, l'Immobilise pendant 2s, et tire les deux vers le centre.",      "tierUnlock": "1",
+      "description": "Shoots a grappling rope that deals \n[Damage Rate: 100%] Physical Damage to the target, Immobilizes them for 2s, and pulls both toward the middle.",
+      "tierUnlock": "1",
       "rarity": "epic"
     },
     {
@@ -64,7 +69,8 @@
       "cooldown": "37",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "Augmente la Résistance aux Dégâts de 30% et crée un champ d'affaiblissement autour du lanceur, d'une durée de 6s. Les ennemis dans un rayon de 7m infligent 80% de dégâts en moins et ne peuvent pas entrer en Furtivité.",      "tierUnlock": "1",
+      "description": "Increases Damage Resistance by 30% and creates a weakening field around the caster, lasting 6s. Enemies within 7m deal 80% less damage and cannot enter Stealth.",
+      "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
         "armor": "331",
@@ -79,7 +85,8 @@
       "cooldown": "22",
       "castingRange": "7 ",
       "type": "skill",
-      "description": "Crée un champ de force convergent. Après 1.5s, inflige \n[Taux de Dégâts: 250%] Dégâts Physiques aux ennemis dans un rayon de 7m, les tire vers le centre, les Étourdit pendant 0.5s, et les Ralentit de 30% pendant 4s.",      "tierUnlock": "1",
+      "description": "Creates a converging force field. After 1.5s, deals \n[Damage Rate: 250%] Physical Damage to enemies within 7m, pulls them to the center, Stuns them for 0.5s, and Slows them by 30% for 4s.",
+      "tierUnlock": "1",
       "rarity": "legendary",
       "stats": {
         "armor": "331",
@@ -105,4 +112,4 @@
       }
     }
   ]
-}
+}

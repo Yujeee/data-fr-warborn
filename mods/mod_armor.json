@@ -6,7 +6,8 @@
       "iconName": "ArmorRare1",
       "rarity": "rare",
       "slot": "all",
-      "description": "Augmente les PV Max de %s1%",      "arguments": [
+      "description": "Increases Max HP by %s1%",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[60~300]"
@@ -18,7 +19,8 @@
       "iconName": "ArmorRare2",
       "rarity": "rare",
       "slot": "all",
-      "description": "Augmente l'Armure de %s1%",      "arguments": [
+      "description": "Increases Armor by %s1%",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[4.8~24]"
@@ -30,7 +32,8 @@
       "iconName": "ArmorRare3",
       "rarity": "rare",
       "slot": "all",
-      "description": "Augmente la Résistance Magique de %s1%",      "arguments": [
+      "description": "Increases Magic Resistance by %s1%",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[4.8~24]"
@@ -42,7 +45,8 @@
       "iconName": "ArmorRare4",
       "rarity": "rare",
       "slot": "all",
-      "description": "Augmente les PM Max de %s1%",      "arguments": [
+      "description": "Increases Max MP by %s1%",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[4~20]"
@@ -54,7 +58,8 @@
       "iconName": "ArmorEpic1",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on subit des dégâts directs d'Attaques de Base, a (armes de mêlée %s1% / armes à distance %s2%) chance d'augmenter la Vitesse d'Attaque de l'attaquant de\n-%s3% pendant 4s. Intervalle de Déclenchement: 30s",      "arguments": [
+      "description": "When taking direct damage from Basic Attacks, has a (melee weapons %s1% / ranged weapons %s2%) chance to increase the attacker's Attack Speed by\n-%s3% for 4s. Trigger Interval: 30s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[10%~20%]"
@@ -74,7 +79,8 @@
       "iconName": "ArmorEpic2",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on subit des Dégâts Physiques directs, a \n%s1% chance d'augmenter l'Armure de %s2% pendant 4s. Intervalle de Déclenchement: 30s.",      "arguments": [
+      "description": "When taking direct Physical Damage, has a \n%s1%chance to increase Armor by %s2% for 4s. Trigger Interval: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[17%~35%]"
@@ -90,7 +96,8 @@
       "iconName": "ArmorEpic3",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on est affecté par des effets de contrôle dur (Étourdissement, Peur,\nGelé, Sursaut, Pétrification), a %s1% chance d'\naugmenter la Résistance au Contrôle de Foule de %s2% pendant 4s.\nTemps de Recharge: 30s",      "arguments": [
+      "description": "When affected by hard control effects (Stun, Fear,\nFrozen, Knockup, Petrify), has a %s1% chance to\nincrease Crowd Control Resistance by %s2% for 4s.\nCooldown: 30s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[17%~35%]"
@@ -106,7 +113,8 @@
       "iconName": "ArmorEpic4",
       "rarity": "epic",
       "slot": "all",
-      "description": "Subir des dégâts directs d'Attaques de Base a une\nchance (%s2% pour armes à distance / %s1% pour armes de mêlée\n) d'accorder un buff pendant 5s: Subir des dégâts directs\nd'Attaques de Base a une chance (%s2% pour\narmes à distance / %s1% pour armes de mêlée) d'infliger\n%s3% Dégâts Physiques à l'attaquant.\nIntervalle de Déclenchement: 25s.",      "arguments": [
+      "description": "Taking direct damage from Basic Attacks has a\nchance (%s2% for ranged weapons / %s1% for melee\nweapons) to grant a buff for 5s: Taking direct\ndamage from Basic Attacks has a chance (%s2% for\nranged weapons / %s1% for melee weapons) to deal\n%s3% Physical Damage to the attacker.\nTrigger Interval: 25s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[10%~20%]"
@@ -126,7 +134,8 @@
       "iconName": "ArmorEpic5",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on subit des dégâts directs d'Attaques de Base, a\n%s1% chance d'augmenter la Vitesse d'Attaque de %s2% pendant\n5s.\nIntervalle de Déclenchement: 30s.",      "arguments": [
+      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to increase Attack Speed by %s2% for\n5s.\nTrigger Interval: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[20%~40%]"
@@ -142,7 +151,8 @@
       "iconName": "ArmorEpic6",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on est touché par un coup critique, a %s1% chance\n d'augmenter la Chance Critique d'Attaque de Base\n de %s2% pendant 5s.\nIntervalle de Déclenchement: 30s.",      "arguments": [
+      "description": "When hit by a critical hit, has %s1% chance\n to increase Basic Attack's Critical Chance\n by %s2% for 5s.\nTrigger Interval: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[20%~40%]"
@@ -158,7 +168,8 @@
       "iconName": "ArmorEpic7",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on est touché par des Dégâts Magiques, a %s1% chance d'\naugmenter la Résistance Magique de %s2% pendant 4s.\nIntervalle de Déclenchement: 30s.",      "arguments": [
+      "description": "When hit by Magic Damage, has a %s1% chance to\nincrease Magic Resistance by %s2% for 4s.\nTrigger Interval: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[17%~35%]"
@@ -174,7 +185,8 @@
       "iconName": "ArmorEpic8",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on subit des dégâts directs de compétences, a %s1%\nchance de gagner  \n[PV Max basé sur la cible %s2%] Points de\nBouclier pendant 4s.\nIntervalle de Déclenchement: 30s.",      "arguments": [
+      "description": "When taking direct damage from skills, has a %s1%\nchance to gain  \n[Target-based Max HP %s2%] Shield\nPoints for 4s.\nTrigger Interval: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[17%~35%]"
@@ -190,7 +202,8 @@
       "iconName": "ArmorEpic9",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on subit des dégâts directs de compétences, a %s1%\nchance de restaurer %s2% PV et %s3% PM.\nIntervalle de Déclenchement: 30s.",      "arguments": [
+      "description": "When taking direct damage from skills, has a %s1%\nchance to restore %s2% HP and %s3% MP.\nTrigger Interval: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[15%~30%]"
@@ -210,7 +223,8 @@
       "iconName": "ArmorEpic10",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on gagne un Bouclier, %s1% chance d'augmenter\nle Taux Critique d'Attaque de Base de %s2% pendant 4s\nTemps de Recharge: 30s.",      "arguments": [
+      "description": "When gaining a Shield, %s1% chance to increase\nBasic Attack Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[8%~40%]"
@@ -226,7 +240,8 @@
       "iconName": "ArmorEpic11",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on gagne un Bouclier, %s1% chance d'augmenter\nle Taux Critique de Compétence de %s2% pendant 4s\nTemps de Recharge: 30s.",      "arguments": [
+      "description": "When gaining a Shield, %s1% chance to increase\nSkill Critical Rate by %s2% for 4s\nCooldown: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[8%~40%]"
@@ -242,7 +257,8 @@
       "iconName": "ArmorEpic12",
       "rarity": "epic",
       "slot": "all",
-      "description": "Quand on esquive une Attaque de Base, %s1% chance de\nsoigner de %s2%.\nTemps de Recharge: 20s.",      "arguments": [
+      "description": "When dodging a Basic Attack, %s1% chance to\nheal for %s2%.\nCooldown: 20s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[10%~50%]"
@@ -258,7 +274,8 @@
       "iconName": "ArmorExclusiveLgdr1",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "Quand on utilise des compétences de Torse, inflige \n[Taux de Dégâts: %s1%] Dégâts Magiques aux ennemis proches\net réduit leur Vitesse de Déplacement de %s3% et\nles dégâts infligés de %s2% pendant 4s.\nIntervalle de Déclenchement: 10s",      "arguments": [
+      "description": "When using Chest skills, deals \n[Damage Rate: %s1%] Magic Damage to nearby enemies\nand reduces their Movement Speed by %s3% and\ndamage dealt by %s2% for 4s.\nTrigger Interval: 10s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[12%~60%]"
@@ -278,7 +295,8 @@
       "iconName": "ArmorExclusiveLgdr2",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "Quand on utilise des compétences de Torse, détonne après 1s pour infliger \n[Taux de Dégâts: %s1%] Dégâts\nPhysiques aux ennemis proches et modifier la Vitesse\nd'Attaque de %s2% pendant 4s.\nIntervalle de Déclenchement: 10s",      "arguments": [
+      "description": "When using Chest skills, detonates after 1s to deal \n[Damage Rate: %s1%] Physical\nDamage to nearby enemies and modify Attack\nSpeed by %s2% for 4s.\nTrigger Interval: 10s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[20%~100%]"
@@ -294,7 +312,8 @@
       "iconName": "ArmorExclusiveLgdr3",
       "rarity": "legendary",
       "slot": "Chest",
-      "description": "Quand on utilise des compétences de Torse, restaure %s1% PV et \n %s2% PM aux alliés proches.\nIntervalle de Déclenchement: 10s.",      "arguments": [
+      "description": "When using Chest skills, restores %s1% HP and \n %s2%MP to nearby allies.\nTrigger Interval: 10s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[1.3%~6.5%]"
@@ -310,7 +329,8 @@
       "iconName": "ArmorExclusiveLgdr4",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "Quand on utilise des Compétences de Bottes, le personnage gagne une\nvaleur de Bouclier supplémentaire de  \n[PV Max basé sur la cible %s1%]\npendant 4s.\nIntervalle de Déclenchement: 20s",      "arguments": [
+      "description": "When using Boots Skills, the character gains an\nadditional  \n[Target-based Max HP %s1%] Shield Value\nfor 4s.\nTrigger Interval: 20s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[4%~20%]"
@@ -322,7 +342,8 @@
       "iconName": "ArmorExclusiveLgdr5",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "Quand on utilise des compétences de Bottes,\n lance un piège à vos pieds;\n Quand déclenché par un ennemi,\n inflige \n[Taux de Dégâts: %s1%] Dégâts Physiques\n et les étourdit pendant %s2%.\nIntervalle de Déclenchement: 20s",      "arguments": [
+      "description": "When using Boots skills,\n throw a trap at your feet;\n When triggered by an enemy,\n deal \n[Damage Rate: %s1%] Physical Damage\n and stuns them for %s2%.\nTrigger Interval: 20s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[12%~60%]"
@@ -338,7 +359,8 @@
       "iconName": "ArmorExclusiveLgdr6",
       "rarity": "legendary",
       "slot": "Boots",
-      "description": "Quand on utilise des compétences de Bottes, restaure %s1% PV et\ndevient immunisé aux effets de contrôle pendant 2s.\nTemps de Recharge: 20s",      "arguments": [
+      "description": "When using Boot skills, restores %s1% HP and\nbecomes immune to control effects for 2s.\nCooldown: 20s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[0.9%~4.5%]"
@@ -350,7 +372,8 @@
       "iconName": "ArmorLgdr1",
       "rarity": "legendary",
       "slot": "all",
-      "description": "Quand on est affecté par des effets de contrôle dur (Étourdissement, Peur,\nGel, Sursaut, Pétrification), a %s1% chance de lancer\nun Mugissement qui inflige \n[Taux de Dégâts: %s2%]\n Dégâts Physiques aux ennemis\nproches et inflige Peur pendant 1.5s.\nIntervalle de Déclenchement: 30s.",      "arguments": [
+      "description": "When affected by hard control effects (Stun, Fear,\nFreeze, Knockup, Petrify), has a %s1% chance to cast\na Bellow that deals \n[Damage Rate: %s2%]\n Physical Damage to nearby\nenemies and inflicts Fear for 1.5s.\nTrigger Interval: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[17%~35%]"
@@ -366,7 +389,8 @@
       "iconName": "ArmorLgdr2",
       "rarity": "legendary",
       "slot": "all",
-      "description": "Quand on subit des dégâts directs d'Attaques de Base, a\n%s1% chance de déclencher: pour les 5 prochaines secondes,\ntout dégât direct d'Attaques de Base reflète %s2%\nDégâts Magiques à l'attaquant et modifie leur\nArmure de %s3% pendant 4s.\nTemps de Recharge: 25s.",      "arguments": [
+      "description": "When taking direct damage from Basic Attacks, has\na %s1% chance to trigger: for the next 5 seconds,\nany direct damage from Basic Attacks reflects %s2%\nMagic Damage to the attacker and modifies their\nArmor by %s3% for 4s.\nCooldown: 25s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[15%~30%]"
@@ -386,7 +410,8 @@
       "iconName": "ArmorLgdr3",
       "rarity": "legendary",
       "slot": "all",
-      "description": "Quand on subit des dégâts directs de compétences, a %s1%\nchance d'infliger \n[Taux de Dégâts: %s2%] Dégâts Magiques\n à toutes les cibles ennemies dans la portée de la source de dégâts,\n drainer %s4% PM, et\nréduire les dégâts qu'elles infligent de %s3% pendant 4s.\nIntervalle de Déclenchement: 30s",      "arguments": [
+      "description": "When taking direct damage from skills, has a %s1%\nchance to deal \n[Damage Rate: %s2%] Magic Damage\n to all enemy targets within the damage source's range,\n drain %s4% MP, and\nreduce the damage they deal by %s3% for 4s.\nTrigger Interval: 30s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[15%~30%]"
@@ -410,7 +435,8 @@
       "iconName": "ArmorLgdr4",
       "rarity": "legendary",
       "slot": "all",
-      "description": "Quand on subit des dégâts égaux à plus de 25%\ndes PV Max dans les 2s, %s1% chance de récupérer %s2%\nPV et gagner l'Immunité aux Dégâts pendant %s3%\nTemps de Recharge: 30s.",      "arguments": [
+      "description": "When taking damage equal to more than 25%\nMax HP within 2s, %s1% chance to recover %s2%\nHP and gain Damage Immunity for %s3%\nCooldown: 30s.",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[6%~30%]"
@@ -430,7 +456,8 @@
       "iconName": "ArmorLgdr5",
       "rarity": "legendary",
       "slot": "all",
-      "description": "Quand on est affecté par des effets de Contrôle Dur (Étourdissement, Peur, Gel, Sursaut, Pétrification, Sommeil), %s1% chance d'augmenter le Taux de Résistance au Contrôle de Foule de %s2% pendant 4s\nTemps de Recharge: 30s",      "arguments": [
+      "description": "When affected by Hard Control effects (Stun, Fear, Freeze, Knockup, Petrify, Sleep), %s1% chance to increase Crowd Control Resistance Rate by %s2% for 4s\nCooldown: 30s",
+      "arguments": [
         {
           "argumentName": "s1",
           "argumentRange": "[6%~30%%]"
@@ -442,4 +469,4 @@
       ]
     }
   ]
-}
+}
